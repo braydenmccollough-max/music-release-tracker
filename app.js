@@ -86,12 +86,33 @@ function formatDate(dateString) {
   }).format(new Date(`${dateString}T00:00:00`));
 }
 
+function escapeHtml(value) {
+  return String(value ?? "")
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
+}
+
 function normalizeRelease(release) {
   const genre = inferGenre(release);
-  const status = release.status || getStatus(release.releaseDate);
+  const status = getStatus(release.releaseDate);
+
+  // Backward compatibility with older data where title was "Artist — Release".
+  let artist = release.artist || "";
+  let title = release.title || "Untitled release";
+  if (!artist && title.includes(" — ")) {
+    const parts = title.split(" — ");
+    artist = parts.shift();
+    title = parts.join(" — ");
+  }
 
   return {
     ...release,
+    artist,
+    title,
+    releaseType: release.releaseType || release.type || "Release",
     genre,
     status
   };
@@ -112,11 +133,22 @@ function renderTabs() {
 }
 
 function getFilteredReleases() {
+  const search = state.search.toLowerCase().trim();
+
   return state.releases
     .filter((release) => state.activeGenre === "All" || release.genre === state.activeGenre)
     .filter((release) => state.status === "all" || release.status === state.status)
-    .filter((release) => release.title.toLowerCase().includes(state.search.toLowerCase()))
-    .sort((a, b) => new Date(b.releaseDate) - new Date(a.releaseDate));
+    .filter((release) => {
+      if (!search) return true;
+      return [release.artist, release.title, release.genre, release.releaseType]
+        .filter(Boolean)
+        .some((value) => value.toLowerCase().includes(search));
+    })
+    .sort((a, b) => {
+      if (a.status === "Upcoming" && b.status !== "Upcoming") return -1;
+      if (b.status === "Upcoming" && a.status !== "Upcoming") return 1;
+      return new Date(b.releaseDate) - new Date(a.releaseDate);
+    });
 }
 
 function statusClass(status) {
@@ -132,8 +164,12 @@ function renderCards() {
   elements.grid.innerHTML = releases.map((release) => `
     <article class="release-card">
       <div>
-        <span class="card-label">Song / Album Name</span>
-        <h3 class="release-title">${release.title}</h3>
+        <div class="release-meta-row">
+          <span class="card-label">${escapeHtml(release.releaseType)}</span>
+          <span class="genre-chip">${escapeHtml(release.genre)}</span>
+        </div>
+        <p class="release-artist">${escapeHtml(release.artist || "Unknown artist")}</p>
+        <h3 class="release-title">${escapeHtml(release.title)}</h3>
       </div>
       <div>
         <p class="release-date"><strong>Release date:</strong> ${formatDate(release.releaseDate)}</p>
@@ -172,9 +208,12 @@ function render() {
 
 async function loadData() {
   try {
-    const response = await fetch("data/releases.json", { cache: "no-store" });
+    const response = await fetch(`data/releases.json?v=${Date.now()}`, { cache: "no-store" });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
-    state.releases = (data.releases || []).map(normalizeRelease);
+    state.releases = (data.releases || [])
+      .filter((release) => release.releaseDate)
+      .map(normalizeRelease);
     elements.lastUpdated.textContent = data.updatedAt
       ? formatDate(data.updatedAt.slice(0, 10))
       : "Not updated yet";

@@ -310,3 +310,56 @@ select:focus {
     margin-top: 8px;
   }
 }
+
+
+.release-meta-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.genre-chip {
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  padding: 5px 8px;
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 700;
+}
+
+.release-artist {
+  margin: 18px 0 0;
+  color: #c9ccff;
+  font-size: 0.9rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+}
+
+@media (max-width: 900px) {
+  .hero,
+  .toolbar,
+  .release-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .release-grid {
+    gap: 14px;
+  }
+}
+
+@media (max-width: 620px) {
+  .page-shell {
+    width: min(100% - 20px, 1180px);
+    padding-top: 22px;
+  }
+
+  .stats-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .section-heading {
+    align-items: start;
+    flex-direction: column;
+  }
+}

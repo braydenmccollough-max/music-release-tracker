@@ -46,7 +46,7 @@ The website calculates status from the release date:
 
 ## Free data sources
 
-The weekly updater uses:
+The daily updater uses:
 
 1. **Public Apple Music playlist pages** to try to pull visible Featured Artists.
 2. **config/artists.json** as your editable starter artist list.
@@ -85,12 +85,12 @@ Example:
 { "name": "Zach Bryan", "genreHints": ["Country", "Americana"] }
 ```
 
-## Weekly automatic refresh
+## Daily automatic refresh
 
 The GitHub Actions workflow is here:
 
 ```text
-.github/workflows/weekly-release-check.yml
+.github/workflows/daily-release-check.yml
 ```
 
 It is set to run every Friday morning. When it runs, it updates:
@@ -141,10 +141,10 @@ The easiest free route is:
 4. In the repo, go to **Settings → Pages**.
 5. Set GitHub Pages to serve from the main branch.
 6. Go to **Actions** and enable workflows if GitHub asks.
-7. Run **Weekly Release Check** manually once, then let it refresh every Friday.
+7. Run **Daily Release Check** manually once, then let it refresh every Friday.
 
 ## Important free-version limitation
 
 The free version is not as perfect as the paid Apple Music API version. It cannot fully sync your private/personal Apple Music playlist contents. It tracks artists from the editable artist list and any visible public playlist artist data it can find.
 
-For a no-cost setup, this is the best realistic version: free hosting, free weekly automation, and free public music data.
+For a no-cost setup, this is the best realistic version: free hosting, free daily automation, and free public music data.
