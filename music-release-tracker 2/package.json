@@ -1,0 +1,14 @@
+{
+  "name": "music-release-tracker",
+  "version": "2.0.0-free",
+  "private": true,
+  "description": "Free genre-based music release tracker website with weekly GitHub Actions automation.",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "update": "node scripts/updateReleases.js",
+    "check": "node --check scripts/updateReleases.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
