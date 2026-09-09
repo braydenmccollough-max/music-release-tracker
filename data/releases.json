@@ -1,4 +1,997 @@
 {
-  "updatedAt": null,
-  "releases": []
+  "updatedAt": "2026-09-09T05:15:22.385Z",
+  "settings": {
+    "dataSources": [
+      "iTunes Search API",
+      "MusicBrainz"
+    ],
+    "country": "US",
+    "lookBackDays": 90,
+    "lookAheadDays": 365,
+    "trackedArtistCount": 152,
+    "releaseCount": 121,
+    "genres": [
+      "Rap",
+      "Rock",
+      "Pop",
+      "Metal",
+      "Country",
+      "Alternative",
+      "Grunge",
+      "R&B/Soul",
+      "Americana",
+      "Reggae",
+      "Other"
+    ]
+  },
+  "releases": [
+    {
+      "id": "itunes:6781405825",
+      "title": "Waylon Jennings — Diamonds",
+      "releaseDate": "2026-11-13",
+      "genre": "Country",
+      "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6786070473",
+      "title": "Asia — Indigo",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801587846",
+      "title": "George Michael — The Faith Tour",
+      "releaseDate": "2026-11-06",
+      "genre": "Pop",
+      "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801395086",
+      "title": "Frank Sinatra — Sinatra At The Sands",
+      "releaseDate": "2026-10-23",
+      "genre": "Pop",
+      "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6799280805",
+      "title": "Flatland Cavalry — Work of Heart - Heartstrings",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:e9df70d5-201b-4697-9c2e-6f592902a947",
+      "title": "Gavin Adcock — The Day I Hang It Up",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Upcoming",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "itunes:1894015990",
+      "title": "Europe — Come This Madness",
+      "releaseDate": "2026-09-25",
+      "genre": "Rock",
+      "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6775448742",
+      "title": "Echo & The Bunnymen — Apples For Isaac",
+      "releaseDate": "2026-09-18",
+      "genre": "Alternative",
+      "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6773766930",
+      "title": "Nicholas Jamerson — Rabbit Holes (Vol. 1)",
+      "releaseDate": "2026-09-11",
+      "genre": "Americana",
+      "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6802809817",
+      "title": "David Allan Coe — You Never Even Called Me by My Name",
+      "releaseDate": "2026-09-06",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6804917226",
+      "title": "Empire Of The Sun — DNA (Ian Asher Remix)",
+      "releaseDate": "2026-09-04",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:89db81af-f966-47e6-8b0a-1b20d6873a55",
+      "title": "Flatland Cavalry — Strangers & Angels",
+      "releaseDate": "2026-09-04",
+      "genre": "Country",
+      "status": "New",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "itunes:6805223795",
+      "title": "Gavin Adcock — One Hell Of A Steal",
+      "releaseDate": "2026-09-04",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:4e143a7a-dccc-46a8-870e-a37156dacd8e",
+      "title": "Gotye — Somebody That I Used To Know (ARTBAT x David Guetta Mix)",
+      "releaseDate": "2026-09-04",
+      "genre": "Pop",
+      "status": "New",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "itunes:6801587846",
+      "title": "George Michael — Father Figure (Live in Paris, 1988)",
+      "releaseDate": "2026-09-01",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6776371718",
+      "title": "Bob Marley & The Wailers — I Shot The Sheriff (Live At The Hammersmith Odeon, London, UK - June, 1976)",
+      "releaseDate": "2026-08-28",
+      "genre": "Reggae",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6776371718",
+      "title": "Bob Marley & The Wailers — Roots, Rock, Reggae (Live At The Hammersmith Odeon, London, UK - June 1976)",
+      "releaseDate": "2026-08-28",
+      "genre": "Reggae",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6805208170",
+      "title": "Gavin Adcock — Anymore",
+      "releaseDate": "2026-08-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6803169033",
+      "title": "Marilyn Manson — You Can't Die Young",
+      "releaseDate": "2026-08-28",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6770157154",
+      "title": "Night Ranger — (You Can Still) Rock in America (2026)",
+      "releaseDate": "2026-08-28",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6770157154",
+      "title": "Night Ranger — Best Of",
+      "releaseDate": "2026-08-28",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6770157154",
+      "title": "Night Ranger — Breakout (2026)",
+      "releaseDate": "2026-08-28",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6770157154",
+      "title": "Night Ranger — Don't Tell Me You Love Me (2026)",
+      "releaseDate": "2026-08-28",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6770157154",
+      "title": "Night Ranger — Four in the Morning (2026)",
+      "releaseDate": "2026-08-28",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6770157154",
+      "title": "Night Ranger — Sister Christian (2026)",
+      "releaseDate": "2026-08-28",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6770157154",
+      "title": "Night Ranger — When You Close Your Eyes (2026)",
+      "releaseDate": "2026-08-28",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6794550717",
+      "title": "U2 — Yeah, Yeah, Yeah, Yeah, Yeah",
+      "releaseDate": "2026-08-28",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1895813257",
+      "title": "David Allan Coe — Mary Magdeline",
+      "releaseDate": "2026-08-21",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1895813257",
+      "title": "David Allan Coe — Texas Moon (Deluxe Edition)",
+      "releaseDate": "2026-08-21",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6803626387",
+      "title": "Gavin Adcock — Having One Now",
+      "releaseDate": "2026-08-21",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6772364953",
+      "title": "Weezer — C.E.O.",
+      "releaseDate": "2026-08-21",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6772364953",
+      "title": "Weezer — Don't Make It Weird",
+      "releaseDate": "2026-08-21",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6772364953",
+      "title": "Weezer — Say Yes",
+      "releaseDate": "2026-08-21",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6772364953",
+      "title": "Weezer — The Show Must Go On",
+      "releaseDate": "2026-08-21",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6772364953",
+      "title": "Weezer — Up In the Clouds",
+      "releaseDate": "2026-08-21",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6772364953",
+      "title": "Weezer — Weezer",
+      "releaseDate": "2026-08-21",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6775448742",
+      "title": "Echo & The Bunnymen — The Light That Surrounds You",
+      "releaseDate": "2026-08-18",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792083077",
+      "title": "Fontaines D.C. — Marianne",
+      "releaseDate": "2026-08-18",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Shoes",
+      "releaseDate": "2026-08-14",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6803169033",
+      "title": "Marilyn Manson — All The Vilest Things",
+      "releaseDate": "2026-08-14",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6803169033",
+      "title": "Marilyn Manson — Don't Answer The Door",
+      "releaseDate": "2026-08-14",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6803169033",
+      "title": "Marilyn Manson — Enantiomorph",
+      "releaseDate": "2026-08-14",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6803169033",
+      "title": "Marilyn Manson — Lucifer's Teardrop",
+      "releaseDate": "2026-08-14",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6803169033",
+      "title": "Marilyn Manson — None of the Suns",
+      "releaseDate": "2026-08-14",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6803169033",
+      "title": "Marilyn Manson — The Arsonist",
+      "releaseDate": "2026-08-14",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6803169033",
+      "title": "Marilyn Manson — Unalive",
+      "releaseDate": "2026-08-14",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792943664",
+      "title": "The Rose Hips — Ahead of the Gun",
+      "releaseDate": "2026-08-13",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792943664",
+      "title": "The Rose Hips — Into The Garden",
+      "releaseDate": "2026-08-13",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792943664",
+      "title": "The Rose Hips — Makes No Difference",
+      "releaseDate": "2026-08-13",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792943664",
+      "title": "The Rose Hips — Out of Sight",
+      "releaseDate": "2026-08-13",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792943664",
+      "title": "The Rose Hips — The Distance",
+      "releaseDate": "2026-08-13",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Workin' Man",
+      "releaseDate": "2026-08-07",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:9ae594c4-b2c6-4c50-ba49-04912e727ea0",
+      "title": "Koe Wetzel — Jaded",
+      "releaseDate": "2026-08-07",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "itunes:6782993734",
+      "title": "Nicholas Jamerson — Goodbye Brother",
+      "releaseDate": "2026-08-07",
+      "genre": "Americana",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:025d663b-d0cf-434e-a771-95963b90eff5",
+      "title": "Rebelution — Let Go",
+      "releaseDate": "2026-08-07",
+      "genre": "Reggae",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "itunes:1886265303",
+      "title": "The Charlie Daniels Band — The Best Of The Charlie Daniels Band Volunteer Jam (Live)",
+      "releaseDate": "2026-08-07",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1886265303",
+      "title": "The Charlie Daniels Band — Uneasy Rider - Volunteer Jam XII (Live)",
+      "releaseDate": "2026-08-07",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6796491425",
+      "title": "INXS — Deepest Red",
+      "releaseDate": "2026-08-03",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6794032328",
+      "title": "Plain White T's — Hey There Delilah (feat. LØLØ)",
+      "releaseDate": "2026-07-31",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1896261802",
+      "title": "Charles Wesley Godwin — Brand New",
+      "releaseDate": "2026-07-24",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1896261802",
+      "title": "Charles Wesley Godwin — Christian Name",
+      "releaseDate": "2026-07-24",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1896261802",
+      "title": "Charles Wesley Godwin — Every Once In A While",
+      "releaseDate": "2026-07-24",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1896261802",
+      "title": "Charles Wesley Godwin — God's Been Good To Me",
+      "releaseDate": "2026-07-24",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1896261802",
+      "title": "Charles Wesley Godwin — Gospel Of The South",
+      "releaseDate": "2026-07-24",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1896261802",
+      "title": "Charles Wesley Godwin — Hallelujah High",
+      "releaseDate": "2026-07-24",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1896261802",
+      "title": "Charles Wesley Godwin — I Caught The Sunrise",
+      "releaseDate": "2026-07-24",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1896261802",
+      "title": "Charles Wesley Godwin — Place I Know",
+      "releaseDate": "2026-07-24",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1896261802",
+      "title": "Charles Wesley Godwin — Sermon",
+      "releaseDate": "2026-07-24",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1896261802",
+      "title": "Charles Wesley Godwin — Street Advice",
+      "releaseDate": "2026-07-24",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1896261802",
+      "title": "Charles Wesley Godwin — Try Again",
+      "releaseDate": "2026-07-24",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — The Day I Hang It Up",
+      "releaseDate": "2026-07-17",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1895184628",
+      "title": "Loathe — A Stranger To You",
+      "releaseDate": "2026-07-17",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1895184628",
+      "title": "Loathe — Block Of Flats (feat. Static Dress)",
+      "releaseDate": "2026-07-17",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1895184628",
+      "title": "Loathe — Entrance (feat. bucki sugar)",
+      "releaseDate": "2026-07-17",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1895184628",
+      "title": "Loathe — Fangs",
+      "releaseDate": "2026-07-17",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1895184628",
+      "title": "Loathe — Fortress Down",
+      "releaseDate": "2026-07-17",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1895184628",
+      "title": "Loathe — Gemini",
+      "releaseDate": "2026-07-17",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1895184628",
+      "title": "Loathe — Gifted Every Strength",
+      "releaseDate": "2026-07-17",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1895184628",
+      "title": "Loathe — Harder To Pretend",
+      "releaseDate": "2026-07-17",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1895184628",
+      "title": "Loathe — Meet My Maker",
+      "releaseDate": "2026-07-17",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1895184628",
+      "title": "Loathe — No Stranger To You...",
+      "releaseDate": "2026-07-17",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1895184628",
+      "title": "Loathe — Nothing Like The Knife",
+      "releaseDate": "2026-07-17",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1895184628",
+      "title": "Loathe — The Ladder (feat. Jordan Rakei)",
+      "releaseDate": "2026-07-17",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1698206288",
+      "title": "Mike Posner — Crazy Rainbow",
+      "releaseDate": "2026-07-17",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1698206288",
+      "title": "Mike Posner — Peach (with Alec Benjamin)",
+      "releaseDate": "2026-07-17",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1698206288",
+      "title": "Mike Posner — Stronger (with Adam Friedman)",
+      "releaseDate": "2026-07-17",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1698206288",
+      "title": "Mike Posner — Unfamiliar Moon (with Vance Gilbert)",
+      "releaseDate": "2026-07-17",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:cbdf1cbc-170a-47a8-af5f-2a29ad274285",
+      "title": "Slightly Stoopid — Backseat Drivin'",
+      "releaseDate": "2026-07-17",
+      "genre": "Reggae",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "itunes:6775448742",
+      "title": "Echo & The Bunnymen — Brussels Is Haunted",
+      "releaseDate": "2026-07-16",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6789364352",
+      "title": "Billy Idol — Eyes Without A Face (Live from Apple Music Studios)",
+      "releaseDate": "2026-07-14",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6789364352",
+      "title": "Billy Idol — White Wedding (Live from Apple Music Studios)",
+      "releaseDate": "2026-07-14",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:492c2054-ff01-435e-b54f-fcf75a3b3c9c",
+      "title": "Baby Smoove — Baby 2",
+      "releaseDate": "2026-07-11",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "itunes:6786888877",
+      "title": "Cage the Elephant — Beaches In Tennessee",
+      "releaseDate": "2026-07-10",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6784327271",
+      "title": "Future — Hollywood",
+      "releaseDate": "2026-07-10",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790487991",
+      "title": "Future — The Real Me",
+      "releaseDate": "2026-07-10",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6782992749",
+      "title": "Nicholas Jamerson — Fly",
+      "releaseDate": "2026-07-10",
+      "genre": "Americana",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6780706269",
+      "title": "The Rose Hips — Harder to Stand",
+      "releaseDate": "2026-07-10",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6774729762",
+      "title": "U2 — Street Of Dreams",
+      "releaseDate": "2026-07-07",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:01e8ecd0-a71b-404a-89e2-32c5b03c5dc3",
+      "title": "Rylo Rodriguez — S.K.A.T.E.",
+      "releaseDate": "2026-07-03",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "itunes:6785648282",
+      "title": "The Charlie Daniels Band — The Devil Went Down to Georgia (America's 250th)",
+      "releaseDate": "2026-07-03",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6779101279",
+      "title": "John Lennon — Love (Meditation Mixes)",
+      "releaseDate": "2026-07-02",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6779665406",
+      "title": "Duran Duran — Free to Love: Hot Star Remixes (feat. Nile Rodgers)",
+      "releaseDate": "2026-06-26",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6781869021",
+      "title": "Koe Wetzel — Bad Decisions",
+      "releaseDate": "2026-06-26",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6781869021",
+      "title": "Koe Wetzel — Magnet",
+      "releaseDate": "2026-06-26",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6781869021",
+      "title": "Koe Wetzel — Meet You There",
+      "releaseDate": "2026-06-26",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6774802935",
+      "title": "Rebelution — Rock With Me",
+      "releaseDate": "2026-06-26",
+      "genre": "Reggae",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:bc8cdd6d-7d31-490c-9020-73827869e6bc",
+      "title": "Turnpike Troubadours — Feelin’ Good Again",
+      "releaseDate": "2026-06-26",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "itunes:6781882270",
+      "title": "Vincent Mason — What You Want",
+      "releaseDate": "2026-06-25",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6781461059",
+      "title": "Tame Impala — Hummer",
+      "releaseDate": "2026-06-23",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1894893377",
+      "title": "Judas Priest — The Best of Judas Priest",
+      "releaseDate": "2026-06-19",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6780657057",
+      "title": "The Charlie Daniels Band — My Home",
+      "releaseDate": "2026-06-17",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6773438042",
+      "title": "Duran Duran — Free to Love (Harrison Remix) / Free to Love (Jersey Black Cat Remix) [feat. Nile Rodgers]",
+      "releaseDate": "2026-06-12",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1895978438",
+      "title": "Koe Wetzel — I'll Lock Up",
+      "releaseDate": "2026-06-12",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1895978438",
+      "title": "Koe Wetzel — Sinner",
+      "releaseDate": "2026-06-12",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1895978438",
+      "title": "Koe Wetzel — The Man",
+      "releaseDate": "2026-06-12",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:c65a7275-568f-4caa-8ceb-732d60d832e9",
+      "title": "Koe Wetzel — The Night Champion",
+      "releaseDate": "2026-06-12",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "itunes:1895978438",
+      "title": "Koe Wetzel — When I Was",
+      "releaseDate": "2026-06-12",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1895978438",
+      "title": "Koe Wetzel — When I'm Gone",
+      "releaseDate": "2026-06-12",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6779639611",
+      "title": "Marilyn Manson — Exit Wound",
+      "releaseDate": "2026-06-12",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6774637533",
+      "title": "Nicholas Jamerson — I've Never Been Anywhere",
+      "releaseDate": "2026-06-12",
+      "genre": "Americana",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:237e0346-c4df-4dd9-a544-24b67012da71",
+      "title": "Polo G — Weight On My Shoulders",
+      "releaseDate": "2026-06-12",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    }
+  ]
 }
