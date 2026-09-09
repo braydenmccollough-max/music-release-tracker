@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Music Release Tracker</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Free Weekly Music Release Tracker</p>
+        <h1>See what dropped, what’s new, and what’s coming next.</h1>
+        <p class="subtitle">Sorted automatically into Rap, Rock, Pop, Metal, Country, Alternative, Grunge, R&B/Soul, Americana, and Reggae — no paid Apple Music API needed.</p>
+      </div>
+      <div class="status-panel" aria-label="Tracker summary">
+        <span class="panel-label">Last updated</span>
+        <strong id="lastUpdated">Not updated yet</strong>
+        <small id="releaseCount">0 releases tracked</small>
+      </div>
+    </header>
+
+    <main>
+      <section class="toolbar" aria-label="Filters">
+        <div class="search-wrap">
+          <label for="searchInput">Search releases</label>
+          <input id="searchInput" type="search" placeholder="Search song or album name..." />
+        </div>
+        <div class="filter-wrap">
+          <label for="statusFilter">Status</label>
+          <select id="statusFilter">
+            <option value="all">All statuses</option>
+            <option value="New">New</option>
+            <option value="Upcoming">Upcoming</option>
+            <option value="Already Dropped">Already Dropped</option>
+          </select>
+        </div>
+      </section>
+
+      <section class="genre-tabs" id="genreTabs" aria-label="Genre tabs"></section>
+
+      <section class="stats-grid" aria-label="Release stats">
+        <article class="stat-card"><span>New</span><strong id="newTotal">0</strong></article>
+        <article class="stat-card"><span>Upcoming</span><strong id="upcomingTotal">0</strong></article>
+        <article class="stat-card"><span>Already Dropped</span><strong id="droppedTotal">0</strong></article>
+      </section>
+
+      <section class="release-section">
+        <div class="section-heading">
+          <h2 id="activeGenreTitle">All Genres</h2>
+          <p id="activeGenreDescription">Everything currently tracked.</p>
+        </div>
+        <div class="release-grid" id="releaseGrid"></div>
+        <div class="empty-state" id="emptyState" hidden>
+          <h3>No releases here yet.</h3>
+          <p>Once the weekly updater has real release data, this section will fill in automatically.</p>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
