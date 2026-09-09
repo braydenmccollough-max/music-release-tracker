@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T05:15:22.385Z",
+  "updatedAt": "2026-09-09T13:19:52.210Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 121,
+    "releaseCount": 120,
     "genres": [
       "Rap",
       "Rock",
@@ -456,14 +456,6 @@
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:025d663b-d0cf-434e-a771-95963b90eff5",
-      "title": "Rebelution — Let Go",
-      "releaseDate": "2026-08-07",
-      "genre": "Reggae",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:1886265303",
@@ -914,6 +906,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:95ae296f-76c1-4b82-80fa-d4ac76cc24b5",
+      "title": "Charles Wesley Godwin — Hey There Son",
+      "releaseDate": "2026-06-12",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6773438042",
       "title": "Duran Duran — Free to Love (Harrison Remix) / Free to Love (Jersey Black Cat Remix) [feat. Nile Rodgers]",
       "releaseDate": "2026-06-12",
@@ -984,14 +984,6 @@
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:237e0346-c4df-4dd9-a544-24b67012da71",
-      "title": "Polo G — Weight On My Shoulders",
-      "releaseDate": "2026-06-12",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     }
   ]
 }
