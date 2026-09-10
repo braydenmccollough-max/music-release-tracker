@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T13:19:52.210Z",
+  "updatedAt": "2026-09-10T13:28:21.922Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -95,6 +95,14 @@
       "releaseDate": "2026-09-11",
       "genre": "Americana",
       "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6810021680",
+      "title": "Drake — Pecado Favorito",
+      "releaseDate": "2026-09-08",
+      "genre": "Rap",
+      "status": "New",
       "source": "iTunes Search API"
     },
     {
@@ -283,7 +291,23 @@
     },
     {
       "id": "itunes:6772364953",
+      "title": "Weezer — Hoops",
+      "releaseDate": "2026-08-21",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6772364953",
       "title": "Weezer — Say Yes",
+      "releaseDate": "2026-08-21",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6772364953",
+      "title": "Weezer — The LA Sound",
       "releaseDate": "2026-08-21",
       "genre": "Alternative",
       "status": "Already Dropped",
@@ -442,20 +466,20 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:9ae594c4-b2c6-4c50-ba49-04912e727ea0",
-      "title": "Koe Wetzel — Jaded",
-      "releaseDate": "2026-08-07",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6782993734",
       "title": "Nicholas Jamerson — Goodbye Brother",
       "releaseDate": "2026-08-07",
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:025d663b-d0cf-434e-a771-95963b90eff5",
+      "title": "Rebelution — Let Go",
+      "releaseDate": "2026-08-07",
+      "genre": "Reggae",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:1886265303",
@@ -802,14 +826,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:01e8ecd0-a71b-404a-89e2-32c5b03c5dc3",
-      "title": "Rylo Rodriguez — S.K.A.T.E.",
-      "releaseDate": "2026-07-03",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6785648282",
       "title": "The Charlie Daniels Band — The Devil Went Down to Georgia (America's 250th)",
       "releaseDate": "2026-07-03",
@@ -906,14 +922,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:95ae296f-76c1-4b82-80fa-d4ac76cc24b5",
-      "title": "Charles Wesley Godwin — Hey There Son",
-      "releaseDate": "2026-06-12",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6773438042",
       "title": "Duran Duran — Free to Love (Harrison Remix) / Free to Love (Jersey Black Cat Remix) [feat. Nile Rodgers]",
       "releaseDate": "2026-06-12",
@@ -944,14 +952,6 @@
       "genre": "Country",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:c65a7275-568f-4caa-8ceb-732d60d832e9",
-      "title": "Koe Wetzel — The Night Champion",
-      "releaseDate": "2026-06-12",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:1895978438",
