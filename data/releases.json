@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T13:28:21.922Z",
+  "updatedAt": "2026-09-11T13:21:37.766Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 120,
+    "releaseCount": 111,
     "genres": [
       "Rap",
       "Rock",
@@ -94,7 +94,15 @@
       "title": "Nicholas Jamerson — Rabbit Holes (Vol. 1)",
       "releaseDate": "2026-09-11",
       "genre": "Americana",
-      "status": "Upcoming",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — Tie Your Mother Down (Live in Budapest)",
+      "releaseDate": "2026-09-10",
+      "genre": "Rock",
+      "status": "New",
       "source": "iTunes Search API"
     },
     {
@@ -770,14 +778,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:492c2054-ff01-435e-b54f-fcf75a3b3c9c",
-      "title": "Baby Smoove — Baby 2",
-      "releaseDate": "2026-07-11",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6786888877",
       "title": "Cage the Elephant — Beaches In Tennessee",
       "releaseDate": "2026-07-10",
@@ -882,14 +882,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:bc8cdd6d-7d31-490c-9020-73827869e6bc",
-      "title": "Turnpike Troubadours — Feelin’ Good Again",
-      "releaseDate": "2026-06-26",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6781882270",
       "title": "Vincent Mason — What You Want",
       "releaseDate": "2026-06-25",
@@ -918,70 +910,6 @@
       "title": "The Charlie Daniels Band — My Home",
       "releaseDate": "2026-06-17",
       "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6773438042",
-      "title": "Duran Duran — Free to Love (Harrison Remix) / Free to Love (Jersey Black Cat Remix) [feat. Nile Rodgers]",
-      "releaseDate": "2026-06-12",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1895978438",
-      "title": "Koe Wetzel — I'll Lock Up",
-      "releaseDate": "2026-06-12",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1895978438",
-      "title": "Koe Wetzel — Sinner",
-      "releaseDate": "2026-06-12",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1895978438",
-      "title": "Koe Wetzel — The Man",
-      "releaseDate": "2026-06-12",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1895978438",
-      "title": "Koe Wetzel — When I Was",
-      "releaseDate": "2026-06-12",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1895978438",
-      "title": "Koe Wetzel — When I'm Gone",
-      "releaseDate": "2026-06-12",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6779639611",
-      "title": "Marilyn Manson — Exit Wound",
-      "releaseDate": "2026-06-12",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6774637533",
-      "title": "Nicholas Jamerson — I've Never Been Anywhere",
-      "releaseDate": "2026-06-12",
-      "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     }
