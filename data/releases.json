@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T13:21:37.766Z",
+  "updatedAt": "2026-09-12T13:17:57.495Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 111,
+    "releaseCount": 116,
     "genres": [
       "Rap",
       "Rock",
@@ -50,6 +50,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6802901441",
+      "title": "Kings of Leon — O My Beloved",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:6801395086",
       "title": "Frank Sinatra — Sinatra At The Sands",
       "releaseDate": "2026-10-23",
@@ -64,14 +72,6 @@
       "genre": "Country",
       "status": "Upcoming",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:e9df70d5-201b-4697-9c2e-6f592902a947",
-      "title": "Gavin Adcock — The Day I Hang It Up",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "Upcoming",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:1894015990",
@@ -90,6 +90,54 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6802901441",
+      "title": "Kings of Leon — My Whole World",
+      "releaseDate": "2026-09-12",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6794460856",
+      "title": "LINKIN PARK — Faint - Unshatter Film Soundtrack (Live in São Paulo)",
+      "releaseDate": "2026-09-11",
+      "genre": "Metal",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6773766930",
+      "title": "Nicholas Jamerson — Be Strong",
+      "releaseDate": "2026-09-11",
+      "genre": "Americana",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6773766930",
+      "title": "Nicholas Jamerson — Blow'd In The Creek",
+      "releaseDate": "2026-09-11",
+      "genre": "Americana",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6773766930",
+      "title": "Nicholas Jamerson — Hollerin' And Wallerin'",
+      "releaseDate": "2026-09-11",
+      "genre": "Americana",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6773766930",
+      "title": "Nicholas Jamerson — How Great Thou Art",
+      "releaseDate": "2026-09-11",
+      "genre": "Americana",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:6773766930",
       "title": "Nicholas Jamerson — Rabbit Holes (Vol. 1)",
       "releaseDate": "2026-09-11",
@@ -98,18 +146,26 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6792889537",
-      "title": "Queen — Tie Your Mother Down (Live in Budapest)",
+      "id": "itunes:6805913916",
+      "title": "Cage the Elephant — Dying In Reverse",
+      "releaseDate": "2026-09-10",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6805602891",
+      "title": "Kings of Leon — My Whole World",
       "releaseDate": "2026-09-10",
       "genre": "Rock",
       "status": "New",
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6810021680",
-      "title": "Drake — Pecado Favorito",
-      "releaseDate": "2026-09-08",
-      "genre": "Rap",
+      "id": "itunes:6792889537",
+      "title": "Queen — Tie Your Mother Down (Live in Budapest)",
+      "releaseDate": "2026-09-10",
+      "genre": "Rock",
       "status": "New",
       "source": "iTunes Search API"
     },
@@ -126,46 +182,22 @@
       "title": "Empire Of The Sun — DNA (Ian Asher Remix)",
       "releaseDate": "2026-09-04",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:89db81af-f966-47e6-8b0a-1b20d6873a55",
-      "title": "Flatland Cavalry — Strangers & Angels",
-      "releaseDate": "2026-09-04",
-      "genre": "Country",
-      "status": "New",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6805223795",
       "title": "Gavin Adcock — One Hell Of A Steal",
       "releaseDate": "2026-09-04",
       "genre": "Country",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:4e143a7a-dccc-46a8-870e-a37156dacd8e",
-      "title": "Gotye — Somebody That I Used To Know (ARTBAT x David Guetta Mix)",
-      "releaseDate": "2026-09-04",
-      "genre": "Pop",
-      "status": "New",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6801587846",
       "title": "George Michael — Father Figure (Live in Paris, 1988)",
       "releaseDate": "2026-09-01",
       "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6776371718",
-      "title": "Bob Marley & The Wailers — I Shot The Sheriff (Live At The Hammersmith Odeon, London, UK - June, 1976)",
-      "releaseDate": "2026-08-28",
-      "genre": "Reggae",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     },
@@ -880,6 +912,14 @@
       "genre": "Reggae",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:bc8cdd6d-7d31-490c-9020-73827869e6bc",
+      "title": "Turnpike Troubadours — Feelin’ Good Again",
+      "releaseDate": "2026-06-26",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6781882270",
