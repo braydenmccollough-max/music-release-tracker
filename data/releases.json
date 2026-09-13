@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T13:17:57.495Z",
+  "updatedAt": "2026-09-13T13:18:36.334Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 116,
+    "releaseCount": 113,
     "genres": [
       "Rap",
       "Rock",
@@ -331,14 +331,6 @@
     },
     {
       "id": "itunes:6772364953",
-      "title": "Weezer — Hoops",
-      "releaseDate": "2026-08-21",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6772364953",
       "title": "Weezer — Say Yes",
       "releaseDate": "2026-08-21",
       "genre": "Alternative",
@@ -356,14 +348,6 @@
     {
       "id": "itunes:6772364953",
       "title": "Weezer — The Show Must Go On",
-      "releaseDate": "2026-08-21",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6772364953",
-      "title": "Weezer — Up In the Clouds",
       "releaseDate": "2026-08-21",
       "genre": "Alternative",
       "status": "Already Dropped",
@@ -776,14 +760,6 @@
       "genre": "Pop",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:cbdf1cbc-170a-47a8-af5f-2a29ad274285",
-      "title": "Slightly Stoopid — Backseat Drivin'",
-      "releaseDate": "2026-07-17",
-      "genre": "Reggae",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6775448742",
