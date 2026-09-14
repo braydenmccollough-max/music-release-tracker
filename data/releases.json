@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T13:18:36.334Z",
+  "updatedAt": "2026-09-14T13:21:27.440Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 113,
+    "releaseCount": 115,
     "genres": [
       "Rap",
       "Rock",
@@ -174,7 +174,7 @@
       "title": "David Allan Coe — You Never Even Called Me by My Name",
       "releaseDate": "2026-09-06",
       "genre": "Country",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -186,6 +186,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:89db81af-f966-47e6-8b0a-1b20d6873a55",
+      "title": "Flatland Cavalry — Strangers & Angels",
+      "releaseDate": "2026-09-04",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6805223795",
       "title": "Gavin Adcock — One Hell Of A Steal",
       "releaseDate": "2026-09-04",
@@ -194,12 +202,12 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6801587846",
-      "title": "George Michael — Father Figure (Live in Paris, 1988)",
-      "releaseDate": "2026-09-01",
+      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
+      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
+      "releaseDate": "2026-09-04",
       "genre": "Pop",
       "status": "Already Dropped",
-      "source": "iTunes Search API"
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6776371718",
@@ -490,20 +498,20 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:9ae594c4-b2c6-4c50-ba49-04912e727ea0",
+      "title": "Koe Wetzel — Jaded",
+      "releaseDate": "2026-08-07",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6782993734",
       "title": "Nicholas Jamerson — Goodbye Brother",
       "releaseDate": "2026-08-07",
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:025d663b-d0cf-434e-a771-95963b90eff5",
-      "title": "Rebelution — Let Go",
-      "releaseDate": "2026-08-07",
-      "genre": "Reggae",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:1886265303",
@@ -832,6 +840,14 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:01e8ecd0-a71b-404a-89e2-32c5b03c5dc3",
+      "title": "Rylo Rodriguez — S.K.A.T.E.",
+      "releaseDate": "2026-07-03",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6785648282",
