@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T13:22:28.427Z",
+  "updatedAt": "2026-09-16T13:20:06.198Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 117,
+    "releaseCount": 113,
     "genres": [
       "Rap",
       "Rock",
@@ -95,6 +95,14 @@
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
       "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6803604757",
+      "title": "Beach House — April Suzanne (Cover Version)",
+      "releaseDate": "2026-09-16",
+      "genre": "Alternative",
+      "status": "New",
       "source": "iTunes Search API"
     },
     {
@@ -186,28 +194,12 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:89db81af-f966-47e6-8b0a-1b20d6873a55",
-      "title": "Flatland Cavalry — Strangers & Angels",
-      "releaseDate": "2026-09-04",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6805223795",
       "title": "Gavin Adcock — One Hell Of A Steal",
       "releaseDate": "2026-09-04",
       "genre": "Country",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
-      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
-      "releaseDate": "2026-09-04",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6776371718",
@@ -347,14 +339,6 @@
     },
     {
       "id": "itunes:6772364953",
-      "title": "Weezer — The Show Must Go On",
-      "releaseDate": "2026-08-21",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6772364953",
       "title": "Weezer — Weezer",
       "releaseDate": "2026-08-21",
       "genre": "Alternative",
@@ -482,6 +466,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:2e41b9d2-50e1-4fea-b59d-ead291e7d04f",
+      "title": "Ella Langley — Jaded",
+      "releaseDate": "2026-08-07",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6790547272",
       "title": "Gavin Adcock — Workin' Man",
       "releaseDate": "2026-08-07",
@@ -504,14 +496,6 @@
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:025d663b-d0cf-434e-a771-95963b90eff5",
-      "title": "Rebelution — Let Go",
-      "releaseDate": "2026-08-07",
-      "genre": "Reggae",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:1886265303",
@@ -770,14 +754,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:cbdf1cbc-170a-47a8-af5f-2a29ad274285",
-      "title": "Slightly Stoopid — Backseat Drivin'",
-      "releaseDate": "2026-07-17",
-      "genre": "Reggae",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6775448742",
       "title": "Echo & The Bunnymen — Brussels Is Haunted",
       "releaseDate": "2026-07-16",
@@ -950,14 +926,6 @@
       "title": "Judas Priest — The Best of Judas Priest",
       "releaseDate": "2026-06-19",
       "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6780657057",
-      "title": "The Charlie Daniels Band — My Home",
-      "releaseDate": "2026-06-17",
-      "genre": "Country",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     }
