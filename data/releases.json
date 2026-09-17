@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T13:20:06.198Z",
+  "updatedAt": "2026-09-17T13:22:01.762Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -194,12 +194,28 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:89db81af-f966-47e6-8b0a-1b20d6873a55",
+      "title": "Flatland Cavalry — Strangers & Angels",
+      "releaseDate": "2026-09-04",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6805223795",
       "title": "Gavin Adcock — One Hell Of A Steal",
       "releaseDate": "2026-09-04",
       "genre": "Country",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
+      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
+      "releaseDate": "2026-09-04",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6776371718",
@@ -283,14 +299,6 @@
     },
     {
       "id": "itunes:1895813257",
-      "title": "David Allan Coe — Mary Magdeline",
-      "releaseDate": "2026-08-21",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1895813257",
       "title": "David Allan Coe — Texas Moon (Deluxe Edition)",
       "releaseDate": "2026-08-21",
       "genre": "Country",
@@ -331,7 +339,7 @@
     },
     {
       "id": "itunes:6772364953",
-      "title": "Weezer — The LA Sound",
+      "title": "Weezer — The Show Must Go On",
       "releaseDate": "2026-08-21",
       "genre": "Alternative",
       "status": "Already Dropped",
@@ -466,14 +474,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:2e41b9d2-50e1-4fea-b59d-ead291e7d04f",
-      "title": "Ella Langley — Jaded",
-      "releaseDate": "2026-08-07",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6790547272",
       "title": "Gavin Adcock — Workin' Man",
       "releaseDate": "2026-08-07",
@@ -498,16 +498,16 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:1886265303",
-      "title": "The Charlie Daniels Band — The Best Of The Charlie Daniels Band Volunteer Jam (Live)",
+      "id": "musicbrainz:025d663b-d0cf-434e-a771-95963b90eff5",
+      "title": "Rebelution — Let Go",
       "releaseDate": "2026-08-07",
-      "genre": "Country",
+      "genre": "Reggae",
       "status": "Already Dropped",
-      "source": "iTunes Search API"
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:1886265303",
-      "title": "The Charlie Daniels Band — Uneasy Rider - Volunteer Jam XII (Live)",
+      "title": "The Charlie Daniels Band — The Best Of The Charlie Daniels Band Volunteer Jam (Live)",
       "releaseDate": "2026-08-07",
       "genre": "Country",
       "status": "Already Dropped",
