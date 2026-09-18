@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T13:22:01.762Z",
+  "updatedAt": "2026-09-18T13:22:51.446Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 113,
+    "releaseCount": 126,
     "genres": [
       "Rap",
       "Rock",
@@ -90,11 +90,123 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6807500515",
+      "title": "Bush — ALL’IMPROVVISO",
+      "releaseDate": "2026-09-18",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6775448742",
+      "title": "Echo & The Bunnymen — An Unstoppable Force",
+      "releaseDate": "2026-09-18",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:6775448742",
       "title": "Echo & The Bunnymen — Apples For Isaac",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
-      "status": "Upcoming",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6775448742",
+      "title": "Echo & The Bunnymen — Asimov",
+      "releaseDate": "2026-09-18",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6775448742",
+      "title": "Echo & The Bunnymen — Can't Be Sold",
+      "releaseDate": "2026-09-18",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6775448742",
+      "title": "Echo & The Bunnymen — Hijacked",
+      "releaseDate": "2026-09-18",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6775448742",
+      "title": "Echo & The Bunnymen — I'll Be Your Sunshine",
+      "releaseDate": "2026-09-18",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6775448742",
+      "title": "Echo & The Bunnymen — Lab Rats Ran",
+      "releaseDate": "2026-09-18",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6775448742",
+      "title": "Echo & The Bunnymen — Take Me By The Hand",
+      "releaseDate": "2026-09-18",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6775448742",
+      "title": "Echo & The Bunnymen — The Honey",
+      "releaseDate": "2026-09-18",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6775448742",
+      "title": "Echo & The Bunnymen — We Prayed In the Dark",
+      "releaseDate": "2026-09-18",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6806077624",
+      "title": "Empire Of The Sun — DNA (Maceo Plex Remix)",
+      "releaseDate": "2026-09-18",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6806078927",
+      "title": "Empire Of The Sun — DNA (Reimagined)",
+      "releaseDate": "2026-09-18",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6811228200",
+      "title": "Gavin Adcock — Rockstar Life",
+      "releaseDate": "2026-09-18",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6812594607",
+      "title": "INXS — Never Tear Us Apart (The Story Behind The Song) [Commentary]",
+      "releaseDate": "2026-09-18",
+      "genre": "Alternative",
+      "status": "New",
       "source": "iTunes Search API"
     },
     {
@@ -158,7 +270,7 @@
       "title": "Cage the Elephant — Dying In Reverse",
       "releaseDate": "2026-09-10",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -166,7 +278,7 @@
       "title": "Kings of Leon — My Whole World",
       "releaseDate": "2026-09-10",
       "genre": "Rock",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -174,7 +286,7 @@
       "title": "Queen — Tie Your Mother Down (Live in Budapest)",
       "releaseDate": "2026-09-10",
       "genre": "Rock",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -192,14 +304,6 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:89db81af-f966-47e6-8b0a-1b20d6873a55",
-      "title": "Flatland Cavalry — Strangers & Angels",
-      "releaseDate": "2026-09-04",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6805223795",
@@ -299,6 +403,14 @@
     },
     {
       "id": "itunes:1895813257",
+      "title": "David Allan Coe — Mary Magdeline",
+      "releaseDate": "2026-08-21",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1895813257",
       "title": "David Allan Coe — Texas Moon (Deluxe Edition)",
       "releaseDate": "2026-08-21",
       "genre": "Country",
@@ -332,14 +444,6 @@
     {
       "id": "itunes:6772364953",
       "title": "Weezer — Say Yes",
-      "releaseDate": "2026-08-21",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6772364953",
-      "title": "Weezer — The Show Must Go On",
       "releaseDate": "2026-08-21",
       "genre": "Alternative",
       "status": "Already Dropped",
@@ -754,6 +858,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:cbdf1cbc-170a-47a8-af5f-2a29ad274285",
+      "title": "Slightly Stoopid — Backseat Drivin'",
+      "releaseDate": "2026-07-17",
+      "genre": "Reggae",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6775448742",
       "title": "Echo & The Bunnymen — Brussels Is Haunted",
       "releaseDate": "2026-07-16",
@@ -918,14 +1030,6 @@
       "title": "Tame Impala — Hummer",
       "releaseDate": "2026-06-23",
       "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1894893377",
-      "title": "Judas Priest — The Best of Judas Priest",
-      "releaseDate": "2026-06-19",
-      "genre": "Metal",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     }
