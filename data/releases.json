@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T13:22:51.446Z",
+  "updatedAt": "2026-09-19T13:17:51.797Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 126,
+    "releaseCount": 128,
     "genres": [
       "Rap",
       "Rock",
@@ -87,6 +87,14 @@
       "releaseDate": "2026-09-25",
       "genre": "Rock",
       "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1825982048",
+      "title": "Billy Idol — Cradle Of Love (R3HAB Remix)",
+      "releaseDate": "2026-09-18",
+      "genre": "Rock",
+      "status": "New",
       "source": "iTunes Search API"
     },
     {
@@ -222,7 +230,7 @@
       "title": "LINKIN PARK — Faint - Unshatter Film Soundtrack (Live in São Paulo)",
       "releaseDate": "2026-09-11",
       "genre": "Metal",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -230,7 +238,7 @@
       "title": "Nicholas Jamerson — Be Strong",
       "releaseDate": "2026-09-11",
       "genre": "Americana",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -238,7 +246,7 @@
       "title": "Nicholas Jamerson — Blow'd In The Creek",
       "releaseDate": "2026-09-11",
       "genre": "Americana",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -246,7 +254,7 @@
       "title": "Nicholas Jamerson — Hollerin' And Wallerin'",
       "releaseDate": "2026-09-11",
       "genre": "Americana",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -254,7 +262,7 @@
       "title": "Nicholas Jamerson — How Great Thou Art",
       "releaseDate": "2026-09-11",
       "genre": "Americana",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -262,7 +270,7 @@
       "title": "Nicholas Jamerson — Rabbit Holes (Vol. 1)",
       "releaseDate": "2026-09-11",
       "genre": "Americana",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -304,6 +312,14 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:89db81af-f966-47e6-8b0a-1b20d6873a55",
+      "title": "Flatland Cavalry — Strangers & Angels",
+      "releaseDate": "2026-09-04",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6805223795",
