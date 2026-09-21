@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T13:17:28.319Z",
+  "updatedAt": "2026-09-21T13:17:42.784Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 126,
+    "releaseCount": 127,
     "genres": [
       "Rap",
       "Rock",
@@ -72,6 +72,14 @@
       "genre": "Country",
       "status": "Upcoming",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:e9df70d5-201b-4697-9c2e-6f592902a947",
+      "title": "Gavin Adcock — The Day I Hang It Up",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Upcoming",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:1894015990",
@@ -444,14 +452,6 @@
     {
       "id": "itunes:6772364953",
       "title": "Weezer — Say Yes",
-      "releaseDate": "2026-08-21",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6772364953",
-      "title": "Weezer — The LA Sound",
       "releaseDate": "2026-08-21",
       "genre": "Alternative",
       "status": "Already Dropped",
@@ -896,6 +896,14 @@
       "genre": "Rock",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:492c2054-ff01-435e-b54f-fcf75a3b3c9c",
+      "title": "Baby Smoove — Baby 2",
+      "releaseDate": "2026-07-11",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6786888877",
