@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T13:17:42.784Z",
+  "updatedAt": "2026-09-22T13:19:34.121Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 127,
+    "releaseCount": 126,
     "genres": [
       "Rap",
       "Rock",
@@ -87,6 +87,14 @@
       "releaseDate": "2026-09-25",
       "genre": "Rock",
       "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6814255991",
+      "title": "Drake — Desnudos",
+      "releaseDate": "2026-09-19",
+      "genre": "Rap",
+      "status": "New",
       "source": "iTunes Search API"
     },
     {
@@ -223,14 +231,6 @@
       "releaseDate": "2026-09-16",
       "genre": "Alternative",
       "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6794460856",
-      "title": "LINKIN PARK — Faint - Unshatter Film Soundtrack (Live in São Paulo)",
-      "releaseDate": "2026-09-11",
-      "genre": "Metal",
-      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -1030,14 +1030,6 @@
       "title": "Vincent Mason — What You Want",
       "releaseDate": "2026-06-25",
       "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6781461059",
-      "title": "Tame Impala — Hummer",
-      "releaseDate": "2026-06-23",
-      "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     }
