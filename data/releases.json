@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T13:19:34.121Z",
+  "updatedAt": "2026-09-23T13:19:38.306Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 126,
+    "releaseCount": 121,
     "genres": [
       "Rap",
       "Rock",
@@ -30,14 +30,6 @@
       "title": "Waylon Jennings — Diamonds",
       "releaseDate": "2026-11-13",
       "genre": "Country",
-      "status": "Upcoming",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6786070473",
-      "title": "Asia — Indigo",
-      "releaseDate": "2026-11-06",
-      "genre": "Rock",
       "status": "Upcoming",
       "source": "iTunes Search API"
     },
@@ -90,24 +82,8 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6814255991",
-      "title": "Drake — Desnudos",
-      "releaseDate": "2026-09-19",
-      "genre": "Rap",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:1825982048",
       "title": "Billy Idol — Cradle Of Love (R3HAB Remix)",
-      "releaseDate": "2026-09-18",
-      "genre": "Rock",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6807500515",
-      "title": "Bush — ALL’IMPROVVISO",
       "releaseDate": "2026-09-18",
       "genre": "Rock",
       "status": "New",
@@ -436,14 +412,6 @@
     {
       "id": "itunes:6772364953",
       "title": "Weezer — C.E.O.",
-      "releaseDate": "2026-08-21",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6772364953",
-      "title": "Weezer — Don't Make It Weird",
       "releaseDate": "2026-08-21",
       "genre": "Alternative",
       "status": "Already Dropped",
@@ -910,14 +878,6 @@
       "title": "Cage the Elephant — Beaches In Tennessee",
       "releaseDate": "2026-07-10",
       "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6784327271",
-      "title": "Future — Hollywood",
-      "releaseDate": "2026-07-10",
-      "genre": "Rap",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     },
