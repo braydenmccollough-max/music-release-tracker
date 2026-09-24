@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T13:19:38.306Z",
+  "updatedAt": "2026-09-24T13:18:56.033Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -206,7 +206,7 @@
       "title": "Beach House — April Suzanne (Cover Version)",
       "releaseDate": "2026-09-16",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -882,6 +882,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6784327271",
+      "title": "Future — Hollywood",
+      "releaseDate": "2026-07-10",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:6790487991",
       "title": "Future — The Real Me",
       "releaseDate": "2026-07-10",
@@ -984,14 +992,6 @@
       "genre": "Country",
       "status": "Already Dropped",
       "source": "MusicBrainz"
-    },
-    {
-      "id": "itunes:6781882270",
-      "title": "Vincent Mason — What You Want",
-      "releaseDate": "2026-06-25",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
     }
   ]
 }
