@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T13:18:56.033Z",
+  "updatedAt": "2026-09-25T13:20:34.462Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 121,
+    "releaseCount": 140,
     "genres": [
       "Rap",
       "Rock",
@@ -30,6 +30,14 @@
       "title": "Waylon Jennings — Diamonds",
       "releaseDate": "2026-11-13",
       "genre": "Country",
+      "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6786070473",
+      "title": "Asia — Indigo",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
       "status": "Upcoming",
       "source": "iTunes Search API"
     },
@@ -78,7 +86,191 @@
       "title": "Europe — Come This Madness",
       "releaseDate": "2026-09-25",
       "genre": "Rock",
-      "status": "Upcoming",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1894015990",
+      "title": "Europe — In a Different World",
+      "releaseDate": "2026-09-25",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1894015990",
+      "title": "Europe — In the Absence of Grace",
+      "releaseDate": "2026-09-25",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1894015990",
+      "title": "Europe — Nothing Can Follow This",
+      "releaseDate": "2026-09-25",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1894015990",
+      "title": "Europe — One on One",
+      "releaseDate": "2026-09-25",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1894015990",
+      "title": "Europe — Scandinavian Eyes",
+      "releaseDate": "2026-09-25",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1894015990",
+      "title": "Europe — Takin’ It Back",
+      "releaseDate": "2026-09-25",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1894015990",
+      "title": "Europe — The Angels Must Have Flown",
+      "releaseDate": "2026-09-25",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1894015990",
+      "title": "Europe — The Cult of Ignorance",
+      "releaseDate": "2026-09-25",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1894015990",
+      "title": "Europe — The Devil’s Back",
+      "releaseDate": "2026-09-25",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1894015990",
+      "title": "Europe — This Time of Year",
+      "releaseDate": "2026-09-25",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6811228012",
+      "title": "Gavin Adcock — Bad Off",
+      "releaseDate": "2026-09-25",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6794460856",
+      "title": "LINKIN PARK — Break Collapse/Interlude - Unshatter Film Soundtrack (Live in São Paulo)",
+      "releaseDate": "2026-09-25",
+      "genre": "Metal",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6794460856",
+      "title": "LINKIN PARK — Casualty - Unshatter Film Soundtrack (Live in São Paulo)",
+      "releaseDate": "2026-09-25",
+      "genre": "Metal",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6794460856",
+      "title": "LINKIN PARK — Creation/Interlude - Unshatter Film Soundtrack (Live in São Paulo)",
+      "releaseDate": "2026-09-25",
+      "genre": "Metal",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6794460856",
+      "title": "LINKIN PARK — Heavy Is the Crown - Unshatter Film Soundtrack (Live in São Paulo)",
+      "releaseDate": "2026-09-25",
+      "genre": "Metal",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6794460856",
+      "title": "LINKIN PARK — In the End - Unshatter Film Soundtrack (Live in São Paulo)",
+      "releaseDate": "2026-09-25",
+      "genre": "Metal",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6794460856",
+      "title": "LINKIN PARK — Inception/Intro - Unshatter Film Soundtrack (Live in São Paulo)",
+      "releaseDate": "2026-09-25",
+      "genre": "Metal",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6794460856",
+      "title": "LINKIN PARK — Leave Out All The Rest - Unshatter Film Soundtrack (Live in São Paulo)",
+      "releaseDate": "2026-09-25",
+      "genre": "Metal",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6794460856",
+      "title": "LINKIN PARK — Lost - Unshatter Film Soundtrack (Live in São Paulo)",
+      "releaseDate": "2026-09-25",
+      "genre": "Metal",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6794460856",
+      "title": "LINKIN PARK — Numb - Unshatter Film Soundtrack (Live in São Paulo)",
+      "releaseDate": "2026-09-25",
+      "genre": "Metal",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6794460856",
+      "title": "LINKIN PARK — Over Each Other - Unshatter Film Soundtrack (Live in São Paulo)",
+      "releaseDate": "2026-09-25",
+      "genre": "Metal",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6794460856",
+      "title": "LINKIN PARK — Papercut - Unshatter Film Soundtrack (Live in São Paulo)",
+      "releaseDate": "2026-09-25",
+      "genre": "Metal",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6794460856",
+      "title": "LINKIN PARK — Resolution/Intro - Unshatter Film Soundtrack (Live in São Paulo)",
+      "releaseDate": "2026-09-25",
+      "genre": "Metal",
+      "status": "New",
       "source": "iTunes Search API"
     },
     {
@@ -411,7 +603,7 @@
     },
     {
       "id": "itunes:6772364953",
-      "title": "Weezer — C.E.O.",
+      "title": "Weezer — Don't Make It Weird",
       "releaseDate": "2026-08-21",
       "genre": "Alternative",
       "status": "Already Dropped",
@@ -590,6 +782,14 @@
       "title": "The Charlie Daniels Band — The Best Of The Charlie Daniels Band Volunteer Jam (Live)",
       "releaseDate": "2026-08-07",
       "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6772364953",
+      "title": "Weezer — C.E.O.",
+      "releaseDate": "2026-08-05",
+      "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     },
@@ -944,54 +1144,6 @@
       "genre": "Rock",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6779665406",
-      "title": "Duran Duran — Free to Love: Hot Star Remixes (feat. Nile Rodgers)",
-      "releaseDate": "2026-06-26",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6781869021",
-      "title": "Koe Wetzel — Bad Decisions",
-      "releaseDate": "2026-06-26",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6781869021",
-      "title": "Koe Wetzel — Magnet",
-      "releaseDate": "2026-06-26",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6781869021",
-      "title": "Koe Wetzel — Meet You There",
-      "releaseDate": "2026-06-26",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6774802935",
-      "title": "Rebelution — Rock With Me",
-      "releaseDate": "2026-06-26",
-      "genre": "Reggae",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:bc8cdd6d-7d31-490c-9020-73827869e6bc",
-      "title": "Turnpike Troubadours — Feelin’ Good Again",
-      "releaseDate": "2026-06-26",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     }
   ]
 }
