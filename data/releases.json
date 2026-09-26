@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T13:20:34.462Z",
+  "updatedAt": "2026-09-26T13:17:17.418Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 140,
+    "releaseCount": 141,
     "genres": [
       "Rap",
       "Rock",
@@ -274,11 +274,19 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
+      "title": "Marcus King — Blue",
+      "releaseDate": "2026-09-25",
+      "genre": "Americana",
+      "status": "New",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:1825982048",
       "title": "Billy Idol — Cradle Of Love (R3HAB Remix)",
       "releaseDate": "2026-09-18",
       "genre": "Rock",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -286,7 +294,7 @@
       "title": "Echo & The Bunnymen — An Unstoppable Force",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -294,7 +302,7 @@
       "title": "Echo & The Bunnymen — Apples For Isaac",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -302,7 +310,7 @@
       "title": "Echo & The Bunnymen — Asimov",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -310,7 +318,7 @@
       "title": "Echo & The Bunnymen — Can't Be Sold",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -318,7 +326,7 @@
       "title": "Echo & The Bunnymen — Hijacked",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -326,7 +334,7 @@
       "title": "Echo & The Bunnymen — I'll Be Your Sunshine",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -334,7 +342,7 @@
       "title": "Echo & The Bunnymen — Lab Rats Ran",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -342,7 +350,7 @@
       "title": "Echo & The Bunnymen — Take Me By The Hand",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -350,7 +358,7 @@
       "title": "Echo & The Bunnymen — The Honey",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -358,7 +366,7 @@
       "title": "Echo & The Bunnymen — We Prayed In the Dark",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -366,7 +374,7 @@
       "title": "Empire Of The Sun — DNA (Maceo Plex Remix)",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -374,7 +382,7 @@
       "title": "Empire Of The Sun — DNA (Reimagined)",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -382,7 +390,7 @@
       "title": "Gavin Adcock — Rockstar Life",
       "releaseDate": "2026-09-18",
       "genre": "Country",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -390,7 +398,7 @@
       "title": "INXS — Never Tear Us Apart (The Story Behind The Song) [Commentary]",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
