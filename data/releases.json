@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T13:20:10.509Z",
+  "updatedAt": "2026-09-29T13:22:44.110Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 141,
+    "releaseCount": 143,
     "genres": [
       "Rap",
       "Rock",
@@ -25,6 +25,14 @@
     ]
   },
   "releases": [
+    {
+      "id": "itunes:6814651927",
+      "title": "Billy Joel — Turnstiles - 50th Anniversary",
+      "releaseDate": "2026-12-11",
+      "genre": "Rock",
+      "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
     {
       "id": "itunes:6781405825",
       "title": "Waylon Jennings — Diamonds",
@@ -80,6 +88,14 @@
       "genre": "Country",
       "status": "Upcoming",
       "source": "MusicBrainz"
+    },
+    {
+      "id": "itunes:6814651927",
+      "title": "Billy Joel — James (Band Demo, June 12, 1975)",
+      "releaseDate": "2026-09-29",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
     },
     {
       "id": "itunes:1894015990",
@@ -611,14 +627,6 @@
     },
     {
       "id": "itunes:6772364953",
-      "title": "Weezer — Don't Make It Weird",
-      "releaseDate": "2026-08-21",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6772364953",
       "title": "Weezer — Say Yes",
       "releaseDate": "2026-08-21",
       "genre": "Alternative",
@@ -788,6 +796,14 @@
     {
       "id": "itunes:1886265303",
       "title": "The Charlie Daniels Band — The Best Of The Charlie Daniels Band Volunteer Jam (Live)",
+      "releaseDate": "2026-08-07",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1886265303",
+      "title": "The Charlie Daniels Band — Uneasy Rider - Volunteer Jam XII (Live)",
       "releaseDate": "2026-08-07",
       "genre": "Country",
       "status": "Already Dropped",
