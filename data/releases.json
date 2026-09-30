@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T13:22:44.110Z",
+  "updatedAt": "2026-09-30T13:23:37.684Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 143,
+    "releaseCount": 142,
     "genres": [
       "Rap",
       "Rock",
@@ -418,14 +418,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6803604757",
-      "title": "Beach House — April Suzanne (Cover Version)",
-      "releaseDate": "2026-09-16",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:6773766930",
       "title": "Nicholas Jamerson — Be Strong",
       "releaseDate": "2026-09-11",
@@ -627,6 +619,14 @@
     },
     {
       "id": "itunes:6772364953",
+      "title": "Weezer — Don't Make It Weird",
+      "releaseDate": "2026-08-21",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6772364953",
       "title": "Weezer — Say Yes",
       "releaseDate": "2026-08-21",
       "genre": "Alternative",
@@ -796,14 +796,6 @@
     {
       "id": "itunes:1886265303",
       "title": "The Charlie Daniels Band — The Best Of The Charlie Daniels Band Volunteer Jam (Live)",
-      "releaseDate": "2026-08-07",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1886265303",
-      "title": "The Charlie Daniels Band — Uneasy Rider - Volunteer Jam XII (Live)",
       "releaseDate": "2026-08-07",
       "genre": "Country",
       "status": "Already Dropped",
