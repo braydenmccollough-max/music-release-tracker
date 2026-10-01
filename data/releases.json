@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T13:23:37.684Z",
+  "updatedAt": "2026-10-01T13:21:05.149Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -32,6 +32,14 @@
       "genre": "Rock",
       "status": "Upcoming",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:09f9581c-52b0-4d2b-bb1b-d5902830b8c1",
+      "title": "U2 — Carnaval de Luz",
+      "releaseDate": "2026-11-13",
+      "genre": "Alternative",
+      "status": "Upcoming",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6781405825",
@@ -88,6 +96,14 @@
       "genre": "Country",
       "status": "Upcoming",
       "source": "MusicBrainz"
+    },
+    {
+      "id": "itunes:6817082193",
+      "title": "Kings of Leon — Cold Blue Dawn",
+      "releaseDate": "2026-10-02",
+      "genre": "Rock",
+      "status": "Upcoming",
+      "source": "iTunes Search API"
     },
     {
       "id": "itunes:6814651927",
@@ -298,6 +314,14 @@
       "source": "MusicBrainz"
     },
     {
+      "id": "musicbrainz:ff5c320c-9490-4033-8228-1f83c27ed857",
+      "title": "U2 — Silencio",
+      "releaseDate": "2026-09-24",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:1825982048",
       "title": "Billy Idol — Cradle Of Love (R3HAB Remix)",
       "releaseDate": "2026-09-18",
@@ -316,14 +340,6 @@
     {
       "id": "itunes:6775448742",
       "title": "Echo & The Bunnymen — Apples For Isaac",
-      "releaseDate": "2026-09-18",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6775448742",
-      "title": "Echo & The Bunnymen — Asimov",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
       "status": "Already Dropped",
@@ -514,6 +530,14 @@
       "source": "MusicBrainz"
     },
     {
+      "id": "itunes:6801587846",
+      "title": "George Michael — Father Figure (Live in Paris, 1988)",
+      "releaseDate": "2026-09-01",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:6776371718",
       "title": "Bob Marley & The Wailers — Roots, Rock, Reggae (Live At The Hammersmith Odeon, London, UK - June 1976)",
       "releaseDate": "2026-08-28",
@@ -556,14 +580,6 @@
     {
       "id": "itunes:6770157154",
       "title": "Night Ranger — Don't Tell Me You Love Me (2026)",
-      "releaseDate": "2026-08-28",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6770157154",
-      "title": "Night Ranger — Four in the Morning (2026)",
       "releaseDate": "2026-08-28",
       "genre": "Rock",
       "status": "Already Dropped",
@@ -614,14 +630,6 @@
       "title": "Gavin Adcock — Having One Now",
       "releaseDate": "2026-08-21",
       "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6772364953",
-      "title": "Weezer — Don't Make It Weird",
-      "releaseDate": "2026-08-21",
-      "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     },
@@ -1150,14 +1158,6 @@
       "title": "The Charlie Daniels Band — The Devil Went Down to Georgia (America's 250th)",
       "releaseDate": "2026-07-03",
       "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6779101279",
-      "title": "John Lennon — Love (Meditation Mixes)",
-      "releaseDate": "2026-07-02",
-      "genre": "Rock",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     }
