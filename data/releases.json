@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T13:21:05.149Z",
+  "updatedAt": "2026-10-02T13:16:00.469Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 142,
+    "releaseCount": 138,
     "genres": [
       "Rap",
       "Rock",
@@ -32,14 +32,6 @@
       "genre": "Rock",
       "status": "Upcoming",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:09f9581c-52b0-4d2b-bb1b-d5902830b8c1",
-      "title": "U2 — Carnaval de Luz",
-      "releaseDate": "2026-11-13",
-      "genre": "Alternative",
-      "status": "Upcoming",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6781405825",
@@ -86,7 +78,7 @@
       "title": "Flatland Cavalry — Work of Heart - Heartstrings",
       "releaseDate": "2026-10-02",
       "genre": "Country",
-      "status": "Upcoming",
+      "status": "New",
       "source": "iTunes Search API"
     },
     {
@@ -94,7 +86,7 @@
       "title": "Gavin Adcock — The Day I Hang It Up",
       "releaseDate": "2026-10-02",
       "genre": "Country",
-      "status": "Upcoming",
+      "status": "New",
       "source": "MusicBrainz"
     },
     {
@@ -102,7 +94,7 @@
       "title": "Kings of Leon — Cold Blue Dawn",
       "releaseDate": "2026-10-02",
       "genre": "Rock",
-      "status": "Upcoming",
+      "status": "New",
       "source": "iTunes Search API"
     },
     {
@@ -310,14 +302,6 @@
       "title": "Marcus King — Blue",
       "releaseDate": "2026-09-25",
       "genre": "Americana",
-      "status": "New",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "musicbrainz:ff5c320c-9490-4033-8228-1f83c27ed857",
-      "title": "U2 — Silencio",
-      "releaseDate": "2026-09-24",
-      "genre": "Alternative",
       "status": "New",
       "source": "MusicBrainz"
     },
@@ -1142,22 +1126,6 @@
       "title": "U2 — Street Of Dreams",
       "releaseDate": "2026-07-07",
       "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:01e8ecd0-a71b-404a-89e2-32c5b03c5dc3",
-      "title": "Rylo Rodriguez — S.K.A.T.E.",
-      "releaseDate": "2026-07-03",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "itunes:6785648282",
-      "title": "The Charlie Daniels Band — The Devil Went Down to Georgia (America's 250th)",
-      "releaseDate": "2026-07-03",
-      "genre": "Country",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     }
