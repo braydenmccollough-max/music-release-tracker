@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T18:35:33.006Z",
+  "updatedAt": "2026-10-05T13:19:10.597Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 161,
+    "releaseCount": 165,
     "genres": [
       "Rap",
       "Rock",
@@ -71,6 +71,22 @@
       "releaseDate": "2026-10-23",
       "genre": "Pop",
       "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6818209777",
+      "title": "Drake — Classic PT2",
+      "releaseDate": "2026-10-02",
+      "genre": "Rap",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6818059268",
+      "title": "Drake — Quebec",
+      "releaseDate": "2026-10-02",
+      "genre": "Rap",
+      "status": "New",
       "source": "iTunes Search API"
     },
     {
@@ -970,12 +986,28 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:9ae594c4-b2c6-4c50-ba49-04912e727ea0",
+      "title": "Koe Wetzel — Jaded",
+      "releaseDate": "2026-08-07",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6782993734",
       "title": "Nicholas Jamerson — Goodbye Brother",
       "releaseDate": "2026-08-07",
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:025d663b-d0cf-434e-a771-95963b90eff5",
+      "title": "Rebelution — Let Go",
+      "releaseDate": "2026-08-07",
+      "genre": "Reggae",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:1886265303",
