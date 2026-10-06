@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T13:19:10.597Z",
+  "updatedAt": "2026-10-06T13:22:02.929Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 165,
+    "releaseCount": 153,
     "genres": [
       "Rap",
       "Rock",
@@ -74,6 +74,102 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6819413731",
+      "title": "Gavin Adcock — 18",
+      "releaseDate": "2026-10-05",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6819413731",
+      "title": "Gavin Adcock — Anymore",
+      "releaseDate": "2026-10-05",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6819413731",
+      "title": "Gavin Adcock — Bad Off",
+      "releaseDate": "2026-10-05",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6819413731",
+      "title": "Gavin Adcock — Dancing In The Flames",
+      "releaseDate": "2026-10-05",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6819413731",
+      "title": "Gavin Adcock — Dreamer",
+      "releaseDate": "2026-10-05",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6819413731",
+      "title": "Gavin Adcock — Every Other Heartbreak",
+      "releaseDate": "2026-10-05",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6819413731",
+      "title": "Gavin Adcock — Get A Grip",
+      "releaseDate": "2026-10-05",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6819413731",
+      "title": "Gavin Adcock — Having One Now",
+      "releaseDate": "2026-10-05",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6819413731",
+      "title": "Gavin Adcock — Holes In The Boat",
+      "releaseDate": "2026-10-05",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6819413731",
+      "title": "Gavin Adcock — Lowball Me",
+      "releaseDate": "2026-10-05",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6819413731",
+      "title": "Gavin Adcock — Mama Never Liked You Anyway",
+      "releaseDate": "2026-10-05",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6819413731",
+      "title": "Gavin Adcock — Most Wanted",
+      "releaseDate": "2026-10-05",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:6818209777",
       "title": "Drake — Classic PT2",
       "releaseDate": "2026-10-02",
@@ -132,102 +228,6 @@
     {
       "id": "itunes:6799280805",
       "title": "Flatland Cavalry — Work of Heart - Heartstrings",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — 18",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Dancin’ In The Flames",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Dreamer",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Every Other Heartbreak",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Get A Grip",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Holes In The Boat",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Lowball Me",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Mama Never Liked You",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Strangers In A Bar",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:e9df70d5-201b-4697-9c2e-6f592902a947",
-      "title": "Gavin Adcock — The Day I Hang It Up",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "New",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Thing For You",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Time For A Slow Down",
       "releaseDate": "2026-10-02",
       "genre": "Country",
       "status": "New",
@@ -338,14 +338,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6817082193",
-      "title": "Kings of Leon — My Whole World",
-      "releaseDate": "2026-10-02",
-      "genre": "Rock",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:6809909624",
       "title": "Rebelution — Real Life",
       "releaseDate": "2026-10-02",
@@ -370,14 +362,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6814651927",
-      "title": "Billy Joel — James (Band Demo, June 12, 1975)",
-      "releaseDate": "2026-09-29",
-      "genre": "Rock",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:1894015990",
       "title": "Europe — Come This Madness",
       "releaseDate": "2026-09-25",
@@ -388,14 +372,6 @@
     {
       "id": "itunes:1894015990",
       "title": "Europe — In a Different World",
-      "releaseDate": "2026-09-25",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1894015990",
-      "title": "Europe — In the Absence of Grace",
       "releaseDate": "2026-09-25",
       "genre": "Rock",
       "status": "Already Dropped",
@@ -475,30 +451,6 @@
     },
     {
       "id": "itunes:6794460856",
-      "title": "LINKIN PARK — Break Collapse/Interlude - Unshatter Film Soundtrack (Live in São Paulo)",
-      "releaseDate": "2026-09-25",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6794460856",
-      "title": "LINKIN PARK — Casualty - Unshatter Film Soundtrack (Live in São Paulo)",
-      "releaseDate": "2026-09-25",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6794460856",
-      "title": "LINKIN PARK — Creation/Interlude - Unshatter Film Soundtrack (Live in São Paulo)",
-      "releaseDate": "2026-09-25",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6794460856",
       "title": "LINKIN PARK — Heavy Is the Crown - Unshatter Film Soundtrack (Live in São Paulo)",
       "releaseDate": "2026-09-25",
       "genre": "Metal",
@@ -515,30 +467,6 @@
     },
     {
       "id": "itunes:6794460856",
-      "title": "LINKIN PARK — Inception/Intro - Unshatter Film Soundtrack (Live in São Paulo)",
-      "releaseDate": "2026-09-25",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6794460856",
-      "title": "LINKIN PARK — Leave Out All The Rest - Unshatter Film Soundtrack (Live in São Paulo)",
-      "releaseDate": "2026-09-25",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6794460856",
-      "title": "LINKIN PARK — Lost - Unshatter Film Soundtrack (Live in São Paulo)",
-      "releaseDate": "2026-09-25",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6794460856",
       "title": "LINKIN PARK — Numb - Unshatter Film Soundtrack (Live in São Paulo)",
       "releaseDate": "2026-09-25",
       "genre": "Metal",
@@ -547,23 +475,7 @@
     },
     {
       "id": "itunes:6794460856",
-      "title": "LINKIN PARK — Over Each Other - Unshatter Film Soundtrack (Live in São Paulo)",
-      "releaseDate": "2026-09-25",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6794460856",
-      "title": "LINKIN PARK — Papercut - Unshatter Film Soundtrack (Live in São Paulo)",
-      "releaseDate": "2026-09-25",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6794460856",
-      "title": "LINKIN PARK — Resolution/Intro - Unshatter Film Soundtrack (Live in São Paulo)",
+      "title": "LINKIN PARK — Waiting For the End - Unshatter Film Soundtrack (Live in São Paulo)",
       "releaseDate": "2026-09-25",
       "genre": "Metal",
       "status": "Already Dropped",
@@ -986,14 +898,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:9ae594c4-b2c6-4c50-ba49-04912e727ea0",
-      "title": "Koe Wetzel — Jaded",
-      "releaseDate": "2026-08-07",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6782993734",
       "title": "Nicholas Jamerson — Goodbye Brother",
       "releaseDate": "2026-08-07",
@@ -1022,6 +926,14 @@
       "title": "Weezer — C.E.O.",
       "releaseDate": "2026-08-05",
       "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6794460856",
+      "title": "LINKIN PARK — Somewhere I Belong - Unshatter Film Soundtrack (Live in São Paulo)",
+      "releaseDate": "2026-08-04",
+      "genre": "Metal",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     },
@@ -1333,14 +1245,6 @@
       "id": "itunes:6780706269",
       "title": "The Rose Hips — Harder to Stand",
       "releaseDate": "2026-07-10",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6774729762",
-      "title": "U2 — Street Of Dreams",
-      "releaseDate": "2026-07-07",
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
