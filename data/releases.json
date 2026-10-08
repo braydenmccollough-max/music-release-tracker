@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T13:25:51.746Z",
+  "updatedAt": "2026-10-08T13:25:04.642Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 151,
+    "releaseCount": 149,
     "genres": [
       "Rap",
       "Rock",
@@ -79,6 +79,14 @@
       "releaseDate": "2026-10-23",
       "genre": "Pop",
       "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6818617894",
+      "title": "Beach Weather — New Aesthetic",
+      "releaseDate": "2026-10-08",
+      "genre": "Alternative",
+      "status": "New",
       "source": "iTunes Search API"
     },
     {
@@ -174,6 +182,14 @@
       "title": "Gavin Adcock — Most Wanted",
       "releaseDate": "2026-10-05",
       "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6818617894",
+      "title": "Beach Weather — New Aesthetic",
+      "releaseDate": "2026-10-02",
+      "genre": "Alternative",
       "status": "New",
       "source": "iTunes Search API"
     },
@@ -403,31 +419,7 @@
     },
     {
       "id": "itunes:1894015990",
-      "title": "Europe — Takin’ It Back",
-      "releaseDate": "2026-09-25",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1894015990",
-      "title": "Europe — The Angels Must Have Flown",
-      "releaseDate": "2026-09-25",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1894015990",
       "title": "Europe — The Cult of Ignorance",
-      "releaseDate": "2026-09-25",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1894015990",
-      "title": "Europe — The Devil’s Back",
       "releaseDate": "2026-09-25",
       "genre": "Rock",
       "status": "Already Dropped",
@@ -451,22 +443,6 @@
     },
     {
       "id": "itunes:6794460856",
-      "title": "LINKIN PARK — Heavy Is the Crown - Unshatter Film Soundtrack (Live in São Paulo)",
-      "releaseDate": "2026-09-25",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6794460856",
-      "title": "LINKIN PARK — In the End - Unshatter Film Soundtrack (Live in São Paulo)",
-      "releaseDate": "2026-09-25",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6794460856",
       "title": "LINKIN PARK — Numb - Unshatter Film Soundtrack (Live in São Paulo)",
       "releaseDate": "2026-09-25",
       "genre": "Metal",
@@ -480,6 +456,14 @@
       "genre": "Metal",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
+      "title": "Marcus King — Blue",
+      "releaseDate": "2026-09-25",
+      "genre": "Americana",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:1825982048",
