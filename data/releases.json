@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T13:25:04.642Z",
+  "updatedAt": "2026-10-09T13:19:58.021Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 149,
+    "releaseCount": 144,
     "genres": [
       "Rap",
       "Rock",
@@ -82,10 +82,74 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6819374382",
+      "title": "Marcus King — Workin' For A Livin'",
+      "releaseDate": "2026-10-09",
+      "genre": "Americana",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6793557491",
+      "title": "Nicholas Jamerson — Stay With Me",
+      "releaseDate": "2026-10-09",
+      "genre": "Americana",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:6818617894",
       "title": "Beach Weather — New Aesthetic",
       "releaseDate": "2026-10-08",
       "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6795646858",
+      "title": "Pitbull — Gringa Repartera",
+      "releaseDate": "2026-10-08",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6795646858",
+      "title": "Pitbull — In The Bahamas",
+      "releaseDate": "2026-10-08",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6795646858",
+      "title": "Pitbull — Melao",
+      "releaseDate": "2026-10-08",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6795646858",
+      "title": "Pitbull — Qué Calor",
+      "releaseDate": "2026-10-08",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6795646858",
+      "title": "Pitbull — Que Se Encuere",
+      "releaseDate": "2026-10-08",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6795646858",
+      "title": "Pitbull — Tremenda Salsita",
+      "releaseDate": "2026-10-08",
+      "genre": "Pop",
       "status": "New",
       "source": "iTunes Search API"
     },
@@ -258,62 +322,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6798331445",
-      "title": "Judas Priest — Deceiver (Original 1976 Masters)",
-      "releaseDate": "2026-10-02",
-      "genre": "Metal",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6798331445",
-      "title": "Judas Priest — Diamonds and Rust (Original 1976 Masters)",
-      "releaseDate": "2026-10-02",
-      "genre": "Metal",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6798331445",
-      "title": "Judas Priest — Dreamer Deceiver (Original 1976 Masters)",
-      "releaseDate": "2026-10-02",
-      "genre": "Metal",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6798331445",
-      "title": "Judas Priest — Epitaph (Original 1976 Masters)",
-      "releaseDate": "2026-10-02",
-      "genre": "Metal",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6798331445",
-      "title": "Judas Priest — Genocide (Original 1976 Masters)",
-      "releaseDate": "2026-10-02",
-      "genre": "Metal",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6798331445",
-      "title": "Judas Priest — Island of Domination (Original 1976 Masters)",
-      "releaseDate": "2026-10-02",
-      "genre": "Metal",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6798331445",
-      "title": "Judas Priest — Prelude (Original 1976 Masters)",
-      "releaseDate": "2026-10-02",
-      "genre": "Metal",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:6798342679",
       "title": "Judas Priest — Sad Wings of Destiny (50th Anniversary Remixed & Remastered) [DJ Mix]",
       "releaseDate": "2026-10-02",
@@ -332,14 +340,6 @@
     {
       "id": "itunes:6798331445",
       "title": "Judas Priest — The Ripper (Original 1976 Masters)",
-      "releaseDate": "2026-10-02",
-      "genre": "Metal",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6798331445",
-      "title": "Judas Priest — Tyrant (Original 1976 Masters)",
       "releaseDate": "2026-10-02",
       "genre": "Metal",
       "status": "New",
@@ -374,7 +374,7 @@
       "title": "Bruno Mars — Dance With Me",
       "releaseDate": "2026-10-01",
       "genre": "Pop",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -382,7 +382,7 @@
       "title": "Drake — HABIBTI (FOMO)",
       "releaseDate": "2026-10-01",
       "genre": "Rap",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -440,6 +440,14 @@
       "genre": "Country",
       "status": "Already Dropped",
       "source": "MusicBrainz"
+    },
+    {
+      "id": "itunes:6794460856",
+      "title": "LINKIN PARK — In the End - Unshatter Film Soundtrack (Live in São Paulo)",
+      "releaseDate": "2026-09-25",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
     },
     {
       "id": "itunes:6794460856",
@@ -858,14 +866,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:9ae594c4-b2c6-4c50-ba49-04912e727ea0",
-      "title": "Koe Wetzel — Jaded",
-      "releaseDate": "2026-08-07",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6782993734",
       "title": "Nicholas Jamerson — Goodbye Brother",
       "releaseDate": "2026-08-07",
@@ -1176,46 +1176,6 @@
       "genre": "Rap",
       "status": "Already Dropped",
       "source": "MusicBrainz"
-    },
-    {
-      "id": "itunes:6786888877",
-      "title": "Cage the Elephant — Beaches In Tennessee",
-      "releaseDate": "2026-07-10",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6784327271",
-      "title": "Future — Hollywood",
-      "releaseDate": "2026-07-10",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790487991",
-      "title": "Future — The Real Me",
-      "releaseDate": "2026-07-10",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6782992749",
-      "title": "Nicholas Jamerson — Fly",
-      "releaseDate": "2026-07-10",
-      "genre": "Americana",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6780706269",
-      "title": "The Rose Hips — Harder to Stand",
-      "releaseDate": "2026-07-10",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
     }
   ]
 }
