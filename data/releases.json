@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T13:19:58.021Z",
+  "updatedAt": "2026-10-10T17:46:17.313Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 144,
+    "releaseCount": 138,
     "genres": [
       "Rap",
       "Rock",
@@ -98,18 +98,18 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6818617894",
-      "title": "Beach Weather — New Aesthetic",
-      "releaseDate": "2026-10-08",
-      "genre": "Alternative",
+      "id": "itunes:6792889537",
+      "title": "Queen — Crazy Little Thing Called Love (Live in Budapest)",
+      "releaseDate": "2026-10-09",
+      "genre": "Rock",
       "status": "New",
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6795646858",
-      "title": "Pitbull — Gringa Repartera",
+      "id": "itunes:6818617894",
+      "title": "Beach Weather — New Aesthetic",
       "releaseDate": "2026-10-08",
-      "genre": "Pop",
+      "genre": "Alternative",
       "status": "New",
       "source": "iTunes Search API"
     },
@@ -124,6 +124,14 @@
     {
       "id": "itunes:6795646858",
       "title": "Pitbull — Melao",
+      "releaseDate": "2026-10-08",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6821148622",
+      "title": "Pitbull — PITCOIN",
       "releaseDate": "2026-10-08",
       "genre": "Pop",
       "status": "New",
@@ -154,98 +162,10 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6819413731",
-      "title": "Gavin Adcock — 18",
-      "releaseDate": "2026-10-05",
-      "genre": "Country",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6819413731",
-      "title": "Gavin Adcock — Anymore",
-      "releaseDate": "2026-10-05",
-      "genre": "Country",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6819413731",
-      "title": "Gavin Adcock — Bad Off",
-      "releaseDate": "2026-10-05",
-      "genre": "Country",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6819413731",
-      "title": "Gavin Adcock — Dancing In The Flames",
-      "releaseDate": "2026-10-05",
-      "genre": "Country",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6819413731",
-      "title": "Gavin Adcock — Dreamer",
-      "releaseDate": "2026-10-05",
-      "genre": "Country",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6819413731",
-      "title": "Gavin Adcock — Every Other Heartbreak",
-      "releaseDate": "2026-10-05",
-      "genre": "Country",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6819413731",
-      "title": "Gavin Adcock — Get A Grip",
-      "releaseDate": "2026-10-05",
-      "genre": "Country",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6819413731",
-      "title": "Gavin Adcock — Having One Now",
-      "releaseDate": "2026-10-05",
-      "genre": "Country",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6819413731",
-      "title": "Gavin Adcock — Holes In The Boat",
-      "releaseDate": "2026-10-05",
-      "genre": "Country",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6819413731",
-      "title": "Gavin Adcock — Lowball Me",
-      "releaseDate": "2026-10-05",
-      "genre": "Country",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6819413731",
-      "title": "Gavin Adcock — Mama Never Liked You Anyway",
-      "releaseDate": "2026-10-05",
-      "genre": "Country",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6819413731",
-      "title": "Gavin Adcock — Most Wanted",
-      "releaseDate": "2026-10-05",
-      "genre": "Country",
+      "id": "itunes:6821148622",
+      "title": "Pitbull — Work",
+      "releaseDate": "2026-10-08",
+      "genre": "Pop",
       "status": "New",
       "source": "iTunes Search API"
     },
@@ -254,7 +174,7 @@
       "title": "Beach Weather — New Aesthetic",
       "releaseDate": "2026-10-02",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -262,7 +182,7 @@
       "title": "Drake — Classic PT2",
       "releaseDate": "2026-10-02",
       "genre": "Rap",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -270,7 +190,7 @@
       "title": "Drake — Quebec",
       "releaseDate": "2026-10-02",
       "genre": "Rap",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -278,7 +198,7 @@
       "title": "Flatland Cavalry — Cinnamon Sugar (It’s Love)",
       "releaseDate": "2026-10-02",
       "genre": "Country",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -286,7 +206,7 @@
       "title": "Flatland Cavalry — Hard Lessons",
       "releaseDate": "2026-10-02",
       "genre": "Country",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -294,7 +214,7 @@
       "title": "Flatland Cavalry — Heartstrings",
       "releaseDate": "2026-10-02",
       "genre": "Country",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -302,7 +222,7 @@
       "title": "Flatland Cavalry — One More Song",
       "releaseDate": "2026-10-02",
       "genre": "Country",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -310,7 +230,7 @@
       "title": "Flatland Cavalry — Strangers & Angels",
       "releaseDate": "2026-10-02",
       "genre": "Country",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -318,15 +238,111 @@
       "title": "Flatland Cavalry — Work of Heart - Heartstrings",
       "releaseDate": "2026-10-02",
       "genre": "Country",
-      "status": "New",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — 18",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Dancin’ In The Flames",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Dreamer",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Every Other Heartbreak",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Get A Grip",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Holes In The Boat",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Lowball Me",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Mama Never Liked You",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Strangers In A Bar",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:e9df70d5-201b-4697-9c2e-6f592902a947",
+      "title": "Gavin Adcock — The Day I Hang It Up",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Thing For You",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Time For A Slow Down",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
       "id": "itunes:6798342679",
-      "title": "Judas Priest — Sad Wings of Destiny (50th Anniversary Remixed & Remastered) [DJ Mix]",
+      "title": "Judas Priest — Sad Wings of Destiny (50th Anniversary Remixed & Remastered)",
       "releaseDate": "2026-10-02",
       "genre": "Metal",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -334,23 +350,7 @@
       "title": "Judas Priest — Sad Wings of Destiny (Original 1976 Masters)",
       "releaseDate": "2026-10-02",
       "genre": "Metal",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6798331445",
-      "title": "Judas Priest — The Ripper (Original 1976 Masters)",
-      "releaseDate": "2026-10-02",
-      "genre": "Metal",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6798331445",
-      "title": "Judas Priest — Victim of Changes (Original 1976 Masters)",
-      "releaseDate": "2026-10-02",
-      "genre": "Metal",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -358,7 +358,7 @@
       "title": "Kings of Leon — Cold Blue Dawn",
       "releaseDate": "2026-10-02",
       "genre": "Rock",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -366,7 +366,7 @@
       "title": "Rebelution — Real Life",
       "releaseDate": "2026-10-02",
       "genre": "Reggae",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -426,38 +426,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:1894015990",
-      "title": "Europe — This Time of Year",
-      "releaseDate": "2026-09-25",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:ff392700-b455-4cee-ac99-885a67e396e9",
-      "title": "Flatland Cavalry — Cinnamon Sugar (It’s Love)",
-      "releaseDate": "2026-09-25",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "itunes:6794460856",
-      "title": "LINKIN PARK — In the End - Unshatter Film Soundtrack (Live in São Paulo)",
-      "releaseDate": "2026-09-25",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6794460856",
-      "title": "LINKIN PARK — Numb - Unshatter Film Soundtrack (Live in São Paulo)",
-      "releaseDate": "2026-09-25",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:6794460856",
       "title": "LINKIN PARK — Waiting For the End - Unshatter Film Soundtrack (Live in São Paulo)",
       "releaseDate": "2026-09-25",
@@ -478,14 +446,6 @@
       "title": "Billy Idol — Cradle Of Love (R3HAB Remix)",
       "releaseDate": "2026-09-18",
       "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6775448742",
-      "title": "Echo & The Bunnymen — An Unstoppable Force",
-      "releaseDate": "2026-09-18",
-      "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     },
@@ -640,14 +600,6 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:89db81af-f966-47e6-8b0a-1b20d6873a55",
-      "title": "Flatland Cavalry — Strangers & Angels",
-      "releaseDate": "2026-09-04",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
@@ -864,6 +816,14 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:9ae594c4-b2c6-4c50-ba49-04912e727ea0",
+      "title": "Koe Wetzel — Jaded",
+      "releaseDate": "2026-08-07",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6782993734",
@@ -1168,14 +1128,6 @@
       "genre": "Rock",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:492c2054-ff01-435e-b54f-fcf75a3b3c9c",
-      "title": "Baby Smoove — Baby 2",
-      "releaseDate": "2026-07-11",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     }
   ]
 }
