@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T18:06:12.286Z",
+  "updatedAt": "2026-10-12T21:46:06.475Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 140,
+    "releaseCount": 138,
     "genres": [
       "Rap",
       "Rock",
@@ -180,14 +180,6 @@
     {
       "id": "itunes:6818209777",
       "title": "Drake — Classic PT2",
-      "releaseDate": "2026-10-02",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6818059268",
-      "title": "Drake — Quebec",
       "releaseDate": "2026-10-02",
       "genre": "Rap",
       "status": "Already Dropped",
@@ -870,14 +862,6 @@
       "title": "Weezer — C.E.O.",
       "releaseDate": "2026-08-05",
       "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6794460856",
-      "title": "LINKIN PARK — Somewhere I Belong - Unshatter Film Soundtrack (Live in São Paulo)",
-      "releaseDate": "2026-08-04",
-      "genre": "Metal",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     },
