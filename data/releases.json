@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T21:46:06.475Z",
+  "updatedAt": "2026-10-13T19:53:25.644Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 138,
+    "releaseCount": 134,
     "genres": [
       "Rap",
       "Rock",
@@ -146,7 +146,7 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6795646858",
+      "id": "itunes:6821148622",
       "title": "Pitbull — Que Se Encuere",
       "releaseDate": "2026-10-08",
       "genre": "Pop",
@@ -467,14 +467,6 @@
     },
     {
       "id": "itunes:6775448742",
-      "title": "Echo & The Bunnymen — I'll Be Your Sunshine",
-      "releaseDate": "2026-09-18",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6775448742",
       "title": "Echo & The Bunnymen — Lab Rats Ran",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
@@ -484,14 +476,6 @@
     {
       "id": "itunes:6775448742",
       "title": "Echo & The Bunnymen — Take Me By The Hand",
-      "releaseDate": "2026-09-18",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6775448742",
-      "title": "Echo & The Bunnymen — The Honey",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
       "status": "Already Dropped",
@@ -1110,22 +1094,6 @@
       "title": "Echo & The Bunnymen — Brussels Is Haunted",
       "releaseDate": "2026-07-16",
       "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6789364352",
-      "title": "Billy Idol — Eyes Without A Face (Live from Apple Music Studios)",
-      "releaseDate": "2026-07-14",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6789364352",
-      "title": "Billy Idol — White Wedding (Live from Apple Music Studios)",
-      "releaseDate": "2026-07-14",
-      "genre": "Rock",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     }
