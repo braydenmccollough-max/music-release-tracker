@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T17:51:45.486Z",
+  "updatedAt": "2026-10-15T17:43:02.877Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 134,
+    "releaseCount": 126,
     "genres": [
       "Rap",
       "Rock",
@@ -28,14 +28,6 @@
     {
       "id": "itunes:6814651927",
       "title": "Billy Joel — Turnstiles - 50th Anniversary",
-      "releaseDate": "2026-12-11",
-      "genre": "Rock",
-      "status": "Upcoming",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6807199560",
-      "title": "Bush — Razorblade Suitcase (Deluxe Edition)",
       "releaseDate": "2026-12-11",
       "genre": "Rock",
       "status": "Upcoming",
@@ -122,14 +114,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6795646858",
-      "title": "Pitbull — Melao",
-      "releaseDate": "2026-10-08",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:6821148622",
       "title": "Pitbull — PITCOIN",
       "releaseDate": "2026-10-08",
@@ -139,31 +123,7 @@
     },
     {
       "id": "itunes:6795646858",
-      "title": "Pitbull — Qué Calor",
-      "releaseDate": "2026-10-08",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6821148622",
       "title": "Pitbull — Que Se Encuere",
-      "releaseDate": "2026-10-08",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6795646858",
-      "title": "Pitbull — Tremenda Salsita",
-      "releaseDate": "2026-10-08",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6821148622",
-      "title": "Pitbull — Work",
       "releaseDate": "2026-10-08",
       "genre": "Pop",
       "status": "New",
@@ -234,100 +194,12 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — 18",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Dancin’ In The Flames",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Dreamer",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Every Other Heartbreak",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Get A Grip",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Holes In The Boat",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Lowball Me",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Mama Never Liked You",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Strangers In A Bar",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "musicbrainz:e9df70d5-201b-4697-9c2e-6f592902a947",
       "title": "Gavin Adcock — The Day I Hang It Up",
       "releaseDate": "2026-10-02",
       "genre": "Country",
       "status": "Already Dropped",
       "source": "MusicBrainz"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Thing For You",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Time For A Slow Down",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
     },
     {
       "id": "itunes:6798342679",
@@ -378,16 +250,96 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:1894015990",
-      "title": "Europe — Come This Madness",
-      "releaseDate": "2026-09-25",
-      "genre": "Rock",
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — 18",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Dancin’ In The Flames",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6819413731",
+      "title": "Gavin Adcock — Dancing In The Flames",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Dreamer",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Every Other Heartbreak",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Get A Grip",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Holes In The Boat",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Mama Never Liked You",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6819413731",
+      "title": "Gavin Adcock — Mama Never Liked You Anyway",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6819413731",
+      "title": "Gavin Adcock — Most Wanted",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Strangers In A Bar",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
       "id": "itunes:1894015990",
-      "title": "Europe — In a Different World",
+      "title": "Europe — Come This Madness",
       "releaseDate": "2026-09-25",
       "genre": "Rock",
       "status": "Already Dropped",
@@ -432,14 +384,6 @@
       "genre": "Metal",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
-      "title": "Marcus King — Blue",
-      "releaseDate": "2026-09-25",
-      "genre": "Americana",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:1825982048",
@@ -842,6 +786,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:1886265303",
+      "title": "The Charlie Daniels Band — Uneasy Rider - Volunteer Jam XII (Live)",
+      "releaseDate": "2026-08-07",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:6772364953",
       "title": "Weezer — C.E.O.",
       "releaseDate": "2026-08-05",
@@ -1078,22 +1030,6 @@
       "title": "Mike Posner — Unfamiliar Moon (with Vance Gilbert)",
       "releaseDate": "2026-07-17",
       "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:cbdf1cbc-170a-47a8-af5f-2a29ad274285",
-      "title": "Slightly Stoopid — Backseat Drivin'",
-      "releaseDate": "2026-07-17",
-      "genre": "Reggae",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "itunes:6775448742",
-      "title": "Echo & The Bunnymen — Brussels Is Haunted",
-      "releaseDate": "2026-07-16",
-      "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     }
