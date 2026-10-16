@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T17:43:02.877Z",
+  "updatedAt": "2026-10-16T17:18:17.932Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 126,
+    "releaseCount": 145,
     "genres": [
       "Rap",
       "Rock",
@@ -74,6 +74,278 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6818585067",
+      "title": "Big Mountain — Vodoo",
+      "releaseDate": "2026-10-16",
+      "genre": "Reggae",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6802463557",
+      "title": "David Allan Coe — A Million Reasons",
+      "releaseDate": "2026-10-16",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6802463557",
+      "title": "David Allan Coe — A Million Reasons (Acoustic)",
+      "releaseDate": "2026-10-16",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6802463557",
+      "title": "David Allan Coe — Corner of Cash and Coe",
+      "releaseDate": "2026-10-16",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6802463557",
+      "title": "David Allan Coe — Free My Mind",
+      "releaseDate": "2026-10-16",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6802463557",
+      "title": "David Allan Coe — No Holes in These Hands",
+      "releaseDate": "2026-10-16",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6802463557",
+      "title": "David Allan Coe — Only God Knows Why",
+      "releaseDate": "2026-10-16",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6802463557",
+      "title": "David Allan Coe — Roll Me a Smoke",
+      "releaseDate": "2026-10-16",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6802463557",
+      "title": "David Allan Coe — Single Father",
+      "releaseDate": "2026-10-16",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6802463557",
+      "title": "David Allan Coe — Take This Job and Shove It",
+      "releaseDate": "2026-10-16",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792085051",
+      "title": "Fontaines D.C. — Demolition",
+      "releaseDate": "2026-10-16",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792085051",
+      "title": "Fontaines D.C. — Happy For You",
+      "releaseDate": "2026-10-16",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792085051",
+      "title": "Fontaines D.C. — Intimate",
+      "releaseDate": "2026-10-16",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792085051",
+      "title": "Fontaines D.C. — Mimesis",
+      "releaseDate": "2026-10-16",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792085051",
+      "title": "Fontaines D.C. — One Man",
+      "releaseDate": "2026-10-16",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792085051",
+      "title": "Fontaines D.C. — Six Shot Morning",
+      "releaseDate": "2026-10-16",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792085051",
+      "title": "Fontaines D.C. — You Miss Me",
+      "releaseDate": "2026-10-16",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6802901441",
+      "title": "Kings of Leon — KOYSAR",
+      "releaseDate": "2026-10-16",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6822944288",
+      "title": "Zach Bryan — Backwards",
+      "releaseDate": "2026-10-16",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6822944288",
+      "title": "Zach Bryan — Lodi When",
+      "releaseDate": "2026-10-16",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6822944288",
+      "title": "Zach Bryan — Robot Killed The Working Man",
+      "releaseDate": "2026-10-16",
+      "genre": "Country",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6822478641",
+      "title": "Gucci Mane — 1017",
+      "releaseDate": "2026-10-15",
+      "genre": "Rap",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6822478641",
+      "title": "Gucci Mane — Against All Odds",
+      "releaseDate": "2026-10-15",
+      "genre": "Rap",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6822478641",
+      "title": "Gucci Mane — All I have",
+      "releaseDate": "2026-10-15",
+      "genre": "Rap",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6822478641",
+      "title": "Gucci Mane — Back against the wall",
+      "releaseDate": "2026-10-15",
+      "genre": "Rap",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6822478641",
+      "title": "Gucci Mane — CRASH DUMMY",
+      "releaseDate": "2026-10-15",
+      "genre": "Rap",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6822478641",
+      "title": "Gucci Mane — Crazy Bih",
+      "releaseDate": "2026-10-15",
+      "genre": "Rap",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6822478641",
+      "title": "Gucci Mane — Drunk",
+      "releaseDate": "2026-10-15",
+      "genre": "Rap",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6822478641",
+      "title": "Gucci Mane — Fucc errybody",
+      "releaseDate": "2026-10-15",
+      "genre": "Rap",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6822478641",
+      "title": "Gucci Mane — Get the F out my face",
+      "releaseDate": "2026-10-15",
+      "genre": "Rap",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6822478641",
+      "title": "Gucci Mane — Lambo pass by (feat. OJ da Juiceman)",
+      "releaseDate": "2026-10-15",
+      "genre": "Rap",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6822478641",
+      "title": "Gucci Mane — Priorities (feat. ICE DAVIS)",
+      "releaseDate": "2026-10-15",
+      "genre": "Rap",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6822478641",
+      "title": "Gucci Mane — Rich ass n***a",
+      "releaseDate": "2026-10-15",
+      "genre": "Rap",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6812412381",
+      "title": "U2 — The Greatest Show On Earth",
+      "releaseDate": "2026-10-15",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:6819374382",
       "title": "Marcus King — Workin' For A Livin'",
       "releaseDate": "2026-10-09",
@@ -102,7 +374,7 @@
       "title": "Beach Weather — New Aesthetic",
       "releaseDate": "2026-10-08",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -110,7 +382,7 @@
       "title": "Pitbull — In The Bahamas",
       "releaseDate": "2026-10-08",
       "genre": "Pop",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -118,7 +390,7 @@
       "title": "Pitbull — PITCOIN",
       "releaseDate": "2026-10-08",
       "genre": "Pop",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -126,7 +398,7 @@
       "title": "Pitbull — Que Se Encuere",
       "releaseDate": "2026-10-08",
       "genre": "Pop",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -386,6 +658,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
+      "title": "Marcus King — Blue",
+      "releaseDate": "2026-09-25",
+      "genre": "Americana",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:1825982048",
       "title": "Billy Idol — Cradle Of Love (R3HAB Remix)",
       "releaseDate": "2026-09-18",
@@ -534,14 +814,6 @@
       "title": "Flatland Cavalry — Strangers & Angels",
       "releaseDate": "2026-09-04",
       "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
-      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
-      "releaseDate": "2026-09-04",
-      "genre": "Pop",
       "status": "Already Dropped",
       "source": "MusicBrainz"
     },
@@ -754,6 +1026,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6818585067",
+      "title": "Big Mountain — Vodoo",
+      "releaseDate": "2026-08-07",
+      "genre": "Reggae",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "musicbrainz:9ae594c4-b2c6-4c50-ba49-04912e727ea0",
       "title": "Koe Wetzel — Jaded",
       "releaseDate": "2026-08-07",
@@ -902,134 +1182,6 @@
       "title": "Charles Wesley Godwin — Try Again",
       "releaseDate": "2026-07-24",
       "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1895184628",
-      "title": "Loathe — A Stranger To You",
-      "releaseDate": "2026-07-17",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1895184628",
-      "title": "Loathe — Block Of Flats (feat. Static Dress)",
-      "releaseDate": "2026-07-17",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1895184628",
-      "title": "Loathe — Entrance (feat. bucki sugar)",
-      "releaseDate": "2026-07-17",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1895184628",
-      "title": "Loathe — Fangs",
-      "releaseDate": "2026-07-17",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1895184628",
-      "title": "Loathe — Fortress Down",
-      "releaseDate": "2026-07-17",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1895184628",
-      "title": "Loathe — Gemini",
-      "releaseDate": "2026-07-17",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1895184628",
-      "title": "Loathe — Gifted Every Strength",
-      "releaseDate": "2026-07-17",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1895184628",
-      "title": "Loathe — Harder To Pretend",
-      "releaseDate": "2026-07-17",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1895184628",
-      "title": "Loathe — Meet My Maker",
-      "releaseDate": "2026-07-17",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1895184628",
-      "title": "Loathe — No Stranger To You...",
-      "releaseDate": "2026-07-17",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1895184628",
-      "title": "Loathe — Nothing Like The Knife",
-      "releaseDate": "2026-07-17",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1895184628",
-      "title": "Loathe — The Ladder (feat. Jordan Rakei)",
-      "releaseDate": "2026-07-17",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1698206288",
-      "title": "Mike Posner — Crazy Rainbow",
-      "releaseDate": "2026-07-17",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1698206288",
-      "title": "Mike Posner — Peach (with Alec Benjamin)",
-      "releaseDate": "2026-07-17",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1698206288",
-      "title": "Mike Posner — Stronger (with Adam Friedman)",
-      "releaseDate": "2026-07-17",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1698206288",
-      "title": "Mike Posner — Unfamiliar Moon (with Vance Gilbert)",
-      "releaseDate": "2026-07-17",
-      "genre": "Pop",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     }
