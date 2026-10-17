@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T17:18:17.932Z",
+  "updatedAt": "2026-10-17T16:16:16.888Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 145,
+    "releaseCount": 143,
     "genres": [
       "Rap",
       "Rock",
@@ -210,7 +210,7 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6802901441",
+      "id": "itunes:6818670936",
       "title": "Kings of Leon — KOYSAR",
       "releaseDate": "2026-10-16",
       "genre": "Rock",
@@ -350,7 +350,7 @@
       "title": "Marcus King — Workin' For A Livin'",
       "releaseDate": "2026-10-09",
       "genre": "Americana",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -358,7 +358,7 @@
       "title": "Nicholas Jamerson — Stay With Me",
       "releaseDate": "2026-10-09",
       "genre": "Americana",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -366,7 +366,7 @@
       "title": "Queen — Crazy Little Thing Called Love (Live in Budapest)",
       "releaseDate": "2026-10-09",
       "genre": "Rock",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -642,14 +642,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:ff392700-b455-4cee-ac99-885a67e396e9",
-      "title": "Flatland Cavalry — Cinnamon Sugar (It’s Love)",
-      "releaseDate": "2026-09-25",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6794460856",
       "title": "LINKIN PARK — Waiting For the End - Unshatter Film Soundtrack (Live in São Paulo)",
       "releaseDate": "2026-09-25",
@@ -810,10 +802,10 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:89db81af-f966-47e6-8b0a-1b20d6873a55",
-      "title": "Flatland Cavalry — Strangers & Angels",
+      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
+      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
       "releaseDate": "2026-09-04",
-      "genre": "Country",
+      "genre": "Pop",
       "status": "Already Dropped",
       "source": "MusicBrainz"
     },
@@ -1060,14 +1052,6 @@
     {
       "id": "itunes:1886265303",
       "title": "The Charlie Daniels Band — The Best Of The Charlie Daniels Band Volunteer Jam (Live)",
-      "releaseDate": "2026-08-07",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1886265303",
-      "title": "The Charlie Daniels Band — Uneasy Rider - Volunteer Jam XII (Live)",
       "releaseDate": "2026-08-07",
       "genre": "Country",
       "status": "Already Dropped",
