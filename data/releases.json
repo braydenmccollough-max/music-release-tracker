@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T16:16:16.888Z",
+  "updatedAt": "2026-10-18T16:27:40.484Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -394,14 +394,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6795646858",
-      "title": "Pitbull — Que Se Encuere",
-      "releaseDate": "2026-10-08",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:6818617894",
       "title": "Beach Weather — New Aesthetic",
       "releaseDate": "2026-10-02",
@@ -642,20 +634,20 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:ff392700-b455-4cee-ac99-885a67e396e9",
+      "title": "Flatland Cavalry — Cinnamon Sugar (It’s Love)",
+      "releaseDate": "2026-09-25",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6794460856",
       "title": "LINKIN PARK — Waiting For the End - Unshatter Film Soundtrack (Live in São Paulo)",
       "releaseDate": "2026-09-25",
       "genre": "Metal",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
-      "title": "Marcus King — Blue",
-      "releaseDate": "2026-09-25",
-      "genre": "Americana",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:1825982048",
@@ -800,6 +792,14 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:89db81af-f966-47e6-8b0a-1b20d6873a55",
+      "title": "Flatland Cavalry — Strangers & Angels",
+      "releaseDate": "2026-09-04",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
