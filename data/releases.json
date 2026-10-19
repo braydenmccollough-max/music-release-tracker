@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T16:27:40.484Z",
+  "updatedAt": "2026-10-19T19:08:18.808Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 143,
+    "releaseCount": 142,
     "genres": [
       "Rap",
       "Rock",
@@ -28,6 +28,14 @@
     {
       "id": "itunes:6814651927",
       "title": "Billy Joel — Turnstiles - 50th Anniversary",
+      "releaseDate": "2026-12-11",
+      "genre": "Rock",
+      "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6807199560",
+      "title": "Bush — Razorblade Suitcase (Deluxe Edition)",
       "releaseDate": "2026-12-11",
       "genre": "Rock",
       "status": "Upcoming",
@@ -346,14 +354,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6819374382",
-      "title": "Marcus King — Workin' For A Livin'",
-      "releaseDate": "2026-10-09",
-      "genre": "Americana",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:6793557491",
       "title": "Nicholas Jamerson — Stay With Me",
       "releaseDate": "2026-10-09",
@@ -374,14 +374,6 @@
       "title": "Beach Weather — New Aesthetic",
       "releaseDate": "2026-10-08",
       "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6795646858",
-      "title": "Pitbull — In The Bahamas",
-      "releaseDate": "2026-10-08",
-      "genre": "Pop",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     },
@@ -650,6 +642,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
+      "title": "Marcus King — Blue",
+      "releaseDate": "2026-09-25",
+      "genre": "Americana",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:1825982048",
       "title": "Billy Idol — Cradle Of Love (R3HAB Remix)",
       "releaseDate": "2026-09-18",
@@ -798,14 +798,6 @@
       "title": "Flatland Cavalry — Strangers & Angels",
       "releaseDate": "2026-09-04",
       "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
-      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
-      "releaseDate": "2026-09-04",
-      "genre": "Pop",
       "status": "Already Dropped",
       "source": "MusicBrainz"
     },
