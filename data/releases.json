@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T17:51:44.058Z",
+  "updatedAt": "2026-10-21T18:00:55.702Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 141,
+    "releaseCount": 139,
     "genres": [
       "Rap",
       "Rock",
@@ -79,6 +79,14 @@
       "releaseDate": "2026-10-23",
       "genre": "Pop",
       "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6824406250",
+      "title": "Aaliyah — Fresh",
+      "releaseDate": "2026-10-16",
+      "genre": "R&B/Soul",
+      "status": "New",
       "source": "iTunes Search API"
     },
     {
@@ -706,14 +714,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6809909624",
-      "title": "Rebelution — Real Life",
-      "releaseDate": "2026-09-17",
-      "genre": "Reggae",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:6773766930",
       "title": "Nicholas Jamerson — Be Strong",
       "releaseDate": "2026-09-11",
@@ -790,14 +790,6 @@
       "title": "Flatland Cavalry — Strangers & Angels",
       "releaseDate": "2026-09-04",
       "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
-      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
-      "releaseDate": "2026-09-04",
-      "genre": "Pop",
       "status": "Already Dropped",
       "source": "MusicBrainz"
     },
@@ -1024,14 +1016,6 @@
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:025d663b-d0cf-434e-a771-95963b90eff5",
-      "title": "Rebelution — Let Go",
-      "releaseDate": "2026-08-07",
-      "genre": "Reggae",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:1886265303",
