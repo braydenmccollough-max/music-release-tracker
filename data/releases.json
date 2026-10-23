@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T17:58:21.758Z",
+  "updatedAt": "2026-10-23T17:49:22.015Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 139,
+    "releaseCount": 123,
     "genres": [
       "Rap",
       "Rock",
@@ -78,7 +78,15 @@
       "title": "Frank Sinatra — Sinatra At The Sands",
       "releaseDate": "2026-10-23",
       "genre": "Pop",
-      "status": "Upcoming",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6824422926",
+      "title": "John Mayer — Tom and Jerry",
+      "releaseDate": "2026-10-23",
+      "genre": "Americana",
+      "status": "New",
       "source": "iTunes Search API"
     },
     {
@@ -259,26 +267,10 @@
     },
     {
       "id": "itunes:6822478641",
-      "title": "Gucci Mane — 1017",
-      "releaseDate": "2026-10-15",
-      "genre": "Rap",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6822478641",
       "title": "Gucci Mane — Against All Odds",
       "releaseDate": "2026-10-15",
       "genre": "Rap",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6822478641",
-      "title": "Gucci Mane — All I have",
-      "releaseDate": "2026-10-15",
-      "genre": "Rap",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -286,7 +278,7 @@
       "title": "Gucci Mane — Back against the wall",
       "releaseDate": "2026-10-15",
       "genre": "Rap",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -294,63 +286,15 @@
       "title": "Gucci Mane — CRASH DUMMY",
       "releaseDate": "2026-10-15",
       "genre": "Rap",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
       "id": "itunes:6822478641",
-      "title": "Gucci Mane — Crazy Bih",
+      "title": "Gucci Mane — Yall make me sick",
       "releaseDate": "2026-10-15",
       "genre": "Rap",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6822478641",
-      "title": "Gucci Mane — Drunk",
-      "releaseDate": "2026-10-15",
-      "genre": "Rap",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6822478641",
-      "title": "Gucci Mane — Fucc errybody",
-      "releaseDate": "2026-10-15",
-      "genre": "Rap",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6822478641",
-      "title": "Gucci Mane — Get the F out my face",
-      "releaseDate": "2026-10-15",
-      "genre": "Rap",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6822478641",
-      "title": "Gucci Mane — Lambo pass by (feat. OJ da Juiceman)",
-      "releaseDate": "2026-10-15",
-      "genre": "Rap",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6822478641",
-      "title": "Gucci Mane — Priorities (feat. ICE DAVIS)",
-      "releaseDate": "2026-10-15",
-      "genre": "Rap",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6822478641",
-      "title": "Gucci Mane — Rich ass n***a",
-      "releaseDate": "2026-10-15",
-      "genre": "Rap",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -358,7 +302,7 @@
       "title": "U2 — The Greatest Show On Earth",
       "releaseDate": "2026-10-15",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -366,6 +310,14 @@
       "title": "Nicholas Jamerson — Stay With Me",
       "releaseDate": "2026-10-09",
       "genre": "Americana",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — Crazy Little Thing Called Love (Live in Budapest)",
+      "releaseDate": "2026-10-09",
+      "genre": "Rock",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     },
@@ -626,6 +578,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:ff392700-b455-4cee-ac99-885a67e396e9",
+      "title": "Flatland Cavalry — Cinnamon Sugar (It’s Love)",
+      "releaseDate": "2026-09-25",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6794460856",
       "title": "LINKIN PARK — Waiting For the End - Unshatter Film Soundtrack (Live in São Paulo)",
       "releaseDate": "2026-09-25",
@@ -778,10 +738,10 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
-      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
+      "id": "musicbrainz:89db81af-f966-47e6-8b0a-1b20d6873a55",
+      "title": "Flatland Cavalry — Strangers & Angels",
       "releaseDate": "2026-09-04",
-      "genre": "Pop",
+      "genre": "Country",
       "status": "Already Dropped",
       "source": "MusicBrainz"
     },
@@ -1046,94 +1006,6 @@
       "title": "Plain White T's — Hey There Delilah (feat. LØLØ)",
       "releaseDate": "2026-07-31",
       "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1896261802",
-      "title": "Charles Wesley Godwin — Brand New",
-      "releaseDate": "2026-07-24",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1896261802",
-      "title": "Charles Wesley Godwin — Christian Name",
-      "releaseDate": "2026-07-24",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1896261802",
-      "title": "Charles Wesley Godwin — Every Once In A While",
-      "releaseDate": "2026-07-24",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1896261802",
-      "title": "Charles Wesley Godwin — God's Been Good To Me",
-      "releaseDate": "2026-07-24",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1896261802",
-      "title": "Charles Wesley Godwin — Gospel Of The South",
-      "releaseDate": "2026-07-24",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1896261802",
-      "title": "Charles Wesley Godwin — Hallelujah High",
-      "releaseDate": "2026-07-24",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1896261802",
-      "title": "Charles Wesley Godwin — I Caught The Sunrise",
-      "releaseDate": "2026-07-24",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1896261802",
-      "title": "Charles Wesley Godwin — Place I Know",
-      "releaseDate": "2026-07-24",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1896261802",
-      "title": "Charles Wesley Godwin — Sermon",
-      "releaseDate": "2026-07-24",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1896261802",
-      "title": "Charles Wesley Godwin — Street Advice",
-      "releaseDate": "2026-07-24",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1896261802",
-      "title": "Charles Wesley Godwin — Try Again",
-      "releaseDate": "2026-07-24",
-      "genre": "Country",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     }
