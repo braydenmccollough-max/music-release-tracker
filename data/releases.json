@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T16:37:55.788Z",
+  "updatedAt": "2026-10-25T17:11:27.645Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 120,
+    "releaseCount": 115,
     "genres": [
       "Rap",
       "Rock",
@@ -82,22 +82,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:2bea6396-95e0-4428-95c1-992233a7de75",
-      "title": "Baby Smoove — Late Night Special",
-      "releaseDate": "2026-10-22",
-      "genre": "Rap",
-      "status": "New",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "musicbrainz:904e9dfc-43b0-42e9-bb5b-7cc21154a015",
-      "title": "Baby Smoove — Love Need Me",
-      "releaseDate": "2026-10-22",
-      "genre": "Rap",
-      "status": "New",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6824406250",
       "title": "Aaliyah — Fresh",
       "releaseDate": "2026-10-16",
@@ -123,14 +107,6 @@
     },
     {
       "id": "itunes:6802463557",
-      "title": "David Allan Coe — A Million Reasons (Acoustic)",
-      "releaseDate": "2026-10-16",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6802463557",
       "title": "David Allan Coe — Corner of Cash and Coe",
       "releaseDate": "2026-10-16",
       "genre": "Country",
@@ -140,14 +116,6 @@
     {
       "id": "itunes:6802463557",
       "title": "David Allan Coe — Free My Mind",
-      "releaseDate": "2026-10-16",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6802463557",
-      "title": "David Allan Coe — No Holes in These Hands",
       "releaseDate": "2026-10-16",
       "genre": "Country",
       "status": "Already Dropped",
@@ -386,6 +354,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:e9df70d5-201b-4697-9c2e-6f592902a947",
+      "title": "Gavin Adcock — The Day I Hang It Up",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6798342679",
       "title": "Judas Priest — Sad Wings of Destiny (50th Anniversary Remixed & Remastered)",
       "releaseDate": "2026-10-02",
@@ -516,14 +492,6 @@
     {
       "id": "itunes:6790547272",
       "title": "Gavin Adcock — Strangers In A Bar",
-      "releaseDate": "2026-09-28",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Thing For You",
       "releaseDate": "2026-09-28",
       "genre": "Country",
       "status": "Already Dropped",
@@ -712,14 +680,6 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
-      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
-      "releaseDate": "2026-09-04",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6776371718",
