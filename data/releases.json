@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T17:11:27.645Z",
+  "updatedAt": "2026-10-26T19:11:25.060Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 115,
+    "releaseCount": 126,
     "genres": [
       "Rap",
       "Rock",
@@ -67,7 +67,95 @@
     },
     {
       "id": "itunes:6801395086",
-      "title": "Frank Sinatra — Sinatra At The Sands",
+      "title": "Frank Sinatra — Come Fly With Me (Live At The Sands, Las Vegas, NV / January 26, 1966 / Second Show)",
+      "releaseDate": "2026-10-23",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801395086",
+      "title": "Frank Sinatra — Don't Worry 'Bout Me (Live At The Sands, Las Vegas, NV / February 1, 1966 / Second Show)",
+      "releaseDate": "2026-10-23",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801395086",
+      "title": "Frank Sinatra — Don't Worry 'Bout Me (Live At The Sands, Las Vegas, NV / January 26, 1966 / Second Show)",
+      "releaseDate": "2026-10-23",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801395086",
+      "title": "Frank Sinatra — Don't Worry 'Bout Me (Live At The Sands, Las Vegas, NV / January 27, 1966 / First Show)",
+      "releaseDate": "2026-10-23",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801395086",
+      "title": "Frank Sinatra — Fly Me To The Moon (Live At The Sands, Las Vegas, NV / January 28, 1966 / First Show)",
+      "releaseDate": "2026-10-23",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801395086",
+      "title": "Frank Sinatra — I've Got A Crush On You (Live At The Sands, Las Vegas, NV / February 1, 1966 / Second Show)",
+      "releaseDate": "2026-10-23",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801395086",
+      "title": "Frank Sinatra — I've Got A Crush On You (Live At The Sands, Las Vegas, NV / January 26, 1966 / Second Show)",
+      "releaseDate": "2026-10-23",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801395086",
+      "title": "Frank Sinatra — I've Got A Crush On You (Live At The Sands, Las Vegas, NV / January 27, 1966 / First Show)",
+      "releaseDate": "2026-10-23",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801395086",
+      "title": "Frank Sinatra — I've Got A Crush On You (Live At The Sands, Las Vegas, NV / January 28, 1966 / First Show)",
+      "releaseDate": "2026-10-23",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801395086",
+      "title": "Frank Sinatra — I've Got A Crush On You (Live At The Sands, Las Vegas, NV / January 29, 1966 / First Show)",
+      "releaseDate": "2026-10-23",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801395086",
+      "title": "Frank Sinatra — I've Got You Under My Skin (Live At The Sands, Las Vegas, NV / January 26, 1966 / Second Show)",
+      "releaseDate": "2026-10-23",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801395086",
+      "title": "Frank Sinatra — I've Got You Under My Skin (Live At The Sands, Las Vegas, NV / January 27, 1966 / First Show)",
       "releaseDate": "2026-10-23",
       "genre": "Pop",
       "status": "New",
@@ -80,6 +168,22 @@
       "genre": "Americana",
       "status": "New",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:2bea6396-95e0-4428-95c1-992233a7de75",
+      "title": "Baby Smoove — Late Night Special",
+      "releaseDate": "2026-10-22",
+      "genre": "Rap",
+      "status": "New",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "musicbrainz:904e9dfc-43b0-42e9-bb5b-7cc21154a015",
+      "title": "Baby Smoove — Love Need Me",
+      "releaseDate": "2026-10-22",
+      "genre": "Rap",
+      "status": "New",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6824406250",
@@ -108,22 +212,6 @@
     {
       "id": "itunes:6802463557",
       "title": "David Allan Coe — Corner of Cash and Coe",
-      "releaseDate": "2026-10-16",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6802463557",
-      "title": "David Allan Coe — Free My Mind",
-      "releaseDate": "2026-10-16",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6802463557",
-      "title": "David Allan Coe — Only God Knows Why",
       "releaseDate": "2026-10-16",
       "genre": "Country",
       "status": "Already Dropped",
@@ -250,14 +338,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6822478641",
-      "title": "Gucci Mane — Yall make me sick",
-      "releaseDate": "2026-10-15",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:6812412381",
       "title": "U2 — The Greatest Show On Earth",
       "releaseDate": "2026-10-15",
@@ -352,14 +432,6 @@
       "genre": "Country",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:e9df70d5-201b-4697-9c2e-6f592902a947",
-      "title": "Gavin Adcock — The Day I Hang It Up",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6798342679",
@@ -498,6 +570,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Thing For You",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:1894015990",
       "title": "Europe — Come This Madness",
       "releaseDate": "2026-09-25",
@@ -530,18 +610,10 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6794460856",
-      "title": "LINKIN PARK — Waiting For the End - Unshatter Film Soundtrack (Live in São Paulo)",
+      "id": "musicbrainz:ff392700-b455-4cee-ac99-885a67e396e9",
+      "title": "Flatland Cavalry — Cinnamon Sugar (It’s Love)",
       "releaseDate": "2026-09-25",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
-      "title": "Marcus King — Blue",
-      "releaseDate": "2026-09-25",
-      "genre": "Americana",
+      "genre": "Country",
       "status": "Already Dropped",
       "source": "MusicBrainz"
     },
@@ -564,6 +636,14 @@
     {
       "id": "itunes:6775448742",
       "title": "Echo & The Bunnymen — Can't Be Sold",
+      "releaseDate": "2026-09-18",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6775448742",
+      "title": "Echo & The Bunnymen — I'll Be Your Sunshine",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
       "status": "Already Dropped",
@@ -680,6 +760,22 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:89db81af-f966-47e6-8b0a-1b20d6873a55",
+      "title": "Flatland Cavalry — Strangers & Angels",
+      "releaseDate": "2026-09-04",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
+      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
+      "releaseDate": "2026-09-04",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6776371718",
@@ -888,14 +984,6 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:9ae594c4-b2c6-4c50-ba49-04912e727ea0",
-      "title": "Koe Wetzel — Jaded",
-      "releaseDate": "2026-08-07",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6782993734",
