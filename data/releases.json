@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T18:42:17.631Z",
+  "updatedAt": "2026-10-28T18:51:52.174Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 129,
+    "releaseCount": 130,
     "genres": [
       "Rap",
       "Rock",
@@ -32,6 +32,14 @@
       "genre": "Rock",
       "status": "Upcoming",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:09f9581c-52b0-4d2b-bb1b-d5902830b8c1",
+      "title": "U2 — Carnaval de luz",
+      "releaseDate": "2026-11-13",
+      "genre": "Alternative",
+      "status": "Upcoming",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6781405825",
@@ -66,49 +74,9 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6801395086",
-      "title": "Frank Sinatra — \"A Few Last Words\" (Monologue) [Live At The Sands, Las Vegas, NV / February 1, 1966 / Second Show]",
-      "releaseDate": "2026-10-23",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801395086",
-      "title": "Frank Sinatra — \"A Few Last Words\" (Monologue) [Live At The Sands, Las Vegas, NV / January 26, 1966 / Second Show]",
-      "releaseDate": "2026-10-23",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801395086",
-      "title": "Frank Sinatra — \"A Few Last Words\" (Monologue) [Live At The Sands, Las Vegas, NV / January 27, 1966 / First Show]",
-      "releaseDate": "2026-10-23",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801395086",
-      "title": "Frank Sinatra — \"A Few Last Words\" (Monologue) [Live At The Sands, Las Vegas, NV / January 28, 1966 / First Show]",
-      "releaseDate": "2026-10-23",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801395086",
-      "title": "Frank Sinatra — \"A Few Last Words\" (Monologue) [Live At The Sands, Las Vegas, NV / January 29, 1966 / First Show]",
-      "releaseDate": "2026-10-23",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801395086",
-      "title": "Frank Sinatra — \"The Tea Break\" (Monologue) [Live At The Sands, Las Vegas, NV / February 1, 1966 / Second Show]",
-      "releaseDate": "2026-10-23",
+      "id": "itunes:6825689288",
+      "title": "Jason Derulo — MOVE LIKE THAT",
+      "releaseDate": "2026-10-27",
       "genre": "Pop",
       "status": "New",
       "source": "iTunes Search API"
@@ -116,30 +84,6 @@
     {
       "id": "itunes:6801395086",
       "title": "Frank Sinatra — \"The Tea Break\" (Monologue) [Live At The Sands, Las Vegas, NV / January 26, 1966 / Second Show]",
-      "releaseDate": "2026-10-23",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801395086",
-      "title": "Frank Sinatra — \"The Tea Break\" (Monologue) [Live At The Sands, Las Vegas, NV / January 27, 1966 / First Show]",
-      "releaseDate": "2026-10-23",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801395086",
-      "title": "Frank Sinatra — \"The Tea Break\" (Monologue) [Live At The Sands, Las Vegas, NV / January 28, 1966 / First Show]",
-      "releaseDate": "2026-10-23",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801395086",
-      "title": "Frank Sinatra — \"The Tea Break\" (Monologue) [Live At The Sands, Las Vegas, NV / January 29, 1966 / First Show]",
       "releaseDate": "2026-10-23",
       "genre": "Pop",
       "status": "New",
@@ -156,6 +100,78 @@
     {
       "id": "itunes:6801395086",
       "title": "Frank Sinatra — Come Fly With Me (Live At The Sands, Las Vegas, NV / February 1, 1966 / Second Show)",
+      "releaseDate": "2026-10-23",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801395086",
+      "title": "Frank Sinatra — Come Fly With Me (Live At The Sands, Las Vegas, NV / January 26, 1966 / Second Show)",
+      "releaseDate": "2026-10-23",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801395086",
+      "title": "Frank Sinatra — Come Fly With Me (Live At The Sands, Las Vegas, NV / January 27, 1966 / First Show)",
+      "releaseDate": "2026-10-23",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801395086",
+      "title": "Frank Sinatra — Come Fly With Me (Live At The Sands, Las Vegas, NV / January 28, 1966 / First Show)",
+      "releaseDate": "2026-10-23",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801395086",
+      "title": "Frank Sinatra — Don't Worry 'Bout Me (Live At The Sands, Las Vegas, NV / February 1, 1966 / Second Show)",
+      "releaseDate": "2026-10-23",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801395086",
+      "title": "Frank Sinatra — Don't Worry 'Bout Me (Live At The Sands, Las Vegas, NV / January 26, 1966 / Second Show)",
+      "releaseDate": "2026-10-23",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801395086",
+      "title": "Frank Sinatra — Don't Worry 'Bout Me (Live At The Sands, Las Vegas, NV / January 27, 1966 / First Show)",
+      "releaseDate": "2026-10-23",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801395086",
+      "title": "Frank Sinatra — Fly Me To The Moon (Live At The Sands, Las Vegas, NV / February 1, 1966 / Second Show)",
+      "releaseDate": "2026-10-23",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801395086",
+      "title": "Frank Sinatra — Fly Me To The Moon (Live At The Sands, Las Vegas, NV / January 26, 1966 / Second Show)",
+      "releaseDate": "2026-10-23",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801395086",
+      "title": "Frank Sinatra — Fly Me To The Moon (Live At The Sands, Las Vegas, NV / January 27, 1966 / First Show)",
       "releaseDate": "2026-10-23",
       "genre": "Pop",
       "status": "New",
@@ -204,14 +220,6 @@
     {
       "id": "itunes:6802463557",
       "title": "David Allan Coe — A Million Reasons",
-      "releaseDate": "2026-10-16",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6802463557",
-      "title": "David Allan Coe — Corner of Cash and Coe",
       "releaseDate": "2026-10-16",
       "genre": "Country",
       "status": "Already Dropped",
@@ -360,6 +368,14 @@
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:f00cafdb-ce0a-4b02-92cf-32f4a797895c",
+      "title": "Queen — Crazy Little Thing Called Love (live in Budapest)",
+      "releaseDate": "2026-10-09",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6818617894",
@@ -626,12 +642,12 @@
       "source": "MusicBrainz"
     },
     {
-      "id": "itunes:6794460856",
-      "title": "LINKIN PARK — Waiting For the End - Unshatter Film Soundtrack (Live in São Paulo)",
+      "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
+      "title": "Marcus King — Blue",
       "releaseDate": "2026-09-25",
-      "genre": "Metal",
+      "genre": "Americana",
       "status": "Already Dropped",
-      "source": "iTunes Search API"
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:1825982048",
@@ -1000,14 +1016,6 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:9ae594c4-b2c6-4c50-ba49-04912e727ea0",
-      "title": "Koe Wetzel — Jaded",
-      "releaseDate": "2026-08-07",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6782993734",
