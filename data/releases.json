@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T18:51:52.174Z",
+  "updatedAt": "2026-10-29T18:58:04.186Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 130,
+    "releaseCount": 117,
     "genres": [
       "Rap",
       "Rock",
@@ -32,14 +32,6 @@
       "genre": "Rock",
       "status": "Upcoming",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:09f9581c-52b0-4d2b-bb1b-d5902830b8c1",
-      "title": "U2 — Carnaval de luz",
-      "releaseDate": "2026-11-13",
-      "genre": "Alternative",
-      "status": "Upcoming",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6781405825",
@@ -83,7 +75,7 @@
     },
     {
       "id": "itunes:6801395086",
-      "title": "Frank Sinatra — \"The Tea Break\" (Monologue) [Live At The Sands, Las Vegas, NV / January 26, 1966 / Second Show]",
+      "title": "Frank Sinatra — I've Got You Under My Skin (Live At The Sands, Las Vegas, NV / January 26, 1966 / Second Show)",
       "releaseDate": "2026-10-23",
       "genre": "Pop",
       "status": "New",
@@ -91,87 +83,7 @@
     },
     {
       "id": "itunes:6801395086",
-      "title": "Frank Sinatra — Angel Eyes (Live At The Sands, Las Vegas, NV / January 28, 1966 / Second Show)",
-      "releaseDate": "2026-10-23",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801395086",
-      "title": "Frank Sinatra — Come Fly With Me (Live At The Sands, Las Vegas, NV / February 1, 1966 / Second Show)",
-      "releaseDate": "2026-10-23",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801395086",
-      "title": "Frank Sinatra — Come Fly With Me (Live At The Sands, Las Vegas, NV / January 26, 1966 / Second Show)",
-      "releaseDate": "2026-10-23",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801395086",
-      "title": "Frank Sinatra — Come Fly With Me (Live At The Sands, Las Vegas, NV / January 27, 1966 / First Show)",
-      "releaseDate": "2026-10-23",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801395086",
-      "title": "Frank Sinatra — Come Fly With Me (Live At The Sands, Las Vegas, NV / January 28, 1966 / First Show)",
-      "releaseDate": "2026-10-23",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801395086",
-      "title": "Frank Sinatra — Don't Worry 'Bout Me (Live At The Sands, Las Vegas, NV / February 1, 1966 / Second Show)",
-      "releaseDate": "2026-10-23",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801395086",
-      "title": "Frank Sinatra — Don't Worry 'Bout Me (Live At The Sands, Las Vegas, NV / January 26, 1966 / Second Show)",
-      "releaseDate": "2026-10-23",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801395086",
-      "title": "Frank Sinatra — Don't Worry 'Bout Me (Live At The Sands, Las Vegas, NV / January 27, 1966 / First Show)",
-      "releaseDate": "2026-10-23",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801395086",
-      "title": "Frank Sinatra — Fly Me To The Moon (Live At The Sands, Las Vegas, NV / February 1, 1966 / Second Show)",
-      "releaseDate": "2026-10-23",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801395086",
-      "title": "Frank Sinatra — Fly Me To The Moon (Live At The Sands, Las Vegas, NV / January 26, 1966 / Second Show)",
-      "releaseDate": "2026-10-23",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801395086",
-      "title": "Frank Sinatra — Fly Me To The Moon (Live At The Sands, Las Vegas, NV / January 27, 1966 / First Show)",
+      "title": "Frank Sinatra — Sinatra At The Sands - 60th Anniversary",
       "releaseDate": "2026-10-23",
       "genre": "Pop",
       "status": "New",
@@ -338,14 +250,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:6aceb90a-ecfc-491f-a706-13d8c7a51ae8",
-      "title": "Zach Bryan — Young Manhood and Other Donatable Organs",
-      "releaseDate": "2026-10-16",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6822478641",
       "title": "Gucci Mane — Against All Odds",
       "releaseDate": "2026-10-15",
@@ -368,14 +272,6 @@
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:f00cafdb-ce0a-4b02-92cf-32f4a797895c",
-      "title": "Queen — Crazy Little Thing Called Love (live in Budapest)",
-      "releaseDate": "2026-10-09",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6818617894",
@@ -456,14 +352,6 @@
       "genre": "Country",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:e9df70d5-201b-4697-9c2e-6f592902a947",
-      "title": "Gavin Adcock — The Day I Hang It Up",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6798342679",
@@ -602,6 +490,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Thing For You",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:1894015990",
       "title": "Europe — Come This Madness",
       "releaseDate": "2026-09-25",
@@ -710,14 +606,6 @@
       "title": "INXS — Never Tear Us Apart (The Story Behind The Song) [Commentary]",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6809909624",
-      "title": "Rebelution — Real Life",
-      "releaseDate": "2026-09-17",
-      "genre": "Reggae",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     },
@@ -1016,6 +904,14 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:9ae594c4-b2c6-4c50-ba49-04912e727ea0",
+      "title": "Koe Wetzel — Jaded",
+      "releaseDate": "2026-08-07",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6782993734",
