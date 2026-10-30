@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T18:58:04.186Z",
+  "updatedAt": "2026-10-30T18:34:11.612Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 117,
+    "releaseCount": 114,
     "genres": [
       "Rap",
       "Rock",
@@ -66,17 +66,17 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6825689288",
-      "title": "Jason Derulo — MOVE LIKE THAT",
-      "releaseDate": "2026-10-27",
-      "genre": "Pop",
+      "id": "itunes:6824478197",
+      "title": "Asia — Per non amarci più",
+      "releaseDate": "2026-10-30",
+      "genre": "Rock",
       "status": "New",
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6801395086",
-      "title": "Frank Sinatra — I've Got You Under My Skin (Live At The Sands, Las Vegas, NV / January 26, 1966 / Second Show)",
-      "releaseDate": "2026-10-23",
+      "id": "itunes:6825689288",
+      "title": "Jason Derulo — MOVE LIKE THAT",
+      "releaseDate": "2026-10-27",
       "genre": "Pop",
       "status": "New",
       "source": "iTunes Search API"
@@ -102,7 +102,7 @@
       "title": "Baby Smoove — Late Night Special",
       "releaseDate": "2026-10-22",
       "genre": "Rap",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "MusicBrainz"
     },
     {
@@ -110,7 +110,7 @@
       "title": "Baby Smoove — Love Need Me",
       "releaseDate": "2026-10-22",
       "genre": "Rap",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "MusicBrainz"
     },
     {
@@ -250,6 +250,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:6aceb90a-ecfc-491f-a706-13d8c7a51ae8",
+      "title": "Zach Bryan — Young Manhood and Other Donatable Organs",
+      "releaseDate": "2026-10-16",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6822478641",
       "title": "Gucci Mane — Against All Odds",
       "releaseDate": "2026-10-15",
@@ -352,6 +360,14 @@
       "genre": "Country",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:e9df70d5-201b-4697-9c2e-6f592902a947",
+      "title": "Gavin Adcock — The Day I Hang It Up",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6798342679",
@@ -490,14 +506,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Thing For You",
-      "releaseDate": "2026-09-28",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:1894015990",
       "title": "Europe — Come This Madness",
       "releaseDate": "2026-09-25",
@@ -530,12 +538,12 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:ff392700-b455-4cee-ac99-885a67e396e9",
-      "title": "Flatland Cavalry — Cinnamon Sugar (It’s Love)",
+      "id": "itunes:6794460856",
+      "title": "LINKIN PARK — Waiting For the End - Unshatter Film Soundtrack (Live in São Paulo)",
       "releaseDate": "2026-09-25",
-      "genre": "Country",
+      "genre": "Metal",
       "status": "Already Dropped",
-      "source": "MusicBrainz"
+      "source": "iTunes Search API"
     },
     {
       "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
@@ -680,22 +688,6 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:89db81af-f966-47e6-8b0a-1b20d6873a55",
-      "title": "Flatland Cavalry — Strangers & Angels",
-      "releaseDate": "2026-09-04",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
-      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
-      "releaseDate": "2026-09-04",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6776371718",
@@ -922,14 +914,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:025d663b-d0cf-434e-a771-95963b90eff5",
-      "title": "Rebelution — Let Go",
-      "releaseDate": "2026-08-07",
-      "genre": "Reggae",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:1886265303",
       "title": "The Charlie Daniels Band — The Best Of The Charlie Daniels Band Volunteer Jam (Live)",
       "releaseDate": "2026-08-07",
@@ -950,14 +934,6 @@
       "title": "INXS — Deepest Red",
       "releaseDate": "2026-08-03",
       "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6794032328",
-      "title": "Plain White T's — Hey There Delilah (feat. LØLØ)",
-      "releaseDate": "2026-07-31",
-      "genre": "Pop",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     }
