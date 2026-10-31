@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T18:34:11.612Z",
+  "updatedAt": "2026-10-31T17:39:57.801Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 114,
+    "releaseCount": 120,
     "genres": [
       "Rap",
       "Rock",
@@ -86,7 +86,7 @@
       "title": "Frank Sinatra — Sinatra At The Sands - 60th Anniversary",
       "releaseDate": "2026-10-23",
       "genre": "Pop",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -94,7 +94,7 @@
       "title": "John Mayer — Tom and Jerry",
       "releaseDate": "2026-10-23",
       "genre": "Americana",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -538,6 +538,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:ff392700-b455-4cee-ac99-885a67e396e9",
+      "title": "Flatland Cavalry — Cinnamon Sugar (It’s Love)",
+      "releaseDate": "2026-09-25",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6794460856",
       "title": "LINKIN PARK — Waiting For the End - Unshatter Film Soundtrack (Live in São Paulo)",
       "releaseDate": "2026-09-25",
@@ -618,6 +626,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6809909624",
+      "title": "Rebelution — Real Life",
+      "releaseDate": "2026-09-17",
+      "genre": "Reggae",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:6773766930",
       "title": "Nicholas Jamerson — Be Strong",
       "releaseDate": "2026-09-11",
@@ -688,6 +704,22 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:89db81af-f966-47e6-8b0a-1b20d6873a55",
+      "title": "Flatland Cavalry — Strangers & Angels",
+      "releaseDate": "2026-09-04",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
+      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
+      "releaseDate": "2026-09-04",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6776371718",
@@ -914,8 +946,24 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:025d663b-d0cf-434e-a771-95963b90eff5",
+      "title": "Rebelution — Let Go",
+      "releaseDate": "2026-08-07",
+      "genre": "Reggae",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:1886265303",
       "title": "The Charlie Daniels Band — The Best Of The Charlie Daniels Band Volunteer Jam (Live)",
+      "releaseDate": "2026-08-07",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1886265303",
+      "title": "The Charlie Daniels Band — Uneasy Rider - Volunteer Jam XII (Live)",
       "releaseDate": "2026-08-07",
       "genre": "Country",
       "status": "Already Dropped",
