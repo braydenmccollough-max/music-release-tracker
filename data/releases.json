@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T17:39:57.801Z",
+  "updatedAt": "2026-11-01T18:54:35.482Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 120,
+    "releaseCount": 114,
     "genres": [
       "Rap",
       "Rock",
@@ -112,14 +112,6 @@
       "genre": "Rap",
       "status": "Already Dropped",
       "source": "MusicBrainz"
-    },
-    {
-      "id": "itunes:6824406250",
-      "title": "Aaliyah — Fresh",
-      "releaseDate": "2026-10-16",
-      "genre": "R&B/Soul",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
     },
     {
       "id": "itunes:6818585067",
@@ -250,14 +242,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:6aceb90a-ecfc-491f-a706-13d8c7a51ae8",
-      "title": "Zach Bryan — Young Manhood and Other Donatable Organs",
-      "releaseDate": "2026-10-16",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6822478641",
       "title": "Gucci Mane — Against All Odds",
       "releaseDate": "2026-10-15",
@@ -360,14 +344,6 @@
       "genre": "Country",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:e9df70d5-201b-4697-9c2e-6f592902a947",
-      "title": "Gavin Adcock — The Day I Hang It Up",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6798342679",
@@ -506,6 +482,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Thing For You",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:1894015990",
       "title": "Europe — Come This Madness",
       "releaseDate": "2026-09-25",
@@ -542,22 +526,6 @@
       "title": "Flatland Cavalry — Cinnamon Sugar (It’s Love)",
       "releaseDate": "2026-09-25",
       "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "itunes:6794460856",
-      "title": "LINKIN PARK — Waiting For the End - Unshatter Film Soundtrack (Live in São Paulo)",
-      "releaseDate": "2026-09-25",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
-      "title": "Marcus King — Blue",
-      "releaseDate": "2026-09-25",
-      "genre": "Americana",
       "status": "Already Dropped",
       "source": "MusicBrainz"
     },
@@ -602,6 +570,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6775448742",
+      "title": "Echo & The Bunnymen — The Honey",
+      "releaseDate": "2026-09-18",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:6806077624",
       "title": "Empire Of The Sun — DNA (Maceo Plex Remix)",
       "releaseDate": "2026-09-18",
@@ -622,14 +598,6 @@
       "title": "INXS — Never Tear Us Apart (The Story Behind The Song) [Commentary]",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6809909624",
-      "title": "Rebelution — Real Life",
-      "releaseDate": "2026-09-17",
-      "genre": "Reggae",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     },
@@ -710,14 +678,6 @@
       "title": "Flatland Cavalry — Strangers & Angels",
       "releaseDate": "2026-09-04",
       "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
-      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
-      "releaseDate": "2026-09-04",
-      "genre": "Pop",
       "status": "Already Dropped",
       "source": "MusicBrainz"
     },
@@ -928,14 +888,6 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:9ae594c4-b2c6-4c50-ba49-04912e727ea0",
-      "title": "Koe Wetzel — Jaded",
-      "releaseDate": "2026-08-07",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6782993734",
