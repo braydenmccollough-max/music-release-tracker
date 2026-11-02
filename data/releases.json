@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T18:54:35.482Z",
+  "updatedAt": "2026-11-02T22:46:05.076Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 114,
+    "releaseCount": 115,
     "genres": [
       "Rap",
       "Rock",
@@ -131,7 +131,7 @@
     },
     {
       "id": "itunes:6802463557",
-      "title": "David Allan Coe — Roll Me a Smoke",
+      "title": "David Allan Coe — No Holes in These Hands",
       "releaseDate": "2026-10-16",
       "genre": "Country",
       "status": "Already Dropped",
@@ -242,6 +242,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:6aceb90a-ecfc-491f-a706-13d8c7a51ae8",
+      "title": "Zach Bryan — Young Manhood and Other Donatable Organs",
+      "releaseDate": "2026-10-16",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6822478641",
       "title": "Gucci Mane — Against All Odds",
       "releaseDate": "2026-10-15",
@@ -344,6 +352,14 @@
       "genre": "Country",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:e9df70d5-201b-4697-9c2e-6f592902a947",
+      "title": "Gavin Adcock — The Day I Hang It Up",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6798342679",
@@ -482,14 +498,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Thing For You",
-      "releaseDate": "2026-09-28",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:1894015990",
       "title": "Europe — Come This Madness",
       "releaseDate": "2026-09-25",
@@ -564,14 +572,6 @@
     {
       "id": "itunes:6775448742",
       "title": "Echo & The Bunnymen — Take Me By The Hand",
-      "releaseDate": "2026-09-18",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6775448742",
-      "title": "Echo & The Bunnymen — The Honey",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
       "status": "Already Dropped",
@@ -678,6 +678,14 @@
       "title": "Flatland Cavalry — Strangers & Angels",
       "releaseDate": "2026-09-04",
       "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
+      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
+      "releaseDate": "2026-09-04",
+      "genre": "Pop",
       "status": "Already Dropped",
       "source": "MusicBrainz"
     },
@@ -890,6 +898,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:9ae594c4-b2c6-4c50-ba49-04912e727ea0",
+      "title": "Koe Wetzel — Jaded",
+      "releaseDate": "2026-08-07",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6782993734",
       "title": "Nicholas Jamerson — Goodbye Brother",
       "releaseDate": "2026-08-07",
@@ -925,14 +941,6 @@
       "id": "itunes:6772364953",
       "title": "Weezer — C.E.O.",
       "releaseDate": "2026-08-05",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6796491425",
-      "title": "INXS — Deepest Red",
-      "releaseDate": "2026-08-03",
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
