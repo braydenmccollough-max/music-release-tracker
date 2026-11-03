@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T22:46:05.076Z",
+  "updatedAt": "2026-11-03T20:36:13.682Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 115,
+    "releaseCount": 116,
     "genres": [
       "Rap",
       "Rock",
@@ -242,14 +242,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:6aceb90a-ecfc-491f-a706-13d8c7a51ae8",
-      "title": "Zach Bryan — Young Manhood and Other Donatable Organs",
-      "releaseDate": "2026-10-16",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6822478641",
       "title": "Gucci Mane — Against All Odds",
       "releaseDate": "2026-10-15",
@@ -272,6 +264,22 @@
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:e118b621-fe4c-49a1-a3c4-4ad874dcfd24",
+      "title": "Pitbull — PITCOIN",
+      "releaseDate": "2026-10-09",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "musicbrainz:f00cafdb-ce0a-4b02-92cf-32f4a797895c",
+      "title": "Queen — Crazy Little Thing Called Love (live in Budapest)",
+      "releaseDate": "2026-10-09",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6818617894",
@@ -530,12 +538,12 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:ff392700-b455-4cee-ac99-885a67e396e9",
-      "title": "Flatland Cavalry — Cinnamon Sugar (It’s Love)",
+      "id": "itunes:6794460856",
+      "title": "LINKIN PARK — Waiting For the End - Unshatter Film Soundtrack (Live in São Paulo)",
       "releaseDate": "2026-09-25",
-      "genre": "Country",
+      "genre": "Metal",
       "status": "Already Dropped",
-      "source": "MusicBrainz"
+      "source": "iTunes Search API"
     },
     {
       "id": "itunes:1825982048",
@@ -600,6 +608,14 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:b00d0aa8-2b92-4da4-b04a-febffb8d8ce3",
+      "title": "Beach House — April Suzanne",
+      "releaseDate": "2026-09-16",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6773766930",
@@ -672,14 +688,6 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:89db81af-f966-47e6-8b0a-1b20d6873a55",
-      "title": "Flatland Cavalry — Strangers & Angels",
-      "releaseDate": "2026-09-04",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
