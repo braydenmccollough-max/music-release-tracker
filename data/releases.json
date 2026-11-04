@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T20:36:13.682Z",
+  "updatedAt": "2026-11-04T20:52:32.193Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -28,6 +28,14 @@
     {
       "id": "itunes:6814651927",
       "title": "Billy Joel — Turnstiles - 50th Anniversary",
+      "releaseDate": "2026-12-11",
+      "genre": "Rock",
+      "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6807199560",
+      "title": "Bush — Razorblade Suitcase (Deluxe Edition)",
       "releaseDate": "2026-12-11",
       "genre": "Rock",
       "status": "Upcoming",
@@ -66,19 +74,11 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6824478197",
-      "title": "Asia — Per non amarci più",
-      "releaseDate": "2026-10-30",
-      "genre": "Rock",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:6825689288",
       "title": "Jason Derulo — MOVE LIKE THAT",
       "releaseDate": "2026-10-27",
       "genre": "Pop",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -240,6 +240,14 @@
       "genre": "Country",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:6aceb90a-ecfc-491f-a706-13d8c7a51ae8",
+      "title": "Zach Bryan — Young Manhood and Other Donatable Organs",
+      "releaseDate": "2026-10-16",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6822478641",
@@ -538,12 +546,20 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6794460856",
-      "title": "LINKIN PARK — Waiting For the End - Unshatter Film Soundtrack (Live in São Paulo)",
+      "id": "musicbrainz:ff392700-b455-4cee-ac99-885a67e396e9",
+      "title": "Flatland Cavalry — Cinnamon Sugar (It’s Love)",
       "releaseDate": "2026-09-25",
-      "genre": "Metal",
+      "genre": "Country",
       "status": "Already Dropped",
-      "source": "iTunes Search API"
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
+      "title": "Marcus King — Blue",
+      "releaseDate": "2026-09-25",
+      "genre": "Americana",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:1825982048",
@@ -556,14 +572,6 @@
     {
       "id": "itunes:6775448742",
       "title": "Echo & The Bunnymen — Apples For Isaac",
-      "releaseDate": "2026-09-18",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6775448742",
-      "title": "Echo & The Bunnymen — Can't Be Sold",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
       "status": "Already Dropped",
@@ -608,14 +616,6 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:b00d0aa8-2b92-4da4-b04a-febffb8d8ce3",
-      "title": "Beach House — April Suzanne",
-      "releaseDate": "2026-09-16",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6773766930",
@@ -688,6 +688,14 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:89db81af-f966-47e6-8b0a-1b20d6873a55",
+      "title": "Flatland Cavalry — Strangers & Angels",
+      "releaseDate": "2026-09-04",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
@@ -942,14 +950,6 @@
       "title": "The Charlie Daniels Band — Uneasy Rider - Volunteer Jam XII (Live)",
       "releaseDate": "2026-08-07",
       "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6772364953",
-      "title": "Weezer — C.E.O.",
-      "releaseDate": "2026-08-05",
-      "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     }
