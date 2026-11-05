@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T20:52:32.193Z",
+  "updatedAt": "2026-11-05T21:08:25.130Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 116,
+    "releaseCount": 114,
     "genres": [
       "Rap",
       "Rock",
@@ -25,6 +25,14 @@
     ]
   },
   "releases": [
+    {
+      "id": "itunes:6826286794",
+      "title": "Cage the Elephant — Dying In Reverse",
+      "releaseDate": "2027-02-05",
+      "genre": "Alternative",
+      "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
     {
       "id": "itunes:6814651927",
       "title": "Billy Joel — Turnstiles - 50th Anniversary",
@@ -72,6 +80,14 @@
       "genre": "Rock",
       "status": "Upcoming",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:db8368b9-aa6a-4d67-b46b-713851ce4e53",
+      "title": "The Neighbourhood — Why'd You Have to Leave",
+      "releaseDate": "2026-11-06",
+      "genre": "Alternative",
+      "status": "Upcoming",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6825689288",
@@ -124,14 +140,6 @@
     {
       "id": "itunes:6802463557",
       "title": "David Allan Coe — A Million Reasons",
-      "releaseDate": "2026-10-16",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6802463557",
-      "title": "David Allan Coe — No Holes in These Hands",
       "releaseDate": "2026-10-16",
       "genre": "Country",
       "status": "Already Dropped",
@@ -242,14 +250,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:6aceb90a-ecfc-491f-a706-13d8c7a51ae8",
-      "title": "Zach Bryan — Young Manhood and Other Donatable Organs",
-      "releaseDate": "2026-10-16",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6822478641",
       "title": "Gucci Mane — Against All Odds",
       "releaseDate": "2026-10-15",
@@ -278,14 +278,6 @@
       "title": "Pitbull — PITCOIN",
       "releaseDate": "2026-10-09",
       "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "musicbrainz:f00cafdb-ce0a-4b02-92cf-32f4a797895c",
-      "title": "Queen — Crazy Little Thing Called Love (live in Budapest)",
-      "releaseDate": "2026-10-09",
-      "genre": "Rock",
       "status": "Already Dropped",
       "source": "MusicBrainz"
     },
@@ -940,14 +932,6 @@
     {
       "id": "itunes:1886265303",
       "title": "The Charlie Daniels Band — The Best Of The Charlie Daniels Band Volunteer Jam (Live)",
-      "releaseDate": "2026-08-07",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1886265303",
-      "title": "The Charlie Daniels Band — Uneasy Rider - Volunteer Jam XII (Live)",
       "releaseDate": "2026-08-07",
       "genre": "Country",
       "status": "Already Dropped",
