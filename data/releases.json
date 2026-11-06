@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T21:08:25.130Z",
+  "updatedAt": "2026-11-06T20:24:49.109Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 114,
+    "releaseCount": 152,
     "genres": [
       "Rap",
       "Rock",
@@ -59,18 +59,250 @@
     },
     {
       "id": "itunes:6786070473",
+      "title": "Asia — An Elegy",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6786070473",
+      "title": "Asia — Change Of Heart",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6786070473",
+      "title": "Asia — Chesapeake Bay (feat. Steve Howe)",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6786070473",
+      "title": "Asia — Hymn For The Fallen",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6786070473",
       "title": "Asia — Indigo",
       "releaseDate": "2026-11-06",
       "genre": "Rock",
-      "status": "Upcoming",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6786070473",
+      "title": "Asia — Is This The Life?",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6786070473",
+      "title": "Asia — Life In The Sun",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6786070473",
+      "title": "Asia — Night And Day",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6786070473",
+      "title": "Asia — On A Winter's Night",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6786070473",
+      "title": "Asia — Tattoo Indigo (Part 1)",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6786070473",
+      "title": "Asia — Tattoo Indigo (Part 2)",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6786070473",
+      "title": "Asia — Tattoo Indigo (Part 3)",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6829565454",
+      "title": "Empire Of The Sun — Way To Go (Aaron Hibell Remix)",
+      "releaseDate": "2026-11-06",
+      "genre": "Alternative",
+      "status": "New",
       "source": "iTunes Search API"
     },
     {
       "id": "itunes:6801587846",
-      "title": "George Michael — The Faith Tour",
+      "title": "George Michael — A Different Corner (Live in Paris, 1988)",
       "releaseDate": "2026-11-06",
       "genre": "Pop",
-      "status": "Upcoming",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801587846",
+      "title": "George Michael — Careless Whisper (Live in Paris, 1988)",
+      "releaseDate": "2026-11-06",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801587846",
+      "title": "George Michael — Everything She Wants (Live in Paris, 1988)",
+      "releaseDate": "2026-11-06",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801587846",
+      "title": "George Michael — Faith (Live in Paris, 1988)",
+      "releaseDate": "2026-11-06",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801587846",
+      "title": "George Michael — Freedom Finale (Live in Paris, 1988)",
+      "releaseDate": "2026-11-06",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801587846",
+      "title": "George Michael — Freedom Opening (Live in Paris, 1988)",
+      "releaseDate": "2026-11-06",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801587846",
+      "title": "George Michael — Hand To Mouth (Live in Paris, 1988)",
+      "releaseDate": "2026-11-06",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801587846",
+      "title": "George Michael — Hard Day (Live in Paris, 1988)",
+      "releaseDate": "2026-11-06",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801587846",
+      "title": "George Michael — I Knew You Were Waiting (For Me) [Live in Paris, 1988]",
+      "releaseDate": "2026-11-06",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801587846",
+      "title": "George Michael — I Want Your Sex (Live in Paris, 1988)",
+      "releaseDate": "2026-11-06",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801587846",
+      "title": "George Michael — I Want Your Sex Parts 1 and 2 (Live in Paris, 1988)",
+      "releaseDate": "2026-11-06",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801587846",
+      "title": "George Michael — I'm Your Man (Live in Paris, 1988)",
+      "releaseDate": "2026-11-06",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6802901441",
+      "title": "Kings of Leon — Blue Jeans and Diamonds",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6802901441",
+      "title": "Kings of Leon — Feel The Love",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6802901441",
+      "title": "Kings of Leon — Forever Endeavor",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6802901441",
+      "title": "Kings of Leon — Get You Down",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6802901441",
+      "title": "Kings of Leon — Intro",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6802901441",
+      "title": "Kings of Leon — Make It Count",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
       "source": "iTunes Search API"
     },
     {
@@ -78,16 +310,184 @@
       "title": "Kings of Leon — O My Beloved",
       "releaseDate": "2026-11-06",
       "genre": "Rock",
-      "status": "Upcoming",
+      "status": "New",
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:db8368b9-aa6a-4d67-b46b-713851ce4e53",
-      "title": "The Neighbourhood — Why'd You Have to Leave",
+      "id": "itunes:6830889741",
+      "title": "Kings of Leon — O My Beloved (iTunes Exclusive Deluxe)",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6802901441",
+      "title": "Kings of Leon — Pretty Thing",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6802901441",
+      "title": "Kings of Leon — Rose",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6802901441",
+      "title": "Kings of Leon — The Hand",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6802901441",
+      "title": "Kings of Leon — Warm Company",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6793557853",
+      "title": "Nicholas Jamerson — You're So Good To Me",
+      "releaseDate": "2026-11-06",
+      "genre": "Americana",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6821157993",
+      "title": "Rebelution — Real Life (feat. Slug) [Remix]",
+      "releaseDate": "2026-11-06",
+      "genre": "Reggae",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6821157993",
+      "title": "Rebelution — Real Life (Remix) [feat. Slug]",
+      "releaseDate": "2026-11-06",
+      "genre": "Reggae",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6824666469",
+      "title": "The Neighbourhood — Why'd You Have To Leave?",
       "releaseDate": "2026-11-06",
       "genre": "Alternative",
-      "status": "Upcoming",
-      "source": "MusicBrainz"
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6826286794",
+      "title": "Cage the Elephant — Make It Easy",
+      "releaseDate": "2026-11-05",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — (You're So Square) Baby I Don't Care (Live in Budapest)",
+      "releaseDate": "2026-10-30",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — A Kind Of Magic (Live in Budapest)",
+      "releaseDate": "2026-10-30",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — Another One Bites The Dust (Live in Budapest)",
+      "releaseDate": "2026-10-30",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — Bohemian Rhapsody (Live in Budapest)",
+      "releaseDate": "2026-10-30",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — Friends Will Be Friends (Live in Budapest)",
+      "releaseDate": "2026-10-30",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — God Save the Queen (Live in Budapest)",
+      "releaseDate": "2026-10-30",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — Guitar Solo (Live in Budapest)",
+      "releaseDate": "2026-10-30",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — Hammer to Fall (Live in Budapest)",
+      "releaseDate": "2026-10-30",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — Hello Mary Lou (Goodbye Heart) [Live in Budapest]",
+      "releaseDate": "2026-10-30",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — I Want To Break Free (Live in Budapest)",
+      "releaseDate": "2026-10-30",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — In the Lap of the Gods...Revisited (Live in Budapest)",
+      "releaseDate": "2026-10-30",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — Is This The World We Created...? (Live in Budapest)",
+      "releaseDate": "2026-10-30",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
     },
     {
       "id": "itunes:6825689288",
@@ -112,22 +512,6 @@
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:2bea6396-95e0-4428-95c1-992233a7de75",
-      "title": "Baby Smoove — Late Night Special",
-      "releaseDate": "2026-10-22",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "musicbrainz:904e9dfc-43b0-42e9-bb5b-7cc21154a015",
-      "title": "Baby Smoove — Love Need Me",
-      "releaseDate": "2026-10-22",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6818585067",
@@ -218,14 +602,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6818670936",
-      "title": "Kings of Leon — KOYSAR",
-      "releaseDate": "2026-10-16",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:6822944288",
       "title": "Zach Bryan — Backwards",
       "releaseDate": "2026-10-16",
@@ -272,14 +648,6 @@
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:e118b621-fe4c-49a1-a3c4-4ad874dcfd24",
-      "title": "Pitbull — PITCOIN",
-      "releaseDate": "2026-10-09",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6818617894",
@@ -386,14 +754,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6817082193",
-      "title": "Kings of Leon — Cold Blue Dawn",
-      "releaseDate": "2026-10-02",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:6809909624",
       "title": "Rebelution — Real Life",
       "releaseDate": "2026-10-02",
@@ -428,14 +788,6 @@
     {
       "id": "itunes:6790547272",
       "title": "Gavin Adcock — Dancin’ In The Flames",
-      "releaseDate": "2026-09-28",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6819413731",
-      "title": "Gavin Adcock — Dancing In The Flames",
       "releaseDate": "2026-09-28",
       "genre": "Country",
       "status": "Already Dropped",
@@ -482,16 +834,8 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6819413731",
-      "title": "Gavin Adcock — Mama Never Liked You Anyway",
-      "releaseDate": "2026-09-28",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6819413731",
-      "title": "Gavin Adcock — Most Wanted",
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Strangers In A Bar",
       "releaseDate": "2026-09-28",
       "genre": "Country",
       "status": "Already Dropped",
@@ -499,7 +843,23 @@
     },
     {
       "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Strangers In A Bar",
+      "title": "Gavin Adcock — Thing For You",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Time For A Slow Down",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — When I Get Home Tonight",
       "releaseDate": "2026-09-28",
       "genre": "Country",
       "status": "Already Dropped",
@@ -536,22 +896,6 @@
       "genre": "Rock",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:ff392700-b455-4cee-ac99-885a67e396e9",
-      "title": "Flatland Cavalry — Cinnamon Sugar (It’s Love)",
-      "releaseDate": "2026-09-25",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
-      "title": "Marcus King — Blue",
-      "releaseDate": "2026-09-25",
-      "genre": "Americana",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:1825982048",
@@ -658,14 +1002,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6805602891",
-      "title": "Kings of Leon — My Whole World",
-      "releaseDate": "2026-09-10",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:6802809817",
       "title": "David Allan Coe — You Never Even Called Me by My Name",
       "releaseDate": "2026-09-06",
@@ -680,14 +1016,6 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:89db81af-f966-47e6-8b0a-1b20d6873a55",
-      "title": "Flatland Cavalry — Strangers & Angels",
-      "releaseDate": "2026-09-04",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
@@ -764,6 +1092,14 @@
     {
       "id": "itunes:1895813257",
       "title": "David Allan Coe — Mary Magdeline",
+      "releaseDate": "2026-08-21",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:1895813257",
+      "title": "David Allan Coe — Revenge (Texas Moon Demo)",
       "releaseDate": "2026-08-21",
       "genre": "Country",
       "status": "Already Dropped",
@@ -902,38 +1238,6 @@
       "title": "The Rose Hips — The Distance",
       "releaseDate": "2026-08-13",
       "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:9ae594c4-b2c6-4c50-ba49-04912e727ea0",
-      "title": "Koe Wetzel — Jaded",
-      "releaseDate": "2026-08-07",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "itunes:6782993734",
-      "title": "Nicholas Jamerson — Goodbye Brother",
-      "releaseDate": "2026-08-07",
-      "genre": "Americana",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:025d663b-d0cf-434e-a771-95963b90eff5",
-      "title": "Rebelution — Let Go",
-      "releaseDate": "2026-08-07",
-      "genre": "Reggae",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "itunes:1886265303",
-      "title": "The Charlie Daniels Band — The Best Of The Charlie Daniels Band Volunteer Jam (Live)",
-      "releaseDate": "2026-08-07",
-      "genre": "Country",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     }
