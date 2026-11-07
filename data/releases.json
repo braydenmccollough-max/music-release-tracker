@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T20:24:49.109Z",
+  "updatedAt": "2026-11-07T18:39:43.839Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 152,
+    "releaseCount": 156,
     "genres": [
       "Rap",
       "Rock",
@@ -378,6 +378,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:db8368b9-aa6a-4d67-b46b-713851ce4e53",
+      "title": "The Neighbourhood — Why'd You Have to Leave",
+      "releaseDate": "2026-11-06",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6824666469",
       "title": "The Neighbourhood — Why'd You Have To Leave?",
       "releaseDate": "2026-11-06",
@@ -398,7 +406,7 @@
       "title": "Queen — (You're So Square) Baby I Don't Care (Live in Budapest)",
       "releaseDate": "2026-10-30",
       "genre": "Rock",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -406,7 +414,7 @@
       "title": "Queen — A Kind Of Magic (Live in Budapest)",
       "releaseDate": "2026-10-30",
       "genre": "Rock",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -414,7 +422,7 @@
       "title": "Queen — Another One Bites The Dust (Live in Budapest)",
       "releaseDate": "2026-10-30",
       "genre": "Rock",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -422,7 +430,7 @@
       "title": "Queen — Bohemian Rhapsody (Live in Budapest)",
       "releaseDate": "2026-10-30",
       "genre": "Rock",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -430,7 +438,7 @@
       "title": "Queen — Friends Will Be Friends (Live in Budapest)",
       "releaseDate": "2026-10-30",
       "genre": "Rock",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -438,7 +446,7 @@
       "title": "Queen — God Save the Queen (Live in Budapest)",
       "releaseDate": "2026-10-30",
       "genre": "Rock",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -446,7 +454,7 @@
       "title": "Queen — Guitar Solo (Live in Budapest)",
       "releaseDate": "2026-10-30",
       "genre": "Rock",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -454,7 +462,7 @@
       "title": "Queen — Hammer to Fall (Live in Budapest)",
       "releaseDate": "2026-10-30",
       "genre": "Rock",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -462,7 +470,7 @@
       "title": "Queen — Hello Mary Lou (Goodbye Heart) [Live in Budapest]",
       "releaseDate": "2026-10-30",
       "genre": "Rock",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -470,7 +478,7 @@
       "title": "Queen — I Want To Break Free (Live in Budapest)",
       "releaseDate": "2026-10-30",
       "genre": "Rock",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -478,7 +486,7 @@
       "title": "Queen — In the Lap of the Gods...Revisited (Live in Budapest)",
       "releaseDate": "2026-10-30",
       "genre": "Rock",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -486,7 +494,7 @@
       "title": "Queen — Is This The World We Created...? (Live in Budapest)",
       "releaseDate": "2026-10-30",
       "genre": "Rock",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -514,6 +522,22 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:2bea6396-95e0-4428-95c1-992233a7de75",
+      "title": "Baby Smoove — Late Night Special",
+      "releaseDate": "2026-10-22",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "musicbrainz:904e9dfc-43b0-42e9-bb5b-7cc21154a015",
+      "title": "Baby Smoove — Love Need Me",
+      "releaseDate": "2026-10-22",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6818585067",
       "title": "Big Mountain — Vodoo",
       "releaseDate": "2026-10-16",
@@ -531,7 +555,7 @@
     },
     {
       "id": "itunes:6802463557",
-      "title": "David Allan Coe — Single Father",
+      "title": "David Allan Coe — Roll Me a Smoke",
       "releaseDate": "2026-10-16",
       "genre": "Country",
       "status": "Already Dropped",
@@ -648,6 +672,14 @@
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:e118b621-fe4c-49a1-a3c4-4ad874dcfd24",
+      "title": "Pitbull — PITCOIN",
+      "releaseDate": "2026-10-09",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6818617894",
@@ -898,6 +930,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
+      "title": "Marcus King — Blue",
+      "releaseDate": "2026-09-25",
+      "genre": "Americana",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:1825982048",
       "title": "Billy Idol — Cradle Of Love (R3HAB Remix)",
       "releaseDate": "2026-09-18",
@@ -950,6 +990,14 @@
       "title": "INXS — Never Tear Us Apart (The Story Behind The Song) [Commentary]",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6809909624",
+      "title": "Rebelution — Real Life",
+      "releaseDate": "2026-09-17",
+      "genre": "Reggae",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     },
@@ -1018,14 +1066,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
-      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
-      "releaseDate": "2026-09-04",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6776371718",
       "title": "Bob Marley & The Wailers — Roots, Rock, Reggae (Live At The Hammersmith Odeon, London, UK - June 1976)",
       "releaseDate": "2026-08-28",
@@ -1092,14 +1132,6 @@
     {
       "id": "itunes:1895813257",
       "title": "David Allan Coe — Mary Magdeline",
-      "releaseDate": "2026-08-21",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1895813257",
-      "title": "David Allan Coe — Revenge (Texas Moon Demo)",
       "releaseDate": "2026-08-21",
       "genre": "Country",
       "status": "Already Dropped",
