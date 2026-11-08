@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T18:39:43.839Z",
+  "updatedAt": "2026-11-08T18:49:47.515Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -60,6 +60,14 @@
     {
       "id": "itunes:6786070473",
       "title": "Asia — An Elegy",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6786070473",
+      "title": "Asia — Arcadia",
       "releaseDate": "2026-11-06",
       "genre": "Rock",
       "status": "New",
@@ -140,14 +148,6 @@
     {
       "id": "itunes:6786070473",
       "title": "Asia — Tattoo Indigo (Part 2)",
-      "releaseDate": "2026-11-06",
-      "genre": "Rock",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6786070473",
-      "title": "Asia — Tattoo Indigo (Part 3)",
       "releaseDate": "2026-11-06",
       "genre": "Rock",
       "status": "New",
@@ -306,6 +306,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6830889741",
+      "title": "Kings of Leon — My Whole World",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:6802901441",
       "title": "Kings of Leon — O My Beloved",
       "releaseDate": "2026-11-06",
@@ -346,18 +354,18 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6802901441",
-      "title": "Kings of Leon — Warm Company",
-      "releaseDate": "2026-11-06",
-      "genre": "Rock",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:6793557853",
       "title": "Nicholas Jamerson — You're So Good To Me",
       "releaseDate": "2026-11-06",
       "genre": "Americana",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — Queen Budapest (Live)",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
       "status": "New",
       "source": "iTunes Search API"
     },
@@ -490,14 +498,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6792889537",
-      "title": "Queen — Is This The World We Created...? (Live in Budapest)",
-      "releaseDate": "2026-10-30",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:6825689288",
       "title": "Jason Derulo — MOVE LIKE THAT",
       "releaseDate": "2026-10-27",
@@ -520,22 +520,6 @@
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:2bea6396-95e0-4428-95c1-992233a7de75",
-      "title": "Baby Smoove — Late Night Special",
-      "releaseDate": "2026-10-22",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "musicbrainz:904e9dfc-43b0-42e9-bb5b-7cc21154a015",
-      "title": "Baby Smoove — Love Need Me",
-      "releaseDate": "2026-10-22",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6818585067",
@@ -826,6 +810,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6819413731",
+      "title": "Gavin Adcock — Dancing In The Flames",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:6790547272",
       "title": "Gavin Adcock — Dreamer",
       "releaseDate": "2026-09-28",
@@ -866,32 +858,24 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6819413731",
+      "title": "Gavin Adcock — Mama Never Liked You Anyway",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6819413731",
+      "title": "Gavin Adcock — Most Wanted",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:6790547272",
       "title": "Gavin Adcock — Strangers In A Bar",
-      "releaseDate": "2026-09-28",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Thing For You",
-      "releaseDate": "2026-09-28",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Time For A Slow Down",
-      "releaseDate": "2026-09-28",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — When I Get Home Tonight",
       "releaseDate": "2026-09-28",
       "genre": "Country",
       "status": "Already Dropped",
@@ -948,6 +932,14 @@
     {
       "id": "itunes:6775448742",
       "title": "Echo & The Bunnymen — Apples For Isaac",
+      "releaseDate": "2026-09-18",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6775448742",
+      "title": "Echo & The Bunnymen — Can't Be Sold",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
       "status": "Already Dropped",
@@ -1064,6 +1056,14 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
+      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
+      "releaseDate": "2026-09-04",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6776371718",
