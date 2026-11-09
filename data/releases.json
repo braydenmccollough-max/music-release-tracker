@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T18:49:47.515Z",
+  "updatedAt": "2026-11-09T23:29:13.377Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 156,
+    "releaseCount": 161,
     "genres": [
       "Rap",
       "Rock",
@@ -48,6 +48,14 @@
       "genre": "Rock",
       "status": "Upcoming",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:09f9581c-52b0-4d2b-bb1b-d5902830b8c1",
+      "title": "U2 — Carnaval de luz",
+      "releaseDate": "2026-11-13",
+      "genre": "Alternative",
+      "status": "Upcoming",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6781405825",
@@ -211,14 +219,6 @@
     },
     {
       "id": "itunes:6801587846",
-      "title": "George Michael — Hand To Mouth (Live in Paris, 1988)",
-      "releaseDate": "2026-11-06",
-      "genre": "Pop",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801587846",
       "title": "George Michael — Hard Day (Live in Paris, 1988)",
       "releaseDate": "2026-11-06",
       "genre": "Pop",
@@ -252,6 +252,14 @@
     {
       "id": "itunes:6801587846",
       "title": "George Michael — I'm Your Man (Live in Paris, 1988)",
+      "releaseDate": "2026-11-06",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801587846",
+      "title": "George Michael — Lady Marmalade (Live in Paris, 1988)",
       "releaseDate": "2026-11-06",
       "genre": "Pop",
       "status": "New",
@@ -306,14 +314,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6830889741",
-      "title": "Kings of Leon — My Whole World",
-      "releaseDate": "2026-11-06",
-      "genre": "Rock",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:6802901441",
       "title": "Kings of Leon — O My Beloved",
       "releaseDate": "2026-11-06",
@@ -354,6 +354,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6802901441",
+      "title": "Kings of Leon — Warm Company",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:6793557853",
       "title": "Nicholas Jamerson — You're So Good To Me",
       "releaseDate": "2026-11-06",
@@ -386,14 +394,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:db8368b9-aa6a-4d67-b46b-713851ce4e53",
-      "title": "The Neighbourhood — Why'd You Have to Leave",
-      "releaseDate": "2026-11-06",
-      "genre": "Alternative",
-      "status": "New",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6824666469",
       "title": "The Neighbourhood — Why'd You Have To Leave?",
       "releaseDate": "2026-11-06",
@@ -406,6 +406,14 @@
       "title": "Cage the Elephant — Make It Easy",
       "releaseDate": "2026-11-05",
       "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6831872688",
+      "title": "Future — Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+      "releaseDate": "2026-11-04",
+      "genre": "Rap",
       "status": "New",
       "source": "iTunes Search API"
     },
@@ -520,6 +528,22 @@
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:2bea6396-95e0-4428-95c1-992233a7de75",
+      "title": "Baby Smoove — Late Night Special",
+      "releaseDate": "2026-10-22",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "musicbrainz:904e9dfc-43b0-42e9-bb5b-7cc21154a015",
+      "title": "Baby Smoove — Love Need Me",
+      "releaseDate": "2026-10-22",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6818585067",
@@ -914,6 +938,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:ff392700-b455-4cee-ac99-885a67e396e9",
+      "title": "Flatland Cavalry — Cinnamon Sugar (It’s Love)",
+      "releaseDate": "2026-09-25",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
       "title": "Marcus King — Blue",
       "releaseDate": "2026-09-25",
@@ -1056,6 +1088,14 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:89db81af-f966-47e6-8b0a-1b20d6873a55",
+      "title": "Flatland Cavalry — Strangers & Angels",
+      "releaseDate": "2026-09-04",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
