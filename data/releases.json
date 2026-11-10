@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T23:29:13.377Z",
+  "updatedAt": "2026-11-10T20:53:23.765Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 161,
+    "releaseCount": 159,
     "genres": [
       "Rap",
       "Rock",
@@ -48,14 +48,6 @@
       "genre": "Rock",
       "status": "Upcoming",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:09f9581c-52b0-4d2b-bb1b-d5902830b8c1",
-      "title": "U2 — Carnaval de luz",
-      "releaseDate": "2026-11-13",
-      "genre": "Alternative",
-      "status": "Upcoming",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6781405825",
@@ -323,7 +315,7 @@
     },
     {
       "id": "itunes:6830889741",
-      "title": "Kings of Leon — O My Beloved (iTunes Exclusive Deluxe)",
+      "title": "Kings of Leon — O My Beloved (Exclusive Deluxe)",
       "releaseDate": "2026-11-06",
       "genre": "Rock",
       "status": "New",
@@ -528,22 +520,6 @@
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:2bea6396-95e0-4428-95c1-992233a7de75",
-      "title": "Baby Smoove — Late Night Special",
-      "releaseDate": "2026-10-22",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "musicbrainz:904e9dfc-43b0-42e9-bb5b-7cc21154a015",
-      "title": "Baby Smoove — Love Need Me",
-      "releaseDate": "2026-10-22",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6818585067",
@@ -776,6 +752,14 @@
       "genre": "Country",
       "status": "Already Dropped",
       "source": "MusicBrainz"
+    },
+    {
+      "id": "itunes:6798342679",
+      "title": "Judas Priest — Diamonds And Rust (2026 Remixed & Remastered)",
+      "releaseDate": "2026-10-02",
+      "genre": "Metal",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
     },
     {
       "id": "itunes:6798342679",
