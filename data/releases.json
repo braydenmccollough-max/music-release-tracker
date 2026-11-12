@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T21:12:37.319Z",
+  "updatedAt": "2026-11-12T21:29:59.907Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 155,
+    "releaseCount": 152,
     "genres": [
       "Rap",
       "Rock",
@@ -36,14 +36,6 @@
     {
       "id": "itunes:6814651927",
       "title": "Billy Joel — Turnstiles - 50th Anniversary",
-      "releaseDate": "2026-12-11",
-      "genre": "Rock",
-      "status": "Upcoming",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6807199560",
-      "title": "Bush — Razorblade Suitcase (Deluxe Edition)",
       "releaseDate": "2026-12-11",
       "genre": "Rock",
       "status": "Upcoming",
@@ -406,14 +398,6 @@
       "title": "Future — Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
       "releaseDate": "2026-11-04",
       "genre": "Rap",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6792889537",
-      "title": "Queen — (You're So Square) Baby I Don't Care (Live in Budapest)",
-      "releaseDate": "2026-10-30",
-      "genre": "Rock",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     },
@@ -443,39 +427,7 @@
     },
     {
       "id": "itunes:6792889537",
-      "title": "Queen — Friends Will Be Friends (Live in Budapest)",
-      "releaseDate": "2026-10-30",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6792889537",
-      "title": "Queen — God Save the Queen (Live in Budapest)",
-      "releaseDate": "2026-10-30",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6792889537",
-      "title": "Queen — Guitar Solo (Live in Budapest)",
-      "releaseDate": "2026-10-30",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6792889537",
       "title": "Queen — Hammer to Fall (Live in Budapest)",
-      "releaseDate": "2026-10-30",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6792889537",
-      "title": "Queen — Hello Mary Lou (Goodbye Heart) [Live in Budapest]",
       "releaseDate": "2026-10-30",
       "genre": "Rock",
       "status": "Already Dropped",
@@ -492,6 +444,46 @@
     {
       "id": "itunes:6792889537",
       "title": "Queen — In the Lap of the Gods...Revisited (Live in Budapest)",
+      "releaseDate": "2026-10-30",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — Looks Like It's Gonna Be A Good Night (Improv / Live in Budapest)",
+      "releaseDate": "2026-10-30",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — Love Of My Life (Live in Budapest)",
+      "releaseDate": "2026-10-30",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — One Vision (Live in Budapest)",
+      "releaseDate": "2026-10-30",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — Seven Seas Of Rhye (Live in Budapest)",
+      "releaseDate": "2026-10-30",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — Tear It Up (Live in Budapest)",
       "releaseDate": "2026-10-30",
       "genre": "Rock",
       "status": "Already Dropped",
@@ -520,6 +512,22 @@
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:2bea6396-95e0-4428-95c1-992233a7de75",
+      "title": "Baby Smoove — Late Night Special",
+      "releaseDate": "2026-10-22",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "musicbrainz:904e9dfc-43b0-42e9-bb5b-7cc21154a015",
+      "title": "Baby Smoove — Love Need Me",
+      "releaseDate": "2026-10-22",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6818585067",
@@ -658,6 +666,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:e118b621-fe4c-49a1-a3c4-4ad874dcfd24",
+      "title": "Pitbull — PITCOIN",
+      "releaseDate": "2026-10-09",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6818617894",
       "title": "Beach Weather — New Aesthetic",
       "releaseDate": "2026-10-08",
@@ -736,6 +752,14 @@
       "genre": "Country",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:e9df70d5-201b-4697-9c2e-6f592902a947",
+      "title": "Gavin Adcock — The Day I Hang It Up",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6798342679",
@@ -866,14 +890,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Thing For You",
-      "releaseDate": "2026-09-28",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:1894015990",
       "title": "Europe — Come This Madness",
       "releaseDate": "2026-09-25",
@@ -910,6 +926,14 @@
       "title": "Flatland Cavalry — Cinnamon Sugar (It’s Love)",
       "releaseDate": "2026-09-25",
       "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
+      "title": "Marcus King — Blue",
+      "releaseDate": "2026-09-25",
+      "genre": "Americana",
       "status": "Already Dropped",
       "source": "MusicBrainz"
     },
@@ -970,12 +994,12 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6809909624",
-      "title": "Rebelution — Real Life",
-      "releaseDate": "2026-09-17",
-      "genre": "Reggae",
+      "id": "musicbrainz:b00d0aa8-2b92-4da4-b04a-febffb8d8ce3",
+      "title": "Beach House — April Suzanne",
+      "releaseDate": "2026-09-16",
+      "genre": "Alternative",
       "status": "Already Dropped",
-      "source": "iTunes Search API"
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6773766930",
@@ -1046,14 +1070,6 @@
       "title": "Flatland Cavalry — Strangers & Angels",
       "releaseDate": "2026-09-04",
       "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
-      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
-      "releaseDate": "2026-09-04",
-      "genre": "Pop",
       "status": "Already Dropped",
       "source": "MusicBrainz"
     },
@@ -1222,46 +1238,6 @@
       "title": "Marilyn Manson — Unalive",
       "releaseDate": "2026-08-14",
       "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6792943664",
-      "title": "The Rose Hips — Ahead of the Gun",
-      "releaseDate": "2026-08-13",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6792943664",
-      "title": "The Rose Hips — Into The Garden",
-      "releaseDate": "2026-08-13",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6792943664",
-      "title": "The Rose Hips — Makes No Difference",
-      "releaseDate": "2026-08-13",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6792943664",
-      "title": "The Rose Hips — Out of Sight",
-      "releaseDate": "2026-08-13",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6792943664",
-      "title": "The Rose Hips — The Distance",
-      "releaseDate": "2026-08-13",
-      "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     }
