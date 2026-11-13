@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T21:29:59.907Z",
+  "updatedAt": "2026-11-13T20:51:51.480Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 152,
+    "releaseCount": 144,
     "genres": [
       "Rap",
       "Rock",
@@ -42,11 +42,19 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:4d1de2e6-1f81-40bd-ad60-cc44c74844b1",
+      "title": "Vincent Mason — Something to Lose (live acoustic)",
+      "releaseDate": "2026-11-13",
+      "genre": "Country",
+      "status": "New",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6781405825",
       "title": "Waylon Jennings — Diamonds",
       "releaseDate": "2026-11-13",
       "genre": "Country",
-      "status": "Upcoming",
+      "status": "New",
       "source": "iTunes Search API"
     },
     {
@@ -378,6 +386,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:db8368b9-aa6a-4d67-b46b-713851ce4e53",
+      "title": "The Neighbourhood — Why'd You Have to Leave",
+      "releaseDate": "2026-11-06",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6824666469",
       "title": "The Neighbourhood — Why'd You Have To Leave?",
       "releaseDate": "2026-11-06",
@@ -390,7 +406,7 @@
       "title": "Cage the Elephant — Make It Easy",
       "releaseDate": "2026-11-05",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -512,22 +528,6 @@
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:2bea6396-95e0-4428-95c1-992233a7de75",
-      "title": "Baby Smoove — Late Night Special",
-      "releaseDate": "2026-10-22",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "musicbrainz:904e9dfc-43b0-42e9-bb5b-7cc21154a015",
-      "title": "Baby Smoove — Love Need Me",
-      "releaseDate": "2026-10-22",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6818585067",
@@ -666,14 +666,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:e118b621-fe4c-49a1-a3c4-4ad874dcfd24",
-      "title": "Pitbull — PITCOIN",
-      "releaseDate": "2026-10-09",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6818617894",
       "title": "Beach Weather — New Aesthetic",
       "releaseDate": "2026-10-08",
@@ -752,14 +744,6 @@
       "genre": "Country",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:e9df70d5-201b-4697-9c2e-6f592902a947",
-      "title": "Gavin Adcock — The Day I Hang It Up",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6798342679",
@@ -890,6 +874,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Thing For You",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:1894015990",
       "title": "Europe — Come This Madness",
       "releaseDate": "2026-09-25",
@@ -994,14 +986,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:b00d0aa8-2b92-4da4-b04a-febffb8d8ce3",
-      "title": "Beach House — April Suzanne",
-      "releaseDate": "2026-09-16",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6773766930",
       "title": "Nicholas Jamerson — Be Strong",
       "releaseDate": "2026-09-11",
@@ -1070,6 +1054,14 @@
       "title": "Flatland Cavalry — Strangers & Angels",
       "releaseDate": "2026-09-04",
       "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
+      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
+      "releaseDate": "2026-09-04",
+      "genre": "Pop",
       "status": "Already Dropped",
       "source": "MusicBrainz"
     },
@@ -1182,62 +1174,6 @@
       "title": "Fontaines D.C. — Marianne",
       "releaseDate": "2026-08-18",
       "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6803169033",
-      "title": "Marilyn Manson — All The Vilest Things",
-      "releaseDate": "2026-08-14",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6803169033",
-      "title": "Marilyn Manson — Don't Answer The Door",
-      "releaseDate": "2026-08-14",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6803169033",
-      "title": "Marilyn Manson — Enantiomorph",
-      "releaseDate": "2026-08-14",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6803169033",
-      "title": "Marilyn Manson — Lucifer's Teardrop",
-      "releaseDate": "2026-08-14",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6803169033",
-      "title": "Marilyn Manson — None of the Suns",
-      "releaseDate": "2026-08-14",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6803169033",
-      "title": "Marilyn Manson — The Arsonist",
-      "releaseDate": "2026-08-14",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6803169033",
-      "title": "Marilyn Manson — Unalive",
-      "releaseDate": "2026-08-14",
-      "genre": "Metal",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     }
