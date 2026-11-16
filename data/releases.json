@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T19:45:17.838Z",
+  "updatedAt": "2026-11-16T23:20:28.320Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 144,
+    "releaseCount": 146,
     "genres": [
       "Rap",
       "Rock",
@@ -48,6 +48,14 @@
       "genre": "Rock",
       "status": "Upcoming",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:a805cf88-7b0a-437b-99a4-cfd5d097a01c",
+      "title": "Ella Langley — Here Then We're Gone",
+      "releaseDate": "2026-11-13",
+      "genre": "Country",
+      "status": "New",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6812412381",
@@ -187,47 +195,7 @@
     },
     {
       "id": "itunes:6786070473",
-      "title": "Asia — Night And Day",
-      "releaseDate": "2026-11-06",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6786070473",
-      "title": "Asia — On A Winter's Night",
-      "releaseDate": "2026-11-06",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6786070473",
-      "title": "Asia — Tattoo Indigo (Part 1)",
-      "releaseDate": "2026-11-06",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6786070473",
-      "title": "Asia — Tattoo Indigo (Part 2)",
-      "releaseDate": "2026-11-06",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6786070473",
       "title": "Asia — The Traveller (Into The Light)",
-      "releaseDate": "2026-11-06",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6786070473",
-      "title": "Asia — Valencia (The Ghost Ship)",
       "releaseDate": "2026-11-06",
       "genre": "Rock",
       "status": "Already Dropped",
@@ -283,22 +251,6 @@
     },
     {
       "id": "itunes:6801587846",
-      "title": "George Michael — Hand To Mouth (Live in Paris, 1988)",
-      "releaseDate": "2026-11-06",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801587846",
-      "title": "George Michael — Hard Day (Live in Paris, 1988)",
-      "releaseDate": "2026-11-06",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801587846",
       "title": "George Michael — I Knew You Were Waiting (For Me) [Live in Paris, 1988]",
       "releaseDate": "2026-11-06",
       "genre": "Pop",
@@ -315,14 +267,6 @@
     },
     {
       "id": "itunes:6801587846",
-      "title": "George Michael — I Want Your Sex Parts 1 and 2 (Live in Paris, 1988)",
-      "releaseDate": "2026-11-06",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801587846",
       "title": "George Michael — I'm Your Man (Live in Paris, 1988)",
       "releaseDate": "2026-11-06",
       "genre": "Pop",
@@ -331,7 +275,23 @@
     },
     {
       "id": "itunes:6801587846",
-      "title": "George Michael — Lady Marmalade (Live in Paris, 1988)",
+      "title": "George Michael — Monkey (Live in Paris, 1988)",
+      "releaseDate": "2026-11-06",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801587846",
+      "title": "George Michael — One More Try (Live in Paris, 1988)",
+      "releaseDate": "2026-11-06",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801587846",
+      "title": "George Michael — The Faith Tour",
       "releaseDate": "2026-11-06",
       "genre": "Pop",
       "status": "Already Dropped",
@@ -466,6 +426,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:db8368b9-aa6a-4d67-b46b-713851ce4e53",
+      "title": "The Neighbourhood — Why'd You Have to Leave",
+      "releaseDate": "2026-11-06",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6824666469",
       "title": "The Neighbourhood — Why'd You Have To Leave?",
       "releaseDate": "2026-11-06",
@@ -544,6 +512,22 @@
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:2bea6396-95e0-4428-95c1-992233a7de75",
+      "title": "Baby Smoove — Late Night Special",
+      "releaseDate": "2026-10-22",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "musicbrainz:904e9dfc-43b0-42e9-bb5b-7cc21154a015",
+      "title": "Baby Smoove — Love Need Me",
+      "releaseDate": "2026-10-22",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6818585067",
@@ -770,6 +754,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:e9df70d5-201b-4697-9c2e-6f592902a947",
+      "title": "Gavin Adcock — The Day I Hang It Up",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6798342679",
       "title": "Judas Priest — Sad Wings of Destiny (50th Anniversary Remixed & Remastered)",
       "releaseDate": "2026-10-02",
@@ -898,14 +890,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Thing For You",
-      "releaseDate": "2026-09-28",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:1894015990",
       "title": "Europe — Come This Madness",
       "releaseDate": "2026-09-25",
@@ -938,6 +922,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
+      "title": "Marcus King — Blue",
+      "releaseDate": "2026-09-25",
+      "genre": "Americana",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:1825982048",
       "title": "Billy Idol — Cradle Of Love (R3HAB Remix)",
       "releaseDate": "2026-09-18",
@@ -948,6 +940,14 @@
     {
       "id": "itunes:6775448742",
       "title": "Echo & The Bunnymen — Apples For Isaac",
+      "releaseDate": "2026-09-18",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6775448742",
+      "title": "Echo & The Bunnymen — Can't Be Sold",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
       "status": "Already Dropped",
@@ -1066,8 +1066,24 @@
       "source": "MusicBrainz"
     },
     {
+      "id": "itunes:6801587846",
+      "title": "George Michael — Father Figure (Live in Paris, 1988)",
+      "releaseDate": "2026-09-01",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:6776371718",
       "title": "Bob Marley & The Wailers — Roots, Rock, Reggae (Live At The Hammersmith Odeon, London, UK - June 1976)",
+      "releaseDate": "2026-08-28",
+      "genre": "Reggae",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6776371718",
+      "title": "Bob Marley & The Wailers — Roots, Rock, Reggae (Live At The Hammersmith Odeon, London, UK - June, 1976)",
       "releaseDate": "2026-08-28",
       "genre": "Reggae",
       "status": "Already Dropped",
