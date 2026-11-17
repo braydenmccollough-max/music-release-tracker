@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T23:20:28.320Z",
+  "updatedAt": "2026-11-17T22:09:48.200Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 146,
+    "releaseCount": 137,
     "genres": [
       "Rap",
       "Rock",
@@ -47,6 +47,22 @@
       "releaseDate": "2026-12-11",
       "genre": "Rock",
       "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6832831740",
+      "title": "Queen — Thank God It's Christmas... Again!",
+      "releaseDate": "2026-11-16",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6832831740",
+      "title": "Queen — Thank God It's Christmas... Again! (Radio Edit)",
+      "releaseDate": "2026-11-16",
+      "genre": "Rock",
+      "status": "New",
       "source": "iTunes Search API"
     },
     {
@@ -140,14 +156,6 @@
     {
       "id": "itunes:6832568586",
       "title": "U2 — Torn (feat. Dolly Parton)",
-      "releaseDate": "2026-11-11",
-      "genre": "Alternative",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6832568586",
-      "title": "U2 — Torn (feat. Dolly Parton) [T Bone Burnett Take]",
       "releaseDate": "2026-11-11",
       "genre": "Alternative",
       "status": "New",
@@ -251,14 +259,6 @@
     },
     {
       "id": "itunes:6801587846",
-      "title": "George Michael — I Knew You Were Waiting (For Me) [Live in Paris, 1988]",
-      "releaseDate": "2026-11-06",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801587846",
       "title": "George Michael — I Want Your Sex (Live in Paris, 1988)",
       "releaseDate": "2026-11-06",
       "genre": "Pop",
@@ -268,14 +268,6 @@
     {
       "id": "itunes:6801587846",
       "title": "George Michael — I'm Your Man (Live in Paris, 1988)",
-      "releaseDate": "2026-11-06",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801587846",
-      "title": "George Michael — Monkey (Live in Paris, 1988)",
       "releaseDate": "2026-11-06",
       "genre": "Pop",
       "status": "Already Dropped",
@@ -459,31 +451,7 @@
     },
     {
       "id": "itunes:6792889537",
-      "title": "Queen — Bohemian Rhapsody (Live in Budapest)",
-      "releaseDate": "2026-10-30",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6792889537",
-      "title": "Queen — Under Pressure (Live in Budapest)",
-      "releaseDate": "2026-10-30",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6792889537",
       "title": "Queen — We Are The Champions (Live in Budapest)",
-      "releaseDate": "2026-10-30",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6792889537",
-      "title": "Queen — We Will Rock You (Live in Budapest)",
       "releaseDate": "2026-10-30",
       "genre": "Rock",
       "status": "Already Dropped",
@@ -666,10 +634,10 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:f00cafdb-ce0a-4b02-92cf-32f4a797895c",
-      "title": "Queen — Crazy Little Thing Called Love (live in Budapest)",
+      "id": "musicbrainz:e118b621-fe4c-49a1-a3c4-4ad874dcfd24",
+      "title": "Pitbull — PITCOIN",
       "releaseDate": "2026-10-09",
-      "genre": "Rock",
+      "genre": "Pop",
       "status": "Already Dropped",
       "source": "MusicBrainz"
     },
@@ -752,14 +720,6 @@
       "genre": "Country",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:e9df70d5-201b-4697-9c2e-6f592902a947",
-      "title": "Gavin Adcock — The Day I Hang It Up",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6798342679",
@@ -890,6 +850,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Thing For You",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:1894015990",
       "title": "Europe — Come This Madness",
       "releaseDate": "2026-09-25",
@@ -940,14 +908,6 @@
     {
       "id": "itunes:6775448742",
       "title": "Echo & The Bunnymen — Apples For Isaac",
-      "releaseDate": "2026-09-18",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6775448742",
-      "title": "Echo & The Bunnymen — Can't Be Sold",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
       "status": "Already Dropped",
@@ -1058,14 +1018,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
-      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
-      "releaseDate": "2026-09-04",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6801587846",
       "title": "George Michael — Father Figure (Live in Paris, 1988)",
       "releaseDate": "2026-09-01",
@@ -1076,14 +1028,6 @@
     {
       "id": "itunes:6776371718",
       "title": "Bob Marley & The Wailers — Roots, Rock, Reggae (Live At The Hammersmith Odeon, London, UK - June 1976)",
-      "releaseDate": "2026-08-28",
-      "genre": "Reggae",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6776371718",
-      "title": "Bob Marley & The Wailers — Roots, Rock, Reggae (Live At The Hammersmith Odeon, London, UK - June, 1976)",
       "releaseDate": "2026-08-28",
       "genre": "Reggae",
       "status": "Already Dropped",
@@ -1173,22 +1117,6 @@
       "id": "itunes:6772364953",
       "title": "Weezer — Weezer",
       "releaseDate": "2026-08-21",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6775448742",
-      "title": "Echo & The Bunnymen — The Light That Surrounds You",
-      "releaseDate": "2026-08-18",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6792083077",
-      "title": "Fontaines D.C. — Marianne",
-      "releaseDate": "2026-08-18",
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
