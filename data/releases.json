@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T22:09:48.200Z",
+  "updatedAt": "2026-11-18T21:51:35.232Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 137,
+    "releaseCount": 134,
     "genres": [
       "Rap",
       "Rock",
@@ -162,24 +162,16 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6786070473",
-      "title": "Asia — Arcadia",
-      "releaseDate": "2026-11-06",
-      "genre": "Rock",
-      "status": "Already Dropped",
+      "id": "itunes:6832568586",
+      "title": "U2 — Torn (feat. Dolly Parton) [T Bone Burnett Take]",
+      "releaseDate": "2026-11-11",
+      "genre": "Alternative",
+      "status": "New",
       "source": "iTunes Search API"
     },
     {
       "id": "itunes:6786070473",
       "title": "Asia — Change Of Heart",
-      "releaseDate": "2026-11-06",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6786070473",
-      "title": "Asia — Hymn For The Fallen",
       "releaseDate": "2026-11-06",
       "genre": "Rock",
       "status": "Already Dropped",
@@ -214,14 +206,6 @@
       "title": "Empire Of The Sun — Way To Go (Aaron Hibell Remix)",
       "releaseDate": "2026-11-06",
       "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801587846",
-      "title": "George Michael — A Different Corner (Live in Paris, 1988)",
-      "releaseDate": "2026-11-06",
-      "genre": "Pop",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     },
@@ -418,14 +402,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:db8368b9-aa6a-4d67-b46b-713851ce4e53",
-      "title": "The Neighbourhood — Why'd You Have to Leave",
-      "releaseDate": "2026-11-06",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6824666469",
       "title": "The Neighbourhood — Why'd You Have To Leave?",
       "releaseDate": "2026-11-06",
@@ -480,22 +456,6 @@
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:2bea6396-95e0-4428-95c1-992233a7de75",
-      "title": "Baby Smoove — Late Night Special",
-      "releaseDate": "2026-10-22",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "musicbrainz:904e9dfc-43b0-42e9-bb5b-7cc21154a015",
-      "title": "Baby Smoove — Love Need Me",
-      "releaseDate": "2026-10-22",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6818585067",
@@ -722,6 +682,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:e9df70d5-201b-4697-9c2e-6f592902a947",
+      "title": "Gavin Adcock — The Day I Hang It Up",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6798342679",
       "title": "Judas Priest — Sad Wings of Destiny (50th Anniversary Remixed & Remastered)",
       "releaseDate": "2026-10-02",
@@ -844,14 +812,6 @@
     {
       "id": "itunes:6790547272",
       "title": "Gavin Adcock — Strangers In A Bar",
-      "releaseDate": "2026-09-28",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Thing For You",
       "releaseDate": "2026-09-28",
       "genre": "Country",
       "status": "Already Dropped",
@@ -1018,6 +978,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
+      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
+      "releaseDate": "2026-09-04",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6801587846",
       "title": "George Michael — Father Figure (Live in Paris, 1988)",
       "releaseDate": "2026-09-01",
@@ -1052,6 +1020,14 @@
     {
       "id": "itunes:6770157154",
       "title": "Night Ranger — Best Of",
+      "releaseDate": "2026-08-28",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6770157154",
+      "title": "Night Ranger — Breakout (2026)",
       "releaseDate": "2026-08-28",
       "genre": "Rock",
       "status": "Already Dropped",
