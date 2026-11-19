@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T21:51:35.232Z",
+  "updatedAt": "2026-11-19T22:09:23.001Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 134,
+    "releaseCount": 131,
     "genres": [
       "Rap",
       "Rock",
@@ -64,14 +64,6 @@
       "genre": "Rock",
       "status": "New",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:a805cf88-7b0a-437b-99a4-cfd5d097a01c",
-      "title": "Ella Langley — Here Then We're Gone",
-      "releaseDate": "2026-11-13",
-      "genre": "Country",
-      "status": "New",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6812412381",
@@ -158,15 +150,7 @@
       "title": "U2 — Torn (feat. Dolly Parton)",
       "releaseDate": "2026-11-11",
       "genre": "Alternative",
-      "status": "New",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6832568586",
-      "title": "U2 — Torn (feat. Dolly Parton) [T Bone Burnett Take]",
-      "releaseDate": "2026-11-11",
-      "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -211,6 +195,14 @@
     },
     {
       "id": "itunes:6801587846",
+      "title": "George Michael — A Different Corner (Live in Paris, 1988)",
+      "releaseDate": "2026-11-06",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801587846",
       "title": "George Michael — Careless Whisper (Live in Paris, 1988)",
       "releaseDate": "2026-11-06",
       "genre": "Pop",
@@ -228,14 +220,6 @@
     {
       "id": "itunes:6801587846",
       "title": "George Michael — Faith (Live in Paris, 1988)",
-      "releaseDate": "2026-11-06",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801587846",
-      "title": "George Michael — Freedom Opening (Live in Paris, 1988)",
       "releaseDate": "2026-11-06",
       "genre": "Pop",
       "status": "Already Dropped",
@@ -378,28 +362,20 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6792889537",
-      "title": "Queen — Queen Budapest (Live)",
-      "releaseDate": "2026-11-06",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6821157993",
-      "title": "Rebelution — Real Life (feat. Slug) [Remix]",
-      "releaseDate": "2026-11-06",
-      "genre": "Reggae",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:6821157993",
       "title": "Rebelution — Real Life (Remix) [feat. Slug]",
       "releaseDate": "2026-11-06",
       "genre": "Reggae",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:db8368b9-aa6a-4d67-b46b-713851ce4e53",
+      "title": "The Neighbourhood — Why'd You Have to Leave",
+      "releaseDate": "2026-11-06",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6824666469",
@@ -414,22 +390,6 @@
       "title": "Cage the Elephant — Make It Easy",
       "releaseDate": "2026-11-05",
       "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6831872688",
-      "title": "Future — Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
-      "releaseDate": "2026-11-04",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6792889537",
-      "title": "Queen — We Are The Champions (Live in Budapest)",
-      "releaseDate": "2026-10-30",
-      "genre": "Rock",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     },
@@ -456,6 +416,22 @@
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:2bea6396-95e0-4428-95c1-992233a7de75",
+      "title": "Baby Smoove — Late Night Special",
+      "releaseDate": "2026-10-22",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "musicbrainz:904e9dfc-43b0-42e9-bb5b-7cc21154a015",
+      "title": "Baby Smoove — Love Need Me",
+      "releaseDate": "2026-10-22",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6818585067",
@@ -594,14 +570,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:e118b621-fe4c-49a1-a3c4-4ad874dcfd24",
-      "title": "Pitbull — PITCOIN",
-      "releaseDate": "2026-10-09",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6818617894",
       "title": "Beach Weather — New Aesthetic",
       "releaseDate": "2026-10-08",
@@ -680,14 +648,6 @@
       "genre": "Country",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:e9df70d5-201b-4697-9c2e-6f592902a947",
-      "title": "Gavin Adcock — The Day I Hang It Up",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6798342679",
@@ -818,6 +778,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Thing For You",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:1894015990",
       "title": "Europe — Come This Madness",
       "releaseDate": "2026-09-25",
@@ -848,6 +816,14 @@
       "genre": "Rock",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:ff392700-b455-4cee-ac99-885a67e396e9",
+      "title": "Flatland Cavalry — Cinnamon Sugar (It’s Love)",
+      "releaseDate": "2026-09-25",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
@@ -914,6 +890,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:d191c548-4126-4eb1-89f7-677000f21f11",
+      "title": "Drake — FEAR OF MISSING OUT",
+      "releaseDate": "2026-09-15",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6773766930",
       "title": "Nicholas Jamerson — Be Strong",
       "releaseDate": "2026-09-11",
@@ -978,10 +962,10 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
-      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
+      "id": "musicbrainz:89db81af-f966-47e6-8b0a-1b20d6873a55",
+      "title": "Flatland Cavalry — Strangers & Angels",
       "releaseDate": "2026-09-04",
-      "genre": "Pop",
+      "genre": "Country",
       "status": "Already Dropped",
       "source": "MusicBrainz"
     },
@@ -1020,14 +1004,6 @@
     {
       "id": "itunes:6770157154",
       "title": "Night Ranger — Best Of",
-      "releaseDate": "2026-08-28",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6770157154",
-      "title": "Night Ranger — Breakout (2026)",
       "releaseDate": "2026-08-28",
       "genre": "Rock",
       "status": "Already Dropped",
