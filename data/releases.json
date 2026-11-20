@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T22:09:23.001Z",
+  "updatedAt": "2026-11-20T21:51:30.707Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 131,
+    "releaseCount": 125,
     "genres": [
       "Rap",
       "Rock",
@@ -50,6 +50,22 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6835250277",
+      "title": "Empire Of The Sun — Way To Go (Kolter Remix)",
+      "releaseDate": "2026-11-20",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6835250277",
+      "title": "Empire Of The Sun — Way To Go (Kolter's Tripped Out Mix)",
+      "releaseDate": "2026-11-20",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:6832831740",
       "title": "Queen — Thank God It's Christmas... Again!",
       "releaseDate": "2026-11-16",
@@ -74,14 +90,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:4d1de2e6-1f81-40bd-ad60-cc44c74844b1",
-      "title": "Vincent Mason — Something to Lose (live acoustic)",
-      "releaseDate": "2026-11-13",
-      "genre": "Country",
-      "status": "New",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6781405825",
       "title": "Waylon Jennings — Diamonds",
       "releaseDate": "2026-11-13",
@@ -94,7 +102,7 @@
       "title": "U2 — Can’t Stop Us Now",
       "releaseDate": "2026-11-12",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -102,7 +110,7 @@
       "title": "U2 — Glorify",
       "releaseDate": "2026-11-12",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -110,7 +118,7 @@
       "title": "U2 — Go (Carnaval De Luz)",
       "releaseDate": "2026-11-12",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -118,7 +126,7 @@
       "title": "U2 — If The World Is At War We Better Not Be",
       "releaseDate": "2026-11-12",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -126,7 +134,7 @@
       "title": "U2 — La Reina",
       "releaseDate": "2026-11-12",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -134,7 +142,7 @@
       "title": "U2 — Midnight Sunshine",
       "releaseDate": "2026-11-12",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -142,7 +150,15 @@
       "title": "U2 — Superficiality",
       "releaseDate": "2026-11-12",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6812412381",
+      "title": "U2 — Torn (feat. Dolly Parton)",
+      "releaseDate": "2026-11-12",
+      "genre": "Alternative",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -362,20 +378,20 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6792889537",
+      "title": "Queen — Queen Budapest (Live)",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:6821157993",
       "title": "Rebelution — Real Life (Remix) [feat. Slug]",
       "releaseDate": "2026-11-06",
       "genre": "Reggae",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:db8368b9-aa6a-4d67-b46b-713851ce4e53",
-      "title": "The Neighbourhood — Why'd You Have to Leave",
-      "releaseDate": "2026-11-06",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6824666469",
@@ -416,22 +432,6 @@
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:2bea6396-95e0-4428-95c1-992233a7de75",
-      "title": "Baby Smoove — Late Night Special",
-      "releaseDate": "2026-10-22",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "musicbrainz:904e9dfc-43b0-42e9-bb5b-7cc21154a015",
-      "title": "Baby Smoove — Love Need Me",
-      "releaseDate": "2026-10-22",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6818585067",
@@ -818,14 +818,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:ff392700-b455-4cee-ac99-885a67e396e9",
-      "title": "Flatland Cavalry — Cinnamon Sugar (It’s Love)",
-      "releaseDate": "2026-09-25",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
       "title": "Marcus King — Blue",
       "releaseDate": "2026-09-25",
@@ -962,14 +954,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:89db81af-f966-47e6-8b0a-1b20d6873a55",
-      "title": "Flatland Cavalry — Strangers & Angels",
-      "releaseDate": "2026-09-04",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6801587846",
       "title": "George Michael — Father Figure (Live in Paris, 1988)",
       "releaseDate": "2026-09-01",
@@ -1037,38 +1021,6 @@
       "id": "itunes:6794550717",
       "title": "U2 — Yeah, Yeah, Yeah, Yeah, Yeah",
       "releaseDate": "2026-08-28",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1895813257",
-      "title": "David Allan Coe — Mary Magdeline",
-      "releaseDate": "2026-08-21",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:1895813257",
-      "title": "David Allan Coe — Texas Moon (Deluxe Edition)",
-      "releaseDate": "2026-08-21",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6772364953",
-      "title": "Weezer — Say Yes",
-      "releaseDate": "2026-08-21",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6772364953",
-      "title": "Weezer — Weezer",
-      "releaseDate": "2026-08-21",
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
