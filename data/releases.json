@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T21:51:30.707Z",
+  "updatedAt": "2026-11-21T20:27:23.757Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 125,
+    "releaseCount": 127,
     "genres": [
       "Rap",
       "Rock",
@@ -82,19 +82,35 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:a805cf88-7b0a-437b-99a4-cfd5d097a01c",
+      "title": "Ella Langley — Here Then We're Gone",
+      "releaseDate": "2026-11-13",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6812412381",
       "title": "U2 — The Mirror Maker (Rosalía)",
       "releaseDate": "2026-11-13",
       "genre": "Alternative",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:4d1de2e6-1f81-40bd-ad60-cc44c74844b1",
+      "title": "Vincent Mason — Something to Lose (live acoustic)",
+      "releaseDate": "2026-11-13",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6781405825",
       "title": "Waylon Jennings — Diamonds",
       "releaseDate": "2026-11-13",
       "genre": "Country",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -570,6 +586,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:e118b621-fe4c-49a1-a3c4-4ad874dcfd24",
+      "title": "Pitbull — PITCOIN",
+      "releaseDate": "2026-10-09",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6818617894",
       "title": "Beach Weather — New Aesthetic",
       "releaseDate": "2026-10-08",
@@ -818,14 +842,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
-      "title": "Marcus King — Blue",
-      "releaseDate": "2026-09-25",
-      "genre": "Americana",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:1825982048",
       "title": "Billy Idol — Cradle Of Love (R3HAB Remix)",
       "releaseDate": "2026-09-18",
@@ -880,14 +896,6 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:d191c548-4126-4eb1-89f7-677000f21f11",
-      "title": "Drake — FEAR OF MISSING OUT",
-      "releaseDate": "2026-09-15",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6773766930",
@@ -952,6 +960,14 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
+      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
+      "releaseDate": "2026-09-04",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6801587846",
