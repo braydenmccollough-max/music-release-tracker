@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T20:27:23.757Z",
+  "updatedAt": "2026-11-22T20:45:40.052Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 127,
+    "releaseCount": 126,
     "genres": [
       "Rap",
       "Rock",
@@ -96,14 +96,6 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:4d1de2e6-1f81-40bd-ad60-cc44c74844b1",
-      "title": "Vincent Mason — Something to Lose (live acoustic)",
-      "releaseDate": "2026-11-13",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6781405825",
@@ -227,14 +219,6 @@
     },
     {
       "id": "itunes:6801587846",
-      "title": "George Michael — A Different Corner (Live in Paris, 1988)",
-      "releaseDate": "2026-11-06",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801587846",
       "title": "George Michael — Careless Whisper (Live in Paris, 1988)",
       "releaseDate": "2026-11-06",
       "genre": "Pop",
@@ -259,6 +243,14 @@
     },
     {
       "id": "itunes:6801587846",
+      "title": "George Michael — Freedom Opening (Live in Paris, 1988)",
+      "releaseDate": "2026-11-06",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6801587846",
       "title": "George Michael — I Want Your Sex (Live in Paris, 1988)",
       "releaseDate": "2026-11-06",
       "genre": "Pop",
@@ -268,14 +260,6 @@
     {
       "id": "itunes:6801587846",
       "title": "George Michael — I'm Your Man (Live in Paris, 1988)",
-      "releaseDate": "2026-11-06",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801587846",
-      "title": "George Michael — One More Try (Live in Paris, 1988)",
       "releaseDate": "2026-11-06",
       "genre": "Pop",
       "status": "Already Dropped",
@@ -390,14 +374,6 @@
       "title": "Nicholas Jamerson — You're So Good To Me",
       "releaseDate": "2026-11-06",
       "genre": "Americana",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6792889537",
-      "title": "Queen — Queen Budapest (Live)",
-      "releaseDate": "2026-11-06",
-      "genre": "Rock",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     },
@@ -562,6 +538,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:6aceb90a-ecfc-491f-a706-13d8c7a51ae8",
+      "title": "Zach Bryan — Young Manhood and Other Donatable Organs",
+      "releaseDate": "2026-10-16",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6822478641",
       "title": "Gucci Mane — Against All Odds",
       "releaseDate": "2026-10-15",
@@ -586,10 +570,10 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:e118b621-fe4c-49a1-a3c4-4ad874dcfd24",
-      "title": "Pitbull — PITCOIN",
+      "id": "musicbrainz:f00cafdb-ce0a-4b02-92cf-32f4a797895c",
+      "title": "Queen — Crazy Little Thing Called Love (live in Budapest)",
       "releaseDate": "2026-10-09",
-      "genre": "Pop",
+      "genre": "Rock",
       "status": "Already Dropped",
       "source": "MusicBrainz"
     },
@@ -842,6 +826,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:ff392700-b455-4cee-ac99-885a67e396e9",
+      "title": "Flatland Cavalry — Cinnamon Sugar (It’s Love)",
+      "releaseDate": "2026-09-25",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:1825982048",
       "title": "Billy Idol — Cradle Of Love (R3HAB Remix)",
       "releaseDate": "2026-09-18",
@@ -962,10 +954,10 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
-      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
+      "id": "musicbrainz:89db81af-f966-47e6-8b0a-1b20d6873a55",
+      "title": "Flatland Cavalry — Strangers & Angels",
       "releaseDate": "2026-09-04",
-      "genre": "Pop",
+      "genre": "Country",
       "status": "Already Dropped",
       "source": "MusicBrainz"
     },
