@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T20:45:40.052Z",
+  "updatedAt": "2026-11-24T01:36:37.138Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 126,
+    "releaseCount": 133,
     "genres": [
       "Rap",
       "Rock",
@@ -66,11 +66,19 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6829855293",
+      "title": "Stereophonics — Maybe Tomorrow",
+      "releaseDate": "2026-11-20",
+      "genre": "Alternative",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:6832831740",
       "title": "Queen — Thank God It's Christmas... Again!",
       "releaseDate": "2026-11-16",
       "genre": "Rock",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -78,7 +86,7 @@
       "title": "Queen — Thank God It's Christmas... Again! (Radio Edit)",
       "releaseDate": "2026-11-16",
       "genre": "Rock",
-      "status": "New",
+      "status": "Already Dropped",
       "source": "iTunes Search API"
     },
     {
@@ -179,14 +187,6 @@
     },
     {
       "id": "itunes:6786070473",
-      "title": "Asia — Change Of Heart",
-      "releaseDate": "2026-11-06",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6786070473",
       "title": "Asia — Indigo",
       "releaseDate": "2026-11-06",
       "genre": "Rock",
@@ -252,14 +252,6 @@
     {
       "id": "itunes:6801587846",
       "title": "George Michael — I Want Your Sex (Live in Paris, 1988)",
-      "releaseDate": "2026-11-06",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6801587846",
-      "title": "George Michael — I'm Your Man (Live in Paris, 1988)",
       "releaseDate": "2026-11-06",
       "genre": "Pop",
       "status": "Already Dropped",
@@ -378,6 +370,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6792889537",
+      "title": "Queen — Queen Budapest (Live)",
+      "releaseDate": "2026-11-06",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:6821157993",
       "title": "Rebelution — Real Life (Remix) [feat. Slug]",
       "releaseDate": "2026-11-06",
@@ -398,6 +398,30 @@
       "title": "Cage the Elephant — Make It Easy",
       "releaseDate": "2026-11-05",
       "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — Another One Bites The Dust (Live in Budapest)",
+      "releaseDate": "2026-10-30",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — Bohemian Rhapsody (Live in Budapest)",
+      "releaseDate": "2026-10-30",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — We Are The Champions (Live in Budapest)",
+      "releaseDate": "2026-10-30",
+      "genre": "Rock",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     },
@@ -424,6 +448,22 @@
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:2bea6396-95e0-4428-95c1-992233a7de75",
+      "title": "Baby Smoove — Late Night Special",
+      "releaseDate": "2026-10-22",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "musicbrainz:904e9dfc-43b0-42e9-bb5b-7cc21154a015",
+      "title": "Baby Smoove — Love Need Me",
+      "releaseDate": "2026-10-22",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6818585067",
@@ -538,14 +578,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:6aceb90a-ecfc-491f-a706-13d8c7a51ae8",
-      "title": "Zach Bryan — Young Manhood and Other Donatable Organs",
-      "releaseDate": "2026-10-16",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6822478641",
       "title": "Gucci Mane — Against All Odds",
       "releaseDate": "2026-10-15",
@@ -570,10 +602,10 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:f00cafdb-ce0a-4b02-92cf-32f4a797895c",
-      "title": "Queen — Crazy Little Thing Called Love (live in Budapest)",
+      "id": "musicbrainz:e118b621-fe4c-49a1-a3c4-4ad874dcfd24",
+      "title": "Pitbull — PITCOIN",
       "releaseDate": "2026-10-09",
-      "genre": "Rock",
+      "genre": "Pop",
       "status": "Already Dropped",
       "source": "MusicBrainz"
     },
@@ -834,6 +866,14 @@
       "source": "MusicBrainz"
     },
     {
+      "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
+      "title": "Marcus King — Blue",
+      "releaseDate": "2026-09-25",
+      "genre": "Americana",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:1825982048",
       "title": "Billy Idol — Cradle Of Love (R3HAB Remix)",
       "releaseDate": "2026-09-18",
@@ -844,6 +884,14 @@
     {
       "id": "itunes:6775448742",
       "title": "Echo & The Bunnymen — Apples For Isaac",
+      "releaseDate": "2026-09-18",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6775448742",
+      "title": "Echo & The Bunnymen — Can't Be Sold",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
       "status": "Already Dropped",
@@ -958,6 +1006,14 @@
       "title": "Flatland Cavalry — Strangers & Angels",
       "releaseDate": "2026-09-04",
       "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
+      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
+      "releaseDate": "2026-09-04",
+      "genre": "Pop",
       "status": "Already Dropped",
       "source": "MusicBrainz"
     },
