@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T01:36:37.138Z",
+  "updatedAt": "2026-11-24T23:33:35.171Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 133,
+    "releaseCount": 130,
     "genres": [
       "Rap",
       "Rock",
@@ -104,6 +104,14 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:4d1de2e6-1f81-40bd-ad60-cc44c74844b1",
+      "title": "Vincent Mason — Something to Lose (live acoustic)",
+      "releaseDate": "2026-11-13",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6781405825",
@@ -243,7 +251,7 @@
     },
     {
       "id": "itunes:6801587846",
-      "title": "George Michael — Freedom Opening (Live in Paris, 1988)",
+      "title": "George Michael — I Want Your Sex (Live in Paris, 1988)",
       "releaseDate": "2026-11-06",
       "genre": "Pop",
       "status": "Already Dropped",
@@ -251,7 +259,7 @@
     },
     {
       "id": "itunes:6801587846",
-      "title": "George Michael — I Want Your Sex (Live in Paris, 1988)",
+      "title": "George Michael — I'm Your Man (Live in Paris, 1988)",
       "releaseDate": "2026-11-06",
       "genre": "Pop",
       "status": "Already Dropped",
@@ -386,6 +394,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:db8368b9-aa6a-4d67-b46b-713851ce4e53",
+      "title": "The Neighbourhood — Why'd You Have to Leave",
+      "releaseDate": "2026-11-06",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6824666469",
       "title": "The Neighbourhood — Why'd You Have To Leave?",
       "releaseDate": "2026-11-06",
@@ -398,30 +414,6 @@
       "title": "Cage the Elephant — Make It Easy",
       "releaseDate": "2026-11-05",
       "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6792889537",
-      "title": "Queen — Another One Bites The Dust (Live in Budapest)",
-      "releaseDate": "2026-10-30",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6792889537",
-      "title": "Queen — Bohemian Rhapsody (Live in Budapest)",
-      "releaseDate": "2026-10-30",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6792889537",
-      "title": "Queen — We Are The Champions (Live in Budapest)",
-      "releaseDate": "2026-10-30",
-      "genre": "Rock",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     },
@@ -484,6 +476,14 @@
     {
       "id": "itunes:6802463557",
       "title": "David Allan Coe — Roll Me a Smoke",
+      "releaseDate": "2026-10-16",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6802463557",
+      "title": "David Allan Coe — Single Father",
       "releaseDate": "2026-10-16",
       "genre": "Country",
       "status": "Already Dropped",
@@ -602,14 +602,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:e118b621-fe4c-49a1-a3c4-4ad874dcfd24",
-      "title": "Pitbull — PITCOIN",
-      "releaseDate": "2026-10-09",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6818617894",
       "title": "Beach Weather — New Aesthetic",
       "releaseDate": "2026-10-08",
@@ -690,6 +682,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:e9df70d5-201b-4697-9c2e-6f592902a947",
+      "title": "Gavin Adcock — The Day I Hang It Up",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6798342679",
       "title": "Judas Priest — Sad Wings of Destiny (50th Anniversary Remixed & Remastered)",
       "releaseDate": "2026-10-02",
@@ -728,6 +728,14 @@
       "genre": "Rap",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:cf0219bf-6d35-4663-a8e2-78ab05ff2645",
+      "title": "Gavin Adcock — Us Again",
+      "releaseDate": "2026-10-01",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6790547272",
@@ -804,22 +812,6 @@
     {
       "id": "itunes:6819413731",
       "title": "Gavin Adcock — Most Wanted",
-      "releaseDate": "2026-09-28",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Strangers In A Bar",
-      "releaseDate": "2026-09-28",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Thing For You",
       "releaseDate": "2026-09-28",
       "genre": "Country",
       "status": "Already Dropped",
@@ -1000,22 +992,6 @@
       "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:89db81af-f966-47e6-8b0a-1b20d6873a55",
-      "title": "Flatland Cavalry — Strangers & Angels",
-      "releaseDate": "2026-09-04",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
-      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
-      "releaseDate": "2026-09-04",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6801587846",
