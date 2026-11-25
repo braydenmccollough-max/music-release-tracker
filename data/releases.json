@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T23:33:35.171Z",
+  "updatedAt": "2026-11-25T23:08:40.806Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 130,
+    "releaseCount": 126,
     "genres": [
       "Rap",
       "Rock",
@@ -25,6 +25,14 @@
     ]
   },
   "releases": [
+    {
+      "id": "itunes:6834066368",
+      "title": "UB40 — Unstoppable",
+      "releaseDate": "2027-04-23",
+      "genre": "Reggae",
+      "status": "Upcoming",
+      "source": "iTunes Search API"
+    },
     {
       "id": "itunes:6826286794",
       "title": "Cage the Elephant — Dying In Reverse",
@@ -88,14 +96,6 @@
       "genre": "Rock",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:a805cf88-7b0a-437b-99a4-cfd5d097a01c",
-      "title": "Ella Langley — Here Then We're Gone",
-      "releaseDate": "2026-11-13",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6812412381",
@@ -163,23 +163,7 @@
     },
     {
       "id": "itunes:6812412381",
-      "title": "U2 — Midnight Sunshine",
-      "releaseDate": "2026-11-12",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6812412381",
       "title": "U2 — Superficiality",
-      "releaseDate": "2026-11-12",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6812412381",
-      "title": "U2 — Torn (feat. Dolly Parton)",
       "releaseDate": "2026-11-12",
       "genre": "Alternative",
       "status": "Already Dropped",
@@ -259,7 +243,7 @@
     },
     {
       "id": "itunes:6801587846",
-      "title": "George Michael — I'm Your Man (Live in Paris, 1988)",
+      "title": "George Michael — Monkey (Live in Paris, 1988)",
       "releaseDate": "2026-11-06",
       "genre": "Pop",
       "status": "Already Dropped",
@@ -442,22 +426,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:2bea6396-95e0-4428-95c1-992233a7de75",
-      "title": "Baby Smoove — Late Night Special",
-      "releaseDate": "2026-10-22",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "musicbrainz:904e9dfc-43b0-42e9-bb5b-7cc21154a015",
-      "title": "Baby Smoove — Love Need Me",
-      "releaseDate": "2026-10-22",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6818585067",
       "title": "Big Mountain — Vodoo",
       "releaseDate": "2026-10-16",
@@ -602,6 +570,22 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:e118b621-fe4c-49a1-a3c4-4ad874dcfd24",
+      "title": "Pitbull — PITCOIN",
+      "releaseDate": "2026-10-09",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "musicbrainz:f00cafdb-ce0a-4b02-92cf-32f4a797895c",
+      "title": "Queen — Crazy Little Thing Called Love (live in Budapest)",
+      "releaseDate": "2026-10-09",
+      "genre": "Rock",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6818617894",
       "title": "Beach Weather — New Aesthetic",
       "releaseDate": "2026-10-08",
@@ -682,14 +666,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:e9df70d5-201b-4697-9c2e-6f592902a947",
-      "title": "Gavin Adcock — The Day I Hang It Up",
-      "releaseDate": "2026-10-02",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "itunes:6798342679",
       "title": "Judas Priest — Sad Wings of Destiny (50th Anniversary Remixed & Remastered)",
       "releaseDate": "2026-10-02",
@@ -728,14 +704,6 @@
       "genre": "Rap",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:cf0219bf-6d35-4663-a8e2-78ab05ff2645",
-      "title": "Gavin Adcock — Us Again",
-      "releaseDate": "2026-10-01",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6790547272",
@@ -818,6 +786,22 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Strangers In A Bar",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6790547272",
+      "title": "Gavin Adcock — Thing For You",
+      "releaseDate": "2026-09-28",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:1894015990",
       "title": "Europe — Come This Madness",
       "releaseDate": "2026-09-25",
@@ -850,14 +834,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:ff392700-b455-4cee-ac99-885a67e396e9",
-      "title": "Flatland Cavalry — Cinnamon Sugar (It’s Love)",
-      "releaseDate": "2026-09-25",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
       "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
       "title": "Marcus King — Blue",
       "releaseDate": "2026-09-25",
@@ -876,14 +852,6 @@
     {
       "id": "itunes:6775448742",
       "title": "Echo & The Bunnymen — Apples For Isaac",
-      "releaseDate": "2026-09-18",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6775448742",
-      "title": "Echo & The Bunnymen — Can't Be Sold",
       "releaseDate": "2026-09-18",
       "genre": "Alternative",
       "status": "Already Dropped",
@@ -994,12 +962,12 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6801587846",
-      "title": "George Michael — Father Figure (Live in Paris, 1988)",
-      "releaseDate": "2026-09-01",
+      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
+      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
+      "releaseDate": "2026-09-04",
       "genre": "Pop",
       "status": "Already Dropped",
-      "source": "iTunes Search API"
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6776371718",
