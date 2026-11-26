@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T23:08:40.806Z",
+  "updatedAt": "2026-11-26T22:55:47.622Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 126,
+    "releaseCount": 128,
     "genres": [
       "Rap",
       "Rock",
@@ -58,6 +58,22 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6834062895",
+      "title": "Bush — non ci pensare",
+      "releaseDate": "2026-11-26",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:3e9ce240-ab4c-4267-a343-dce37db0417f",
+      "title": "Billy Joel — Summer, Highland Falls (alternate acoustic version)",
+      "releaseDate": "2026-11-20",
+      "genre": "Rock",
+      "status": "New",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6835250277",
       "title": "Empire Of The Sun — Way To Go (Kolter Remix)",
       "releaseDate": "2026-11-20",
@@ -74,28 +90,20 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6829855293",
-      "title": "Stereophonics — Maybe Tomorrow",
-      "releaseDate": "2026-11-20",
-      "genre": "Alternative",
-      "status": "New",
-      "source": "iTunes Search API"
+      "id": "musicbrainz:a805cf88-7b0a-437b-99a4-cfd5d097a01c",
+      "title": "Ella Langley — Here Then We're Gone",
+      "releaseDate": "2026-11-13",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
-      "id": "itunes:6832831740",
-      "title": "Queen — Thank God It's Christmas... Again!",
-      "releaseDate": "2026-11-16",
-      "genre": "Rock",
+      "id": "musicbrainz:83563aa0-19fa-4737-ae1f-ce42566cd604",
+      "title": "Polo G — Dope Spot",
+      "releaseDate": "2026-11-13",
+      "genre": "Rap",
       "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6832831740",
-      "title": "Queen — Thank God It's Christmas... Again! (Radio Edit)",
-      "releaseDate": "2026-11-16",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6812412381",
@@ -156,6 +164,14 @@
     {
       "id": "itunes:6812412381",
       "title": "U2 — La Reina",
+      "releaseDate": "2026-11-12",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6812412381",
+      "title": "U2 — Midnight Sunshine",
       "releaseDate": "2026-11-12",
       "genre": "Alternative",
       "status": "Already Dropped",
@@ -362,28 +378,12 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6792889537",
-      "title": "Queen — Queen Budapest (Live)",
-      "releaseDate": "2026-11-06",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:6821157993",
       "title": "Rebelution — Real Life (Remix) [feat. Slug]",
       "releaseDate": "2026-11-06",
       "genre": "Reggae",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:db8368b9-aa6a-4d67-b46b-713851ce4e53",
-      "title": "The Neighbourhood — Why'd You Have to Leave",
-      "releaseDate": "2026-11-06",
-      "genre": "Alternative",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6824666469",
@@ -398,6 +398,14 @@
       "title": "Cage the Elephant — Make It Easy",
       "releaseDate": "2026-11-05",
       "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6792889537",
+      "title": "Queen — Under Pressure (Live in Budapest)",
+      "releaseDate": "2026-10-30",
+      "genre": "Rock",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     },
@@ -426,6 +434,22 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:2bea6396-95e0-4428-95c1-992233a7de75",
+      "title": "Baby Smoove — Late Night Special",
+      "releaseDate": "2026-10-22",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
+      "id": "musicbrainz:904e9dfc-43b0-42e9-bb5b-7cc21154a015",
+      "title": "Baby Smoove — Love Need Me",
+      "releaseDate": "2026-10-22",
+      "genre": "Rap",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6818585067",
       "title": "Big Mountain — Vodoo",
       "releaseDate": "2026-10-16",
@@ -444,14 +468,6 @@
     {
       "id": "itunes:6802463557",
       "title": "David Allan Coe — Roll Me a Smoke",
-      "releaseDate": "2026-10-16",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6802463557",
-      "title": "David Allan Coe — Single Father",
       "releaseDate": "2026-10-16",
       "genre": "Country",
       "status": "Already Dropped",
@@ -568,14 +584,6 @@
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:e118b621-fe4c-49a1-a3c4-4ad874dcfd24",
-      "title": "Pitbull — PITCOIN",
-      "releaseDate": "2026-10-09",
-      "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "musicbrainz:f00cafdb-ce0a-4b02-92cf-32f4a797895c",
@@ -832,6 +840,14 @@
       "genre": "Rock",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:ff392700-b455-4cee-ac99-885a67e396e9",
+      "title": "Flatland Cavalry — Cinnamon Sugar (It’s Love)",
+      "releaseDate": "2026-09-25",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
