@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T22:55:47.622Z",
+  "updatedAt": "2026-11-27T22:41:46.335Z",
   "settings": {
     "dataSources": [
       "iTunes Search API",
@@ -9,7 +9,7 @@
     "lookBackDays": 90,
     "lookAheadDays": 365,
     "trackedArtistCount": 152,
-    "releaseCount": 128,
+    "releaseCount": 123,
     "genres": [
       "Rap",
       "Rock",
@@ -58,6 +58,46 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "itunes:6835969610",
+      "title": "Billy Joel — Auld Lang Syne (Live at Madison Square Garden, New York, NY, Dec 31, 1982)",
+      "releaseDate": "2026-11-27",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6835969610",
+      "title": "Billy Joel — Have Yourself A Merry Little Christmas (Live at Madison Square Garden, New York, NY December 20, 2021)",
+      "releaseDate": "2026-11-27",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6835969610",
+      "title": "Billy Joel — Holidays",
+      "releaseDate": "2026-11-27",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6835969610",
+      "title": "Billy Joel — She's Right On Time (Live at Madison Square Garden, New York, NY, Dec 20, 2021)",
+      "releaseDate": "2026-11-27",
+      "genre": "Rock",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
+      "id": "itunes:6839234799",
+      "title": "Jennifer Lopez — Proof of Love",
+      "releaseDate": "2026-11-27",
+      "genre": "Pop",
+      "status": "New",
+      "source": "iTunes Search API"
+    },
+    {
       "id": "itunes:6834062895",
       "title": "Bush — non ci pensare",
       "releaseDate": "2026-11-26",
@@ -88,14 +128,6 @@
       "genre": "Alternative",
       "status": "New",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:a805cf88-7b0a-437b-99a4-cfd5d097a01c",
-      "title": "Ella Langley — Here Then We're Gone",
-      "releaseDate": "2026-11-13",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "musicbrainz:83563aa0-19fa-4737-ae1f-ce42566cd604",
@@ -259,7 +291,7 @@
     },
     {
       "id": "itunes:6801587846",
-      "title": "George Michael — Monkey (Live in Paris, 1988)",
+      "title": "George Michael — I'm Your Man (Live in Paris, 1988)",
       "releaseDate": "2026-11-06",
       "genre": "Pop",
       "status": "Already Dropped",
@@ -386,6 +418,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:db8368b9-aa6a-4d67-b46b-713851ce4e53",
+      "title": "The Neighbourhood — Why'd You Have to Leave",
+      "releaseDate": "2026-11-06",
+      "genre": "Alternative",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6824666469",
       "title": "The Neighbourhood — Why'd You Have To Leave?",
       "releaseDate": "2026-11-06",
@@ -432,22 +472,6 @@
       "genre": "Americana",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:2bea6396-95e0-4428-95c1-992233a7de75",
-      "title": "Baby Smoove — Late Night Special",
-      "releaseDate": "2026-10-22",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "musicbrainz:904e9dfc-43b0-42e9-bb5b-7cc21154a015",
-      "title": "Baby Smoove — Love Need Me",
-      "releaseDate": "2026-10-22",
-      "genre": "Rap",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6818585067",
@@ -586,6 +610,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:e118b621-fe4c-49a1-a3c4-4ad874dcfd24",
+      "title": "Pitbull — PITCOIN",
+      "releaseDate": "2026-10-09",
+      "genre": "Pop",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "musicbrainz:f00cafdb-ce0a-4b02-92cf-32f4a797895c",
       "title": "Queen — Crazy Little Thing Called Love (live in Budapest)",
       "releaseDate": "2026-10-09",
@@ -674,6 +706,14 @@
       "source": "iTunes Search API"
     },
     {
+      "id": "musicbrainz:e9df70d5-201b-4697-9c2e-6f592902a947",
+      "title": "Gavin Adcock — The Day I Hang It Up",
+      "releaseDate": "2026-10-02",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
+    },
+    {
       "id": "itunes:6798342679",
       "title": "Judas Priest — Sad Wings of Destiny (50th Anniversary Remixed & Remastered)",
       "releaseDate": "2026-10-02",
@@ -712,6 +752,14 @@
       "genre": "Rap",
       "status": "Already Dropped",
       "source": "iTunes Search API"
+    },
+    {
+      "id": "musicbrainz:cf0219bf-6d35-4663-a8e2-78ab05ff2645",
+      "title": "Gavin Adcock — Us Again",
+      "releaseDate": "2026-10-01",
+      "genre": "Country",
+      "status": "Already Dropped",
+      "source": "MusicBrainz"
     },
     {
       "id": "itunes:6790547272",
@@ -794,22 +842,6 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Strangers In A Bar",
-      "releaseDate": "2026-09-28",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6790547272",
-      "title": "Gavin Adcock — Thing For You",
-      "releaseDate": "2026-09-28",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
       "id": "itunes:1894015990",
       "title": "Europe — Come This Madness",
       "releaseDate": "2026-09-25",
@@ -840,14 +872,6 @@
       "genre": "Rock",
       "status": "Already Dropped",
       "source": "iTunes Search API"
-    },
-    {
-      "id": "musicbrainz:ff392700-b455-4cee-ac99-885a67e396e9",
-      "title": "Flatland Cavalry — Cinnamon Sugar (It’s Love)",
-      "releaseDate": "2026-09-25",
-      "genre": "Country",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
     },
     {
       "id": "musicbrainz:0a5b790d-e2be-4397-b822-d7ca8117eae3",
@@ -978,74 +1002,10 @@
       "source": "iTunes Search API"
     },
     {
-      "id": "musicbrainz:c81b2ead-2d0a-4eb7-8fea-2c1ae354d03b",
-      "title": "Gotye — Somebody That I Used to Know (ARTBAT x David Guetta mix)",
-      "releaseDate": "2026-09-04",
+      "id": "itunes:6801587846",
+      "title": "George Michael — Father Figure (Live in Paris, 1988)",
+      "releaseDate": "2026-09-01",
       "genre": "Pop",
-      "status": "Already Dropped",
-      "source": "MusicBrainz"
-    },
-    {
-      "id": "itunes:6776371718",
-      "title": "Bob Marley & The Wailers — Roots, Rock, Reggae (Live At The Hammersmith Odeon, London, UK - June 1976)",
-      "releaseDate": "2026-08-28",
-      "genre": "Reggae",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6803169033",
-      "title": "Marilyn Manson — You Can't Die Young",
-      "releaseDate": "2026-08-28",
-      "genre": "Metal",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6770157154",
-      "title": "Night Ranger — (You Can Still) Rock in America (2026)",
-      "releaseDate": "2026-08-28",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6770157154",
-      "title": "Night Ranger — Best Of",
-      "releaseDate": "2026-08-28",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6770157154",
-      "title": "Night Ranger — Don't Tell Me You Love Me (2026)",
-      "releaseDate": "2026-08-28",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6770157154",
-      "title": "Night Ranger — Sister Christian (2026)",
-      "releaseDate": "2026-08-28",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6770157154",
-      "title": "Night Ranger — When You Close Your Eyes (2026)",
-      "releaseDate": "2026-08-28",
-      "genre": "Rock",
-      "status": "Already Dropped",
-      "source": "iTunes Search API"
-    },
-    {
-      "id": "itunes:6794550717",
-      "title": "U2 — Yeah, Yeah, Yeah, Yeah, Yeah",
-      "releaseDate": "2026-08-28",
-      "genre": "Alternative",
       "status": "Already Dropped",
       "source": "iTunes Search API"
     }
